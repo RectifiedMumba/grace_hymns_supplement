@@ -281,36 +281,54 @@ class _HomeState extends State<Home> {
       ]),
     Song(title: "Central's Never \"Busy\"", author: "F.M. Lehman",
       verses: [
-          Verse(isChorus: false, lines: "Central’s never “Busy,” always on the line,
-  You may hear from heaven, almost any time;
-  ‘Tis a royal service, free for one and all,
-  When you get in trouble, give this royal line a call."),
-          Verse(isChorus: true, Telephone to glory, O what joy divine!
-  I can feel the current moving on the line,
-  Built by God the Father, for His
-  loved and own,
-  We may talk to Jesus, thru this
-  royal telephone. )),
-          Verse(isChorus: false, lines: "There will be no charges, telephone is free,
-  It was built for service, just for you and me;
-  There will be no waiting, on this royal line,
-  Telephone to glory, always answers just in time."),
-          Verse(isChorus: false, lines: "Fail to get the answer; Satan’s crossed your wire,
-  By some strong delusion, or some base desire;
-  Take away obstructions; God is on the throne,
-  And you’ll get an answer, thru this royal telephone.),
-  ),
-          Verse(isChorus: false, lines: "If your line is “Grounded,” and connection true,
-  Has been lost with Jesus, tell you what to do;
-  Prayer and faith and promise, mend the broken
-  wire,
-  Till your soul is burning, with the pentecostal fire."),
-          Verse(isChorus: false, "Carnal combinations, cannot get control,
-  Of this line to glory, anchored in the soul;
-  Storm and trial cannot, disconnect the line,
-  Held in constant keeping by the Father’s hand
-  divine.")
-      ])
+          Verse(isChorus: false, lines: "Central’s never \“Busy,\” always on the line,\nYou may hear from heaven, almost any time;\n"
+          "‘Tis a royal service, free for one and all,\nWhen you get in trouble, give this royal line a call."),
+          Verse(isChorus: true, lines: "Telephone to glory, O what joy divine!\nI can feel the current moving on the line,\n"
+          "Built by God the Father, for His\nloved and own,\nWe may talk to Jesus, thru this royal telephone."),
+          Verse(isChorus: false, lines: "There will be no charges, telephone is free,\nIt was built for service, just for you and me;\n"
+          "There will be no waiting, on this royal line,\nTelephone to glory, always answers just in time."),
+          Verse(isChorus: false, lines: "Fail to get the answer; Satan’s crossed your wire,\nBy some strong delusion, or some base desire;"
+          "Take away obstructions; God is on the throne,\nAnd you’ll get an answer, thru this royal telephone."),
+          Verse(isChorus: false, lines: "If your line is “Grounded,” and connection true,\nHas been lost with Jesus, tell you what to do;\n"
+          "Prayer and faith and promise, mend the broken wire,\nTill your soul is burning, with the pentecostal fire."),
+          Verse(isChorus: false, lines: "Carnal combinations, cannot get control,\nOf this line to glory, anchored in the soul;\n"
+          "Storm and trial cannot, disconnect the line,\nHeld in constant keeping by the Father’s hand divine.")]
+    ),
+    Song(title: "City, O City, O City of God", author: "Leonard E. Smith Jnr.", 
+        verses: [
+            Verse(isChorus: false, lines: "City, O city, O city of God,\nGlorious things are spoken of you.\nCity, O city, O city of God,\n"
+            "Glorious things are spoken of you.\nSuch glorious things are spoken of you,\nCity, O city, O city of God,\n"
+            "Glorious things are spoken of you. "),
+            Verse(isChorus: false, lines: "This one and that one were born in her,\nAll my springs of joy are in you."
+            "This one and that one were born in her,\nAll my springs of joy are in you.\nYes, all my springs of joy are in you.\n"
+            "This one and that one were born in her,\nAll my springs of joy are in you."),
+            Verse(isChorus: false, lines: "Singers and dancers together say,\nAll our springs of joy are in you.\n"
+            "Singers and dancers together say,\nAll our springs of joy are in you.\nYes, all our springs of joy are in you.\n"
+            "Singers and dancers together say,\nAll our springs of joy are in you.")]
+    ),
+    Song(title: "Come, Saviour Christ, our only Lord,", author: "Charles Wesley",
+        verses: [
+            Verse(isChorus: false, lines: "Come, Saviour Christ, our only Lord,\nThou great interpreter divine,\n"
+            "Explain Thine own transmitted word,\nTo teach and to inspire is Thine:\nThou only canst Thyself reveal,\n"
+            "Open Thy book, and loose its seal."),
+            Verse(isChorus: false, lines: "Whate’er the ancient prophets spoke\nConcerning Thee, O Christ, make known;\n"
+            "Chief subject of the sacred book,\nThou fillest all, and Thou alone:\nYet there our Lord we cannot see\n"
+            "Unless Thy Spirit give the key."),
+            Verse(isChorus: false, lines: "Now, Jesus, now the veil remove –\nThe folly of our darkened heart;\n"
+            "Unfold the wonders of Thy love,\nThe knowledge of Thyself impart:\nOur ears—our inmost souls we bow,\n"
+            "Speak, Lord, to us Thy servants now.")]
+    ),
+    Song(title: "Come to the Saviour", author: "Geo. F. Root",
+        verses: [
+            Verse(isChorus: false, lines: "Come to the Saviour, make no delay,\nHere in His word, He has shown us the way,\n"
+            "Here in our midst, He’s standing today,\nTenderly saying, \“Come!\”"),
+            Verse(isChorus: true, lines: "Joyful, joyful will our meeting be,\nWhen from sin our hearts are pure and free,\n"
+            "And we shall gather, Saviour, with Thee,\nIn our eternal home."),
+            Verse(isChorus: false, lines: "Suffer the children!” Oh, hear His voice!\nLet every heart leap forth and rejoice!\n"
+            "And let us freely make Him our choice,\nDo not delay, but come."),
+            Verse(isChorus: false, lines: "Think once again, He’s with us today;\nHeed now His blest command and obey;\n"
+            "Hear now His accents tenderly say:\n\“Will you, my children, come!\”")]
+    )
   ];
 
   // goes to view of selected song
