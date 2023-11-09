@@ -328,7 +328,93 @@ class _HomeState extends State<Home> {
             "And let us freely make Him our choice,\nDo not delay, but come."),
             Verse(isChorus: false, lines: "Think once again, He’s with us today;\nHeed now His blest command and obey;\n"
             "Hear now His accents tenderly say:\n\“Will you, my children, come!\”")]
-    )
+    ),
+    Song(title: "Courage Brother, Do Not Stumble", author: "Norman Macleod",
+      verses: [
+          Verse(isChorus: false, lines: "Courage, brother! Do not stumble,\nThough thy path be dark as night;\n"
+          "There’s a star to guide the humble:\n\“Trust in God, and do the right.\”"),
+          Verse(isChorus: false, lines: "Though the road be rough and dreary,\nAnd its end far out of sight,\n"
+          "Foot it bravely! Strong or weary,\n\“Trust in God, and do the right.\”"),
+          Verse(isChorus: false, lines: "Perish policy and cunning,\nPerish all that fears the light!\n"
+          "Whether losing, whether winning,\n\“Trust in God, and do the right.\”"),
+          Verse(isChorus: false, lines: "Simple rule, and safest guiding,\nInward peace, and inward light,\n"
+          "Star upon our path abiding—\n\“Trust in God, and do the right.\”"),
+          Verse(isChorus: false, lines: "Some will hate thee, some will love thee,\nSome will flatter, some will slight;\n"
+          "Cease from man, and look above thee:\n\“Trust in God, and do the right.\”"),
+          Verse(isChorus: false, lines: "Courage, brother! Do not stumble,\nThough thy path be dark as night;\n"
+          "There’s a star to guide the humble:\n\“Trust in God, and do the right.\”")]
+    ),
+    Song(title: "Dear Lord and Father of Mankind", author: "John Greenleaf Whittier",
+      verses: [
+          Verse(isChorus: false, lines: "Dear Lord and Father of mankind,\nForgive our foolish ways!\nReclothe us in our rightful mind;\n"
+          "In purer lives Thy service find,\nIn deeper reverence, praise,\nIn deeper reverence, praise."),
+          Verse(isChorus: false, lines: "In simple trust like theirs who heard,\nBeside the Syrian sea,\nThe gracious calling of the Lord,\n"
+          "Let us, like them, without a word\nRise up and follow Thee,\nRise up and follow Thee.\n"),
+          Verse(isChorus: false, lines: "O Sabbath rest by Galilee!\nO calm of hills above,\nWhere Jesus knelt to share with Thee\n"
+          "The silence of eternity,\nInterpreted by love,\nInterpreted by love."),
+          Verse(isChorus: false, lines: "With that deep hush subduing all\nOur words and works that drown\nThe tender whisper of Thy call,\n"
+          "As noiseless let Thy blessing fall\nAs fell Thy manna down,\nAs fell Thy manna down."),
+          Verse(isChorus: false, lines: "Drop Thy still dews of quietness,\nTill all our strivings cease;\n"
+          "Take from our souls the strain and stress,\nAnd let our ordered lives confess\nThe beauty of Thy peace,\n"
+          "The beauty of Thy peace."),
+          Verse(isChorus: false, lines: "Breathe through the heats of our desire\nThy coolness and Thy balm;\n"
+          "Let sense be dumb, let flesh retire;\nSpeak through the earth-quake, wind and fire,\nO still small voice of calm,\n"
+          "O still small voice of calm!")
+      ]
+    ),
+    Song(title: "Deeper, Deeper, in the Love of Jesus", author: "Charles P. Jones",
+      verses: [
+          Verse(isChorus: false, lines: "Deeper, deeper, in the love of Jesus,\nDaily let me go;\n"
+          "Higher, higher, in the school of wisdom,\nMore of grace to know."),
+          Verse(isChorus: true, lines: "O! deeper yet I pray;\nAnd higher everyday,\nAnd wiser blessed Lord\nIn Thy precious holy Word."),
+          Verse(isChorus: false, lines: "Deeper, deeper, blessed Holy Spirit,\nTake me deeper still;\n"
+          "ill my life is wholly lost in Jesus,\nAnd His perfect will."),
+          Verse(isChorus: false, lines: "Deeper, deeper, tho’ it cost hard trials,\nDeeper let me go;\n"
+          "Rooted in the holy love of Jesus,\nLet me fruitful grow."),
+          Verse(isChorus: false, lines: "Deeper, higher everyday in Jesus\nTill all conflict past,\n"
+          "Finds me conqueror, and in His own image\nPerfected at last.")]
+    ),
+    Song(title: "Don't You Know it's Time to Praise the Lord", author: "Bruce & Judy Borneman",
+      verses: [
+          Verse(isChorus: false, lines: "Don’t you know it’s time to praise the Lord\nIn the sanctuary of the Holy Spirit\n"
+          "So set your mind on Him\nAnd let your praise begin\nAnd the glory of the Lord\nWill fill this place …"),
+          Verse(isChorus: true, lines: "Praise the Lord, praise the Lord\nPraise the Lord, praise the Lord"),
+          Verse(isChorus: false, lines: "He lives within the praises of His people\nHe waits to hear us call upon His name\n"
+          "So set your mind on Him\nAnd let your praise begin\nAnd the glory of the Lord\nWill fill this place …\n"
+          "(Last time… Praise the Lord!)")]
+    ),
+    Song(title: "Down at the Cross where My Saviour Died,", author: "Elisha A Hoffman",
+      verses: [
+          Verse(isChorus: false, lines: "Down at the cross where my Saviour died,\nDown where for cleansing from sin I cried;"
+          "There to my heart was the blood applied;\nGlory to His name!"),
+          Verse(isChorus: true, lines: "Glory to His name! Glory to His name\nThere to my heart was the blood applied,"
+          "Glory to His name!"),
+          Verse(isChorus: false, lines: "I am so wondrously saved from sin!\nJesus so sweetly abides within;\n"
+          "There at the cross where He took me in,\nGlory to His name!"),
+          Verse(isChorus: false, lines: "O precious fountain that saves from sin,\nI am so glad I have entered in;"
+          "There Jesus saves me and keeps me clean:\nGlory to His name!"),
+          Verse(isChorus: false, lines: "Come to this fountain so rich and sweet,\nCast thy poor soul at the Saviour's feet;"
+          "Plunge in today, and be made complete;\nGlory to His name!")
+      ]),
+    Song(title: "Down at Your Feet", author: "Lenny Leblanc",
+      verses: [
+          Verse(isChorus: false, lines: "Down at your feet, Oh Lord\nIs the most high place\n"
+          "In Your presence Lord\nWe seek Your face; We seek Your face"),
+          Verse(isChorus: false, lines: "There is no higher calling\nNo greater honour\n"
+          "Than to bow and kneel before Your throne\nI’m amazed at Your glory\nEmbraced by Your mercy\n"
+          "O Lord, I live to worship You")]
+    ),
+    Song(title: "Down in the Valley with my Saviour", author: "W.O. Cushing",
+      verses: [
+          Verse(isChorus: false, lines: "Down in the valley with my Saviour I would go,\nWhere the flowers are blooming and the sweet "
+          "waters flow;\nEverywhere He leads me I would follow, follow on;\nWalking in His footsteps till the crown be won."),
+          Verse(isChorus: true, lines: "Follow! Follow! I would follow Jesus,\nAnywhere, everywhere,I would follow on!"
+          "Follow! Follow! I would follow Jesus,\nEverywhere He leads me, I would follow on!"),
+          Verse(isChorus: false, lines: "Down to the valley with my Saviour I would go,\nWhere the storms are sweeping and the darkwaters flow;\n"
+          "With His hand to lead me I will never, never fear;\nDanger cannot harm me if my Lord is near."),
+          Verse(isChorus: false, lines: "Down in the valley or upon the mountain steep,\nClose beside my Saviour would my soul ever keep;\n"
+          "He will lead safely in the path that He has trod,\nUp to where they gather on the hills of God.")]
+    ),]
   ];
 
   // goes to view of selected song
@@ -355,3 +441,4 @@ class _HomeState extends State<Home> {
     );
   }
 }
+2
