@@ -452,6 +452,102 @@ class _HomeState extends State<Home> {
           Verse(isChorus: false, lines: "Farewell mortality: Jesus is mine!\nWelcome eternity: Jesus is mine!\n"
           "Welcome, Oh, loved and blest; welcome, sweet scenes of rest,\nWelcome, my Saviour's breast: Jesus is mine.")]
     ),
+    Song(title: "Faith of our Fathers", author: "Frederick W. Faber",
+      verses: [
+        Verse(isChorus: false, lines: "Faith of our fathers! living still,\nInspite of dungeon, fire and sword;\n"
+        "O, how our hearts beat high with joy,\nWhenever we hear that glorious word!"),
+        Verse(isChorus: true, lines: "Faith of our fathers! Holy faith!\nWe will be true to thee till death!"),
+        Verse(isChorus: false, lines: "Our fathers, chained in prisons dark,\nWere still in heart and conscience free;\n"
+        "How sweet would be their children’s fate\nIf they, like them, could die for thee!"),
+        Verse(isChorus: false, lines: "Faith of our fathers! we will strive,\nTo win all nations unto thee!\n"
+        "And thro’ the truth that comes from God,\nMankind shall then indeed be free."),
+        Verse(isChorus: false, lines: "Faith of our fathers! we will love:\nBoth friend and foe in all our strife;\n"
+        "And preach thee, too, as love knows how,\nBy kindly words and virtuous life.")]
+    ),
+    Song(title: "Father, I Place into Your Hands", author: "Jenny Hewer",
+      verses: [
+          Verse(isChorus: false, lines: "Father, I place into Your hands\nThe things I cannot do.\n"
+          "Father, I place into Your hands\nThe things that I’ve been through.\nFather, I place into Your hands\n"
+          "The way that I should go,\nFor I know I always can trust You."),
+          Verse(isChorus: false, lines: "Father, I place into Your hands\nMy friends and family.\n"
+          "Father, I place into Your hands\nThe things that trouble me.\nFather, I place into Your hands\n"
+          "The person I would be,\nFor I know I always can trust You."),
+          Verse(isChorus: false, lines: "Father, we love to see Your face,\nWe love to hear Your voice.\n"
+          "Father, we love to sing Your praise\nAnd in Your name rejoice.\nFather, we love to walk with You\n"
+          "And in Your presence rest,\nFor we know we always can trust You."),
+          Verse(isChorus: false, lines: "Father, I want to be with You\nAnd do the things You do.\n"
+          "Father, I want to speak the words\nThat You are speaking too.\nFather, I want to love the ones\n"
+          "That You will draw to You,\nFor I know that I am one with You")]
+    ),
+    Song(title: "For I’m Building a People of Power", author: "Dave Richards",
+      verses: [
+          Verse(isChorus: false, lines: "For I’m building a people of power,\nAnd I’m making a people of praise;\n"
+          "That will move through this land by My Spirit,\nAnd will glorify My precious Name."),
+          Verse(isChorus: true, lines: "Build Your church, Lord!\nMake us strong, Lord!\nJoin our hearts, Lord,"
+          "Through Your Son!\nMake us one, Lord,\nIn Your body,\nIn the kingdom of Your Son!")]
+    ),
+    Song(title: "For me to Live is Christ, to Die is Gain", author: "Author Unknown",
+      verses: [
+          Verse(isChorus: true, lines: "For me to lIve is Christ, to die is gain,\nTo hold His hand, and walk His narrow way,\n"
+          "There is no peace, no joy, no thrill,\nLike walking in His will:\nFor me to live is Christ, to die is gain"),
+          Verse(isChorus: false, lines: "Now once my heart was full of sin and shame,\n‘Till someone told me Jesus came to save;\n"
+          "When He said, “Come home to me”,\nHe set my poor heart free:\nFor me to live is Christ, to die is gain."),
+          Verse(isChorus: false, lines: "Now there are things that I still do not know,\nBut of this one thing I’m completely sure:\n"
+          "He who called me on that day,\nWashed all my sin away:\nFor me to live is Christ, to die is gain.	")]
+    ),
+    Song(title: "For Thou O Lord art High above All the Earth", author: "Pete Sanchez Jnr.",
+      verses: [
+          Verse(isChorus: false, lines: "For Thou O Lord art high above all the earth,\nThou art exalted far above all gods.\n"
+          "For Thou O Lord art high above all the earth,\nThou art exalted far above all gods."),
+          Verse(isChorus: true, lines: "I exalt Thee, I exalt Thee, I exalt Thee, O Lord.\nI exalt Thee, I exalt Thee, I exalt Thee, O Lord.")
+      ]
+    ),
+    Song(title: "For unto us a Child is Born", author: "Author unknown",
+        verses: [
+            Verse(isChorus: false, lines: "For unto us a Child is born,\nUnto us a Son is given.\n"
+            "And the government shall be upon His shoulder,\nAnd His name shall be called:\n"
+            "Wonderful, Counsellor, the Mighty God,\nThe everlasting Father,\n"
+            "And the Prince of peace is He.")]
+    ),
+    Song(title: "Free from the Law", author: "Philip P. Bliss", 
+      verses: [
+          Verse(isChorus: false, lines: "Free from the law, Oh, happy condition!\nJesus hath bled, and there is remission!\n"
+          "Cursed by the law, and bruised by the fall,\nGrace hath redeemed us once for all."),
+          Verse(isChorus: true, lines: "Once for all, O sinner, receive it;\nOnce for all, O brother, believe it;\n"
+          "Cling to the cross, the burden will fall,\nChrist hath redeemed us once and for all"),
+          Verse(isChorus: false, lines: "Now are we free—there’s no condemnation,\nJesus provides a perfect salvation:\n"
+          "\n\“Come unto me!\” - Oh, hear His sweet call!\nCome—and He saves us once for all."),
+          Verse(isChorus: false, lines: "“Children of God!” Oh, glorious calling!\nSurely His grace will keep us from falling!\n"
+          "Passing from death to life at His call,\nBlessed salvation once and for all."),]
+    ),
+    Song(title: "From Heaven you Came", author: "Graham Kendrick",
+      verses: [
+          Verse(isChorus: false, lines: "From heaven You came, helpless babe,\nEntered our world, Your glory veiled;\n"
+          "Not to be served, but to serve,\nAnd give Your life, that we might live."),
+          Verse(isChorus: true, lines: "This is our God, the servant King,\nHe calls us now, to follow Him,\n"
+          "To bring our lives, as a daily offering\nOf worship to the servant King."),
+          Verse(isChorus: false, lines: "There in the garden, of tears,\nMy heavy load, He chose to bear;\n"
+          "His heart with sorrow, was torn,\n‘Yet not My will, but Yours,’ He said."),
+          Verse(isChorus: false, lines: "Come see His hands, and His feet,\nThe scars that speak, of sacrifice,\n"
+          "Hands that flung stars, into space\nTo cruel nails, surrendered."),
+          Verse(isChorus: false, lines: "So let us learn, how to serve,\nAnd in our lives, enthrone Him;\n"
+          "Each other’s needs, to prefer,\nFor it is Christ, we’re serving.")]
+    ),
+    Song(title: "From the Rising of the Sun", author: "Paul S. Deming",
+      verses: [
+          Verse(isChorus: false, lines: "From the rising of the sun\nTo the going down of the same,\n"
+          "The Lord’s name, is to be praised.\nFrom the rising of the sun\nTo the going down of the same,\n"
+          "The Lord’s name, is to be praised."),
+          Verse(isChorus: true, lines: "Praise ye the Lord,\nPraise Him all ye servants of the Lord,\n"
+          "Praise the name of the Lord.\nBlessed be the name of the Lord\nFrom this time forth and for evermore.")]
+    ),
+    Song(title: "Give Ear to my Words, O Lord", author: "Bill Sprouse Jnr",
+      verses: [
+          Verse(isChorus: false, lines: "Give ear to my words, O Lord,\nConsider my meditation;\n"
+          "Hearken unto the voice of my cry,\nMy King and my God;\nFor unto Thee will I pray,\n"
+          "My voice shalt Thou hear in the morning;\nO Lord, in the morning, will I direct my prayer,\n"
+          "Unto Thee and will look up.")]
+    )
   ];
 
   // goes to view of selected song
