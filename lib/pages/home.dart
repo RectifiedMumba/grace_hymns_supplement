@@ -414,7 +414,44 @@ class _HomeState extends State<Home> {
           "With His hand to lead me I will never, never fear;\nDanger cannot harm me if my Lord is near."),
           Verse(isChorus: false, lines: "Down in the valley or upon the mountain steep,\nClose beside my Saviour would my soul ever keep;\n"
           "He will lead safely in the path that He has trod,\nUp to where they gather on the hills of God.")]
-    ),]
+    ),
+    Song(title: "Extended on a Cursed Tree", author: "Paul Gerhardt",
+      verses: [
+          Verse(isChorus: false, lines: "Extended on a cursed tree,\nBesmeared with dust, and sweat, and blood,\n"
+          "See there, the King of glory see!\nSinks and expires the Son of God."),
+          Verse(isChorus: false, lines: "Who, who, my Saviour, this has done?\nWho would Thy sacred body wound?\n"
+          "No guilt Thy spotless heart has known,\nNo guile has in Thy lips been found."),
+          Verse(isChorus: false, lines: "I, I alone, have done the deed!\n‘Tis I Thy sacred flesh have torn;\n"
+          "My sins have caused thee, Lord, to bleed,\nPointed the nail, and fixed the thorn."),
+          Verse(isChorus: false, lines: "Too much to thee I cannot give;\nToo much I cannot do for thee;\n"
+          "Let all Thy love, and all Thy grief,\nGrav’n on my heart for ever be!"),
+          Verse(isChorus: false, lines: "Still let Thy tears, Thy groans, Thy sighs,\nO’erflow my eyes, and move my breast,"
+          "Till loosed from flesh and earth I rise,\nAnd ever in Thy presence rest.")]
+    ),
+    Song(title: "Face to Face with Christ, my Saviour", author: "Carrie E. Breck",
+      verses: [
+          Verse(isChorus: false, lines: "Face to face with Christ, my Saviour,\nFace to face, what will it be?\n"
+          "When with rapture I behold Him,\nJesus Christ who died for me."),
+          Verse(isChorus: true, lines: "Face to face I shall behold Him,\nFar beyond the starry sky;\n"
+          "Face to face in all His glory,\nI shall see Him by and by!"),
+          Verse(isChorus: false, lines: "Only faintly now I see Him,\nWith the darkening veil between;\n"
+          "But a blessed day is coming,\nWhen His glory shall be seen."),
+          Verse(isChorus: false, lines: "What rejoicing in His presence,\nWhen are banished grief and pain;"
+          "When the crooked ways are straightened,\nAnd the dark things shall be plain."),
+          Verse(isChorus: false, lines: "Face to face! O, blissful moment!\nFace to face, to see and know;\n"
+          "Face to face with my Redeemer,\nJesus Christ, Who loves me so.")]
+    ),
+    Song(title: "Fade, Fade Each Earthly Joy", author: "Mrs. J.C. Bonar",
+      verses: [
+          Verse(isChorus: false, lines: "Fade, fade each earthly joy: Jesus is mine;\nBreak every tender tie: Jesus is mine.\n"
+          "Dark is the wilderness, earth has no resting place;\nJesus alone can bless: Jesus is mine."),
+          Verse(isChorus: false, lines: "Tempt not my soul away: Jesus is mine;\nHere would I ever stay: Jesus is mine.\n"
+          "Perishing things of clay, born but for one brief day;\nPass from my heart away: Jesus is mine."),
+          Verse(isChorus: false, lines: "Farewell, ye dreams of night: Jesus is mine;\nLost in this His dawning bright: Jesus is mine."
+          "All that my soul has tried, Left but a dismal void;\nJesus has satisfied: Jesus is mine."),
+          Verse(isChorus: false, lines: "Farewell mortality: Jesus is mine!\nWelcome eternity: Jesus is mine!\n"
+          "Welcome, Oh, loved and blest; welcome, sweet scenes of rest,\nWelcome, my Saviour's breast: Jesus is mine.")]
+    ),
   ];
 
   // goes to view of selected song
@@ -441,4 +478,3 @@ class _HomeState extends State<Home> {
     );
   }
 }
-2
