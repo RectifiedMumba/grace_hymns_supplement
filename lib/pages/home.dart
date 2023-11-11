@@ -547,6 +547,115 @@ class _HomeState extends State<Home> {
           "Hearken unto the voice of my cry,\nMy King and my God;\nFor unto Thee will I pray,\n"
           "My voice shalt Thou hear in the morning;\nO Lord, in the morning, will I direct my prayer,\n"
           "Unto Thee and will look up.")]
+    ),
+    Song(title: "Give to the Lord, Ye Sons of Fame", author: "Isaac Watts",
+      verses: [
+          Verse(isChorus: false, lines: "Give to the Lord, ye sons of fame,\nGive to the Lord renown and power;\n"
+          "Ascribe due honours to His name,\nAnd His eternal might adore."),
+          Verse(isChorus: false, lines: "O the immense, the amazing height,\nThe boundless grandeur of our God;\n"
+          "Who treads the world beneath His feet,\nAnd sways the nations with His rod."),
+          Verse(isChorus: false, lines: "The Lord proclaims His strength aloud,\nUpon the oceans and the land;\n"
+          "Speaking above the threatening cloud,\nAnd lightnings blaze at His command."),
+          Verse(isChorus: false, lines: "Where’er He turns His powerful voice,\nThere shall the strongest cedars break;\n"
+          "Mountains shall tremble at the noise,\nAnd valleys roar, and deserts quake."),
+          Verse(isChorus: false, lines: "Sovereign above the mighty flood,\nThe Saviour reigns forever King;\n"
+          "But makes His church His blest abode,\nWhere we His glorious praises sing."),
+          Verse(isChorus: false, lines: "In gentler language, here, the Lord\nThe counsels of His love imparts;\n"
+          "Amid the raging storm, His word\nSpeaks peace and blessing to our hearts.")]
+    ),
+    Song(title: "Go Tell it on the Mountain", author: "Traditional Spiritual",
+      verses: [
+          Verse(isChorus: true, lines: "Go, tell it on the mountain, over the hills and everywhere;\n"
+          "Go, tell it on the mountain that Jesus Christ is born."),
+          Verse(isChorus: false, lines: "While shepherds kept their watching o’er silent "
+          "flocks by night, behold, through-out the heavens there shone a holy light.\n"
+          "The shepherds feared and trembled when, lo!\nabove the earth rang out the angel chorus that hailed our Saviour’s birth."),
+          Verse(isChorus: false, lines: "Down in a lowly manger our humble Christ was "
+          "born, and God sent us salvation that blessed Christmas morn.")]
+    ),
+    Song(title: "God's Abiding Peace is in my Soul Today", author: "Elisha A. Hoffman",
+      verses: [
+          Verse(isChorus: false, lines: "God’s abiding peace is in my soul today,\nYes, I feel it now, yes, I feel it now;\n"
+          "He has taken all my doubts and fears away,\nThough I cannot tell you how."),
+          Verse(isChorus: true, lines: "It is mine,.mine, …blessed be His name!\nHe has given peace, perfect peace to me!\n"
+          "It is mine, …mine, …blessed be His name!\nMine for all eternity!"),
+          Verse(isChorus: false, lines: "He has wrought in me a sweet and perfect rest,\nIn my raptured heart I can feel it now;\n"
+          "He each passing moment keeps me saved and blest,\nFloods with light my heart and brow."),
+          Verse(isChorus: false, lines: "He has given me a never failing joy,\nOh, I have it now! Oh, I have it now!\n"
+          "To His praise I will my ransomed powers employ,\nAnd renew my grateful vow."),
+          Verse(isChorus: false, lines: "Oh, the love of God is comforting my soul,\nFor His love is mine, yes, His love is mine!\n"
+          "Waves of joy and gladness o’er my spirit roll,\nThrilling me with life divine.")]
+    ),
+    Song(title: "God Forgave my Sin, in Jesus’ Name", author: "Carol Owens",
+      verses: [
+          Verse(isChorus: false, lines: "God forgave my sin, in Jesus’ name,\nI’ve been born again, in Jesus name;\n"
+          "And in Jesus’ name I come to you,\nTo share His love as He told me to…"),
+          Verse(isChorus: true, lines: "He said: “freely, freely, you have received,\nFreely, freely give;\n"
+          "Go in my name and, because you believe:\nOthers will know that I live."),
+          Verse(isChorus: false, lines: "All power is giv’n, in Jesus’ name,\nIn earth and heav’n, in Jesus name;\n"
+          "And in Jesus’ name I come to you,\nTo share His pow’r as He told me to…")]
+    ),
+    Song(title: "God Sent His Son", author: "Gloria & William J. Gaither",
+      verses: [
+          Verse(isChorus: false, lines: "God sent His Son, they called Him Jesus,\nHe came to love, heal and forgive;\n"
+          "He lived and died, to buy my pardon,\nAn empty grave is there to prove – my Saviour lives!"),
+          Verse(isChorus: true, lines: "Because He lives I can face tomorrow,\nBecause He lives, all fear is gone;\n"
+          "Because I know, He holds the future,\nAnd life is worth the living just because He lives."),
+          Verse(isChorus: false, lines: "How sweet to hold a new born baby,\nAnd feel the pride and joy he gives;\n"
+          "But greater still the calm assurance,\nThis child can face uncertain days—because He lives!"),
+          Verse(isChorus: false, lines: "And then one day I’ll cross the river,\nI’ll fight life’s final war with pain;\n"
+          "And then as death gives way to vict’ry,\nI’ll see the lights of glory and I’ll know He lives!"),]
+    ),
+    Song(title: "Hallelujah, my Father", author: "Tim Cullen",
+      verses: [
+          Verse(isChorus: false, lines: "Hallelujah, my Father,\nFor giving us Your Son,\nSending Him into the world,\n"
+          "To be given up for men.\nKnowing we would bruise Him\nAnd smite Him from the earth.\nHallelujah, my Father,\n"
+          "In His death is my birth,\nHallelujah, my Father,\nIn His life is my life."),]
+    ),
+    Song(title: "Happiness is to Know the Saviour", author: "Words and Music by Ira F. Stanphill© 1968 - All rights reserved",
+      verses: [
+          Verse(isChorus: false, lines: "Happiness is to know the Saviour,\nLiving a life within His favour,\n"
+          "Having a change in my behaviour,\nHappiness is the Lord."),
+          Verse(isChorus: false, lines: "Happiness is a new creation,\nJesus and me in close relation,\n"
+          "Having a part in His salvation,\nHappiness is the Lord."),
+          Verse(isChorus: true, lines: "Real joy is mine; no matter if tear drops start,\n"
+          "I’ve found the secret; it’s Jesus in my heart!\n"),
+          Verse(isChorus: false, lines: "Happiness is to be forgiven,\nLiving a life that’s worth the livin’,\n"
+          "Taking a trip that leads to heaven,\nHappiness is the Lord."),
+          Verse(isChorus: true, lines: "Happiness is the Lord,\nHappiness is the Lord!"),]
+    ),
+    Song(title: "Have you Been to Jesus for the Cleansing Power", author: "Elisha A. Hoffman",
+      verses: [
+          Verse(isChorus: false, lines: "Have you been to Jesus for the cleansing power?\nAre you washed in the blood of the Lamb?\n"
+          "Are you fully trusting in His grace this hour?\nAre you washed in the blood of the Lamb?"),
+          Verse(isChorus: true, lines: "Are you washed in the blood,\nIn the soul cleansing blood of the Lamb?\n"
+          "Are your garments spotless?\nAre they white as snow?\nAre you washed in the blood of the Lamb?"),
+          Verse(isChorus: false, lines: "Are you walking daily by the Saviour's side?\nAre you washed in the blood of the Lamb?\n"
+          "Do you rest each moment in the crucified?\nAre you washed in the blood of the Lamb?"),
+          Verse(isChorus: false, lines: "When the bridegroom cometh will your robes be white?\nPure and white in the blood of the Lamb?\n"
+          "Will your soul be ready for the mansions bright?\nAnd be washed in the blood of the Lamb?"),
+          Verse(isChorus: false, lines: "Lay aside the garments that are stained with sin,\nAnd be washed in the blood of the Lamb;\n"
+          "There’s a fountain flowing for the soul unclean,\nOh be washed in the blood of the Lamb!"),]
+    ),
+    Song(title: "Have you Wandered Along on Life's Pathway", author: "Red Foley",
+      verses: [
+          Verse(isChorus: false, lines: "Have you wandered along on life’s pathway?\nHave you lived without love a life of fear?\n"
+          "Have you searched for the great higher meaning?\nOr is your life filled with long wasted years?"),
+          Verse(isChorus: true, lines: "Wasted years, wasted years! Oh how foolish!\nAs you walk on in darkness and fear.\n"
+          "Turn around, turn around! God is calling!\nHe’s calling you from a life of wasted years."),
+          Verse(isChorus: false, lines: "Don’t you know Jesus died for all sinners;\nHe loves you and your guilt He gladly bears;\n"
+          "Come to Him, come to Him! Your sins confessing,\nYou can go on with a life of fruitful years."),
+          Verse(isChorus: false, lines: "You search for wisdom and seek understanding,\nThere is someone who knows and always hears;\n"
+          "Give it up, give it up! The load you’re bearing\nYou can’t go on with a life of wasted years.")]
+    ),
+    Song(title: "Heavenly Father, I Appreciate You", author: "Author unknown",
+      verses: [
+          Verse(isChorus: false, lines: "Heavenly Father, I appreciate You\nHeavenly Father, I appreciate You,\n"
+          "I love You, adore You,\nI bow down before You,\nHeavenly Father, I appreciate You."),
+          Verse(isChorus: false, lines: "Son of God, what a wonder You are,\nSon of God, what a wonder You are.\n"
+          "You cleansed my soul from sin,\nYou set the Holy Ghost within,\nSon of God, what a wonder You are."),
+          Verse(isChorus: false, lines: "Holy Ghost, what a comfort You are,\nHoly Ghost, what a comfort You are.\n"
+          "You lead us, You guide us,\nYou live right inside us,\nHoly Ghost, what a comfort You are.")]
     )
   ];
 
