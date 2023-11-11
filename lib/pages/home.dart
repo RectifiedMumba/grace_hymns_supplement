@@ -656,6 +656,57 @@ class _HomeState extends State<Home> {
           "You cleansed my soul from sin,\nYou set the Holy Ghost within,\nSon of God, what a wonder You are."),
           Verse(isChorus: false, lines: "Holy Ghost, what a comfort You are,\nHoly Ghost, what a comfort You are.\n"
           "You lead us, You guide us,\nYou live right inside us,\nHoly Ghost, what a comfort You are.")]
+    ),
+    Song(title: "He has Brought us this Far by His Grace", author: "Bonnie Low",
+      verses: [
+        Verse(isChorus: false, lines: "He has brought us this far by His grace,\nHe has led us by fire and by cloud;\n"
+        "He will bring us to Zion to look on His face,\nO blessed, O blessed be God …"),
+        Verse(isChorus: true, lines: "Blessed be God, blessed be God,\nBlessed, O blessed be God."),
+        Verse(isChorus: false, lines: "He has sheltered us under His wings,\nAnd He planned every path that we’ve trod;\n"
+        "To bring us to Zion, His praises to sing\nO blessed, O blessed be God …")]
+    ),
+    Song(title: "He is Our Peace", author: "Kandela Groves",
+      verses: [
+          Verse(isChorus: false, lines: "He is our peace,\nWho has broken down every wall;\nHe is our peace, He is our peace.\n"
+          "He is our peace,\nWho has broken down every wall;\nHe is our peace, He is our peace."),
+          Verse(isChorus: false, lines: "Cast all your care on Him,\nFor He careth for you;\nHe is our peace, He is our peace.\n"
+          "Cast all your care on Him,\nFor He careth for you;\nHe is our peace, He is our peace.")]
+    ),
+    Song(title: "He Left the Splendor of Heaven", author: "Dottie Rambo",
+      verses: [
+          Verse(isChorus: false, lines: "He left the splendour of heaven,\nKnowing His destiny:\n"
+          "Was the lonely hill of Golgotha,\nThere to lay down His life for me."),
+          Verse(isChorus: true, lines: "If that isn’t love, the ocean is dry;\nThere’s no star in the sky,\n"
+          "And the sparrow can’t fly;\nIf that isn’t love, then heaven is a myth;There’s no feeling like this:\n"
+          "If that isn’t love."),
+          Verse(isChorus: false, lines: "Even in death He remembered,\nThe thief hanging by His side:\n"
+          "He spoke with love and compassion,\nThen He took him to paradise.")]
+    ),
+    Song(title: "Here is Love, Vast as the Ocean", author: "William Rees",
+      verses: [
+          Verse(isChorus: false, lines: "Here is love, vast as the ocean,\nLoving kindness as the flood;\n"
+          "When the Prince of Life my ransom,\nShed for me, His precious blood.\nWho, His love, cannot remember?\n"
+          "Who can cease to sing His praise?\nHe shall never be forgotten,\nThroughout heaven’s eternal days."),
+          Verse(isChorus: false, lines: "On the Mount of Crucifixion,\nFountains opened deep and wide;\n"
+          "Through the flood gates of God’s mercy,\nFlowed the vast and gracious tide.\nGrace and love like mighty rivers,\n"
+          "Poured incessant from above;\nHeaven’s peace and perfect justice,\nKissed a guilty world in love."),
+          Verse(isChorus: false, lines: "Let me all Thy love accepting,\nLove Thee with all of my days;\n"
+          "Let me seek Thy Kingdom only,\nAnd my life be to Thy praise.\nThou alone shalt be my glory,\n"
+          "Nothing in the world I see;\nThou has cleansed and sanctified me,\nThou Thyself hast set me free."),
+          Verse(isChorus: false, lines: "In Thy truth Thou dost direct me,\nBy Thy Spirit through Thy word;\n"
+          "And Thy grace my need is meeting,\nAs I trust in Thee my Lord.\nAll Thy fullness Thou art pouring,\n"
+          "In Thy love and power in me;\nWithout measure, full and boundless,\nAs I yield myself to Thee.")]
+    ),
+    Song(title: "Here we're Gathered in His Name", author: "Mavis Kyakilika Bota",
+      verses: [
+          Verse(isChorus: false, lines: "Here we’re gathered in His name\nTogether we’ll sing His praise\n"
+          "Jesus said a new command I give\nLove one another"),
+          Verse(isChorus: true, lines: "Love one another\nLove one another\nJesus said a new command I give\n"
+          "Love one another"),
+          Verse(isChorus: false, lines: "We are all one family\nSaved by His blood\nWe must show the others too\n"
+          "That we are one"),
+          Verse(isChorus: false, lines: "Our Lord prayed to His Father above\nFor our being one\n"
+          "That the world by the way we live")]
     )
   ];
 
