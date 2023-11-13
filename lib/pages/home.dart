@@ -1,3 +1,4 @@
+import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import '/song.dart';
 import '/songs_template.dart';
@@ -707,7 +708,40 @@ class _HomeState extends State<Home> {
           "That we are one"),
           Verse(isChorus: false, lines: "Our Lord prayed to His Father above\nFor our being one\n"
           "That the world by the way we live")]
-    )
+    ),
+    Song(title: "His Name is Higher than Any Other", author: "Author Unknown",
+      verses: [
+          Verse(isChorus: false, lines: "His name is higher than any other,\nHis name is Jesus, His name is Lord;\n"
+          "His name is higher than any other,\nHis name is Jesus, His name is Lord."),
+          Verse(isChorus: false, lines: "His name is Wonderful,\nHis name is Counsellor,\nHis name is Prince of peace,\n"
+          "The mighty God.\nHis name is higher than any other,\nHis name is Jesus, His name is Lord.")]
+    ),
+    Song(title: "Holy, Holy, Holy, Holy", author: "Jimmy Owens",
+      verses: [
+          Verse(isChorus: false, lines: "Holy, holy, holy, holy,\nHoly, holy, Lord God almighty!\n"
+          "And we lift our hearts before you\nAs a token of our love;\nHoly, holy, holy, holy"),
+          Verse(isChorus: false, lines: "Gracious Father, gracious Father,\nWe’re so glad to be Your children, gracious Father;\n"
+          "And we lift our heads before You\nAs a token of our love,\nGracious Father, gracious Father."),
+          Verse(isChorus: false, lines: "Precious Jesus, precious Jesus,\nWe’re so glad that You have redeemedus, precious Jesus;\n"
+          "And we lift our hands before You\nAs a token of our love,\nPrecious Jesus, precious Jesus."),
+          Verse(isChorus: false, lines: "Holy Spirit, Holy Spirit,\nCome and fill our hearts anew, Holy Spirit!\n"
+          "And we lift our voice before You\nAs a token of our love,\nHoly Spirit, Holy Spirit."),
+          Verse(isChorus: false, lines: "Hallelujah, hallelujah, Hallelujah, hallelujah\nAnd we lift our hearts before You\n"
+          "As a token of our love - hallelujah, hallelujah.")]
+    ),
+    Song(title: "Holy Spirit, from on High", author: "William Hiley Bathurst",
+      verses: [
+          Verse(isChorus: false, lines: "Holy Spirit, from on high,\nBend on us a pitying eye;Animate the drooping heart,\n"
+          "Bid the power of sin depart."),
+          Verse(isChorus: false, lines: "Light up every dark recess\nOf our heart’s ungodliness;\nShow us every devious way,\n"
+          "Where our steps have gone astray."),
+          Verse(isChorus: false, lines: "Help us with repentant grief\nHumbly to implore relief,Then the Saviour's blood reveal,\n"
+          "All our deep disease to heal."),
+          Verse(isChorus: false, lines: "Other groundwork should we lay,\nSweep those empty hopes away;\nMake us know that Christ alone\n"
+          "Can for human guilt atone."),
+          Verse(isChorus: false, lines: "May we daily grow in grace,\nAnd pursue the heavenly race;\nTrained in wisdom, led by love,\n"
+          "Till we reach our rest above."),
+    Song(title: "title", author: author, verses: verses)
   ];
 
   // goes to view of selected song
