@@ -740,8 +740,31 @@ class _HomeState extends State<Home> {
           Verse(isChorus: false, lines: "Other groundwork should we lay,\nSweep those empty hopes away;\nMake us know that Christ alone\n"
           "Can for human guilt atone."),
           Verse(isChorus: false, lines: "May we daily grow in grace,\nAnd pursue the heavenly race;\nTrained in wisdom, led by love,\n"
-          "Till we reach our rest above."),
-    Song(title: "title", author: author, verses: verses)
+          "Till we reach our rest above."),]
+    ),
+    Song(title: "Holy Words Long Preserved", author: "Lynn Deshazo",
+      verses: [
+          Verse(isChorus: false, lines: "Holy words long preserved\nFor our walk in this world\nThey resound with God’s own heart\n"
+          "Oh let the ancient words impart\nWords of life words of hope\nGive us strength, help us cope\nIn this world where e’er we roam\n"
+          "Ancient words will guide us home."),
+          Verse(isChorus: true, lines: "Ancient words ever true\nChanging me and changing you\nWe have come with open hearts\n"
+          "Oh let the ancient words impart"),
+          Verse(isChorus: false, lines: "Holy words of our faith\nHanded down to this age\nCame to us through sacrifice\n"
+          "Oh heed the faithful word of Christ\nHoly words long preserved\nFor our walk in this world\nThey resound with Gods own heart\n"
+          "Oh let the ancient words impart.	")]
+    ),
+    Song(title: "How Deep the Father's Love", author: "Stuart Townend",
+      verses: [
+          Verse(isChorus: false, lines: "How deep the Father’s love for us\nHow vast beyond all measure\nThat He should give His only Son\n"
+          "To make a wretch His treasure\nHow great the pain of searing loss\nThe Father turns His face away\n"
+          "As wounds which mar the chosen One\nBring many sons to glory"),
+          Verse(isChorus: false, lines: "Behold the man upon the cross\nMy sin upon His shoulder\nAshamed I hear my mocking voice\n"
+          "Call out among the scoffers\nIt was my sin that held Him there\nUntil it was accomplished\n"
+          "His dying breath has brought me life\nI know that it is finished"),
+          Verse(isChorus: false, lines: "I will not boast in anything\nNo gifts, no power, no wisdom\nBut I will boast in Jesus Christ\n"
+          "His death and resurrection\nWhy should I gain from His reward?\nI cannot give an answer"
+          "But this I know with all my heart\nHis wounds have paid my ransom")]
+    ),
   ];
 
   // goes to view of selected song
