@@ -765,6 +765,116 @@ class _HomeState extends State<Home> {
           "His death and resurrection\nWhy should I gain from His reward?\nI cannot give an answer"
           "But this I know with all my heart\nHis wounds have paid my ransom")]
     ),
+    Song(title: "How Great is God Almighty", author: "Psalm 48",
+      verses: [
+          Verse(isChorus: false, lines: "How great is God Almighty and how worthy to be praised,\nFor the city of our holy God shall make the world "
+          "amazed;\nHis mountain ever beautiful before our vision raised,\nThe joy of all the earth."),
+          Verse(isChorus: true, lines: "Glory be to God the Father,\nGlory be to God the Saviour,\nGlory to the Holy Spirit\nForever three in one."),
+          Verse(isChorus: false, lines: "In Zion city God Himself will be our sure defence,\nAll the kings of earth who ever reigned are stripped "
+          "of vain pretence;\nThey see His throne in glory and in fear they scatter thence,\nThe power of all the earth!"),
+          Verse(isChorus: false, lines: "Like eastward wind your mighty arm will sweep Your foes away,\nWe have seen fulfilled in Zion all the truth "
+          "of what you say;\nWe think of your eternal love and sing now every day,\nThe praise of all the earth!"),
+          Verse(isChorus: false, lines: "The day shall come at last when every wrong is turned to right,\nWe shall see in Zion’s citadel the ending "
+          "of the night;\nIn every generation men are passing on the light,\nThe God of all the earth!")]
+    ),
+    Song(title: "How Great is our God", author: "Author Unknown",
+      verses: [
+          Verse(isChorus: false, lines: "How great is our God; How great is His name,\nHe’s the great I am; For ever the same.\n"
+          "He rolled back the waters,\nOf the mighty Red Sea,\nAnd He said, I’ll never leave you,\nPut your trust in Me.")]
+    ),
+    Song(title: "How I Praise Thee, Precious Saviour", author: "Mary E. Maxwell",
+      verses: [
+          Verse(isChorus: false, lines: "How I praise Thee, precious Saviour,\nThat Thy love laid hold of me;\n"
+          "Thou hast saved and cleansed and filled me,\nThat I might Thy channel be."),
+          Verse(isChorus: true, lines: "Channels only, blessed Master,\nBut with all Thy wondrous power,\n"
+          "Flowing through us, Thou can’st use us,\nEvery day and every hour."),
+          Verse(isChorus: false, lines: "Emptied that Thou shouldest fill me,\nA clean vessel in Thy hand;\n"
+          "With no power but as Thou givest,\nGraciously with each command."),
+          Verse(isChorus: false, lines: "Witnessing Thy power to save me,\nSetting free from self and sin;\n"
+          "Thou who boughtest to possess me,\nIn Thy fullness, Lord come in."),
+          Verse(isChorus: false, lines: "Jesus , fill now with Thy Spirit,\nHearts that full surrender know;\n"
+          "That the streams of living water,\nFrom our inner man may flow.")]
+    ),
+    Song(title: "How Lovely on the Mountains", author: "L.E Smith Jnr.",
+      verses: [
+          Verse(isChorus: false, lines: "How lovely on the mountains are the feet of Him,\nWho brings good news, good news;\n"
+          "Proclaiming peace, announcing news of happiness,\nOur God reigns! our God reigns!"),
+          Verse(isChorus: false, lines: "You watchmen lift your voices joyfully as one,\nShout for your King, your King;\n"
+          "See eye to eye the Lord restoring Zion:\nYour God reigns! your God reigns!"),
+          Verse(isChorus: false, lines: "Waste places of Jerusalem break forth with joy,\nWe are redeemed, redeemed.\n"
+          "The Lord has saved and comforted His people:\nYour God reigns! your God reigns!"),
+          Verse(isChorus: false, lines: "Ends of the earth see the salvation of our God,\nJesus is Lord, is Lord!\n"
+          "Before the nations He has bared His holy arm:\nOur God reigns! our God reigns!")]
+    ),
+    Song(title: "How Sweet and Awesome is the Place", author: "Isaac Watts",
+      verses: [
+          Verse(isChorus: false, lines: "How sweet and awesome is the place,\nWith Christ within the doors,\n"
+          "Where everlasting love displays\nThe choicest of her stores."),
+          Verse(isChorus: false, lines: "Here all the mercy of our God\nWith vast compassion rolls;\n"
+          "And peace and pardon through His blood,\nIs food for ransomed souls."),
+          Verse(isChorus: false, lines: "While all our hearts in prayer and song\nJoin to admire the feast,\n"
+          "Each of us cries, with thankful tongue,\n\“Lord, why was I a guest?\""),
+          Verse(isChorus: false, lines: "\“Why was I made to hear thy voice,\nAnd enter while there’s room;\n"
+          "When thousands make a wretched choice,\nAnd rather starve than come?\”"),
+          Verse(isChorus: false, lines: "‘Twas the same love that spread the feast,\nThat sweetly forced us in;\n"
+          "Else we had still refused to taste,\nAnd perished in our sin."),
+          Verse(isChorus: false, lines: "Pity the nations, O our God!\nConstrain the earth to come;\n"
+          "Send Thy victorious word abroad,\nAnd bring lost sinners home."),
+          Verse(isChorus: false, lines: "We long to see Thy churches full,\nThat all Thy chosen race\n"
+          "May with one voice and heart and soul:\nSing Thy redeeming grace.")]
+    ),
+    Song(title: "I am a New Creation", author: "Dave Bilbrough",
+      verses: [
+          Verse(isChorus: false, lines: "I am a new creation, no more in condemnation,\nHere in the grace of God I stand.\n"
+          "My heart is overflowing,\nMy love just keeps on growing,\nHere in the grace of God I stand."),
+          Verse(isChorus: true, lines: "And I will praise You Lord,\nYes I will praise You Lord,\nAnd I will sing of all that You have done."),
+          Verse(isChorus: false, lines: "A joy that knows no limit,\nA lightness in my spirit,\nHere in the grace of God I stand.")]
+    ),
+    Song(title: "I am Resolved no Longer to Linger", author: "Palmer Hartsough",
+      verses: [
+          Verse(isChorus: false, lines: "I am resolved no longer to linger,\nCharmed by the world’s delight;\n"
+          "Things that are higher, things that are nobler,\nThese have allured my sight."),
+          Verse(isChorus: true, lines: "I will hasten to Him, Hasten so glad and free;\nJesus, greatest, highest, I will come to Thee.\n"),
+          Verse(isChorus: false, lines: "I am resolved to go to the Saviour,\nLeaving my sin and strife;\n"
+          "He is the true one, He is the just one,\nHe has the words of life."),
+          Verse(isChorus: false, lines: "I am resolved to follow the Saviour,\nFaithful and true each day;\n"
+          "Heed what He sayeth, do what He willeth,\nHe is the living way."),
+          Verse(isChorus: false, lines: "I am resolved to enter the Kingdom,\nLeaving the paths of sin;\n"
+          "Friends may oppose me, foes may beset me,\nStill will I enter in."),
+          Verse(isChorus: false, lines: "I am resolved, and who will go with me?\nCome, friends, without delay;\n"
+          "Taught by the Bible, led by the Spirit,\nWe’ll walk the heavenly way.")]
+    ),
+    Song(title: "I Am so Glad that Our Father in Heaven", author: "Philip P. Bliss",
+      verses: [
+          Verse(isChorus: false, lines: "I am so glad that our Father in heaven,\nTells of His love in the Book He has given;\n"
+          "Wonderful things in the Bible I see:\nThis is the dearest, that Jesus loves me."),
+          Verse(isChorus: true, lines: "I am so glad that Jesus loves me,\nJesus loves me, Jesus loves me;\n"
+          "I am so glad that Jesus loves me,\nJesus loves even me."),
+          Verse(isChorus: false, lines: "Though I forget Him and wonder away,\nStill He doth love me wherever I stray;\n"
+          "Back to His dear loving arms would I flee:\nWhen I remember that Jesus loves me."),
+          Verse(isChorus: false, lines: "Oh, if there’s only one song I can sing,\nWhen in His beauty I see the great King;\n"
+          "This shall my song in eternity be:\n\“Oh, what a wonder that Jesus loves me!\”")]
+    ),
+    Song(title: "I Am the Bread of Life", author: "S. Suzanne Toolan",
+      verses: [
+          Verse(isChorus: false, lines: "I am the bread of life,\nHe who comes to Me shall not hunger,\nHe who believes in Me shall not thirst.\n"
+          "No one can come to Me\nUnless the Father draw him."),
+          Verse(isChorus: true, lines: "And I will raise him up; And I will raise him up,\nAnd I will raise him up on the last day.\n"),
+          Verse(isChorus: false, lines: "The bread that I will give\nIs My flesh for the life of the world,\n"
+          "And he who eats of this bread,\nHe shall live for ever,\nHe shall live for ever."),
+          Verse(isChorus: false, lines: "Unless you eat; of the flesh of the Son of man\nAnd drink of His blood; And drink of His blood,\n"
+          "You shall not have life within you."),
+          Verse(isChorus: false, lines: "I am the resurrection, I am the life,\nHe who believes in me; Even if he die,\n"
+          "He shall live for ever."),
+          Verse(isChorus: false, lines: "Yes Lord we believe\nThat You are the Christ,\nThe Son of God,\nWho has come; Into the world.")]
+    ),
+    Song(title: "I Am the Way, the Truth, and the Life", author: "Author Unknon",
+      verses: [
+          Verse(isChorus: false, lines: "\“I am the Way, the Truth, and the Life,\”\nThat’s what Jesus said.\n"
+          "\“I am the Way, the Truth, and the Life,\”That’s what Jesus said.\nWithout the Way, there is no going;\n"
+          "Without the Truth, there is no knowing;\nWithout the Life, there is no living.\n\“I am the Way, the Truth, and the Life,\”"
+          "That’s what Jesus said.")]
+    )
   ];
 
   // goes to view of selected song
