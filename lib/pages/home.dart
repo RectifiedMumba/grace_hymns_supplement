@@ -874,7 +874,149 @@ class _HomeState extends State<Home> {
           "\“I am the Way, the Truth, and the Life,\”That’s what Jesus said.\nWithout the Way, there is no going;\n"
           "Without the Truth, there is no knowing;\nWithout the Life, there is no living.\n\“I am the Way, the Truth, and the Life,\”"
           "That’s what Jesus said.")]
-    )
+    ),
+    Song(title: "I am Weak but Thou art Strong", author: "Author Unknown",
+      verses: [
+          Verse(isChorus: false, lines: "I am weak but Thou art strong,\nJesus keep me from all wrong;\n"
+          "I’ll be satisfied as long,\nAs I walk, let me walk close to Thee."),
+          Verse(isChorus: true, lines: "Just a closer walk with Thee,\nGrant it Jesus, this my plea;\n"
+          "Daily walking close to Thee:\nLet it be, dear Lord, let it be."),
+          Verse(isChorus: false, lines: "Through this world of toils and snares,\nIf I falter, Lord, who cares?\n"
+          "Who with me my burden shares?\nNone but Thee, dear Lord, none but Thee."),
+          Verse(isChorus: false, lines: "When my feeble life is o’er,\nTime for me will be no more;\n"
+          "Guide me gently safely home,\nTo Thy Kingdom’s shore, to Thy shore.")]
+    ),
+    Song(title: "I Asked the Lord that I might Grow", author: "John Newton",
+      verses: [
+          Verse(isChorus: false, lines: "I asked the Lord that I might grow\nIn faith, and love, and every grace,\n"
+          "Might more of His salvation know,\nAnd seek, more earnestly, His face."),
+          Verse(isChorus: false, lines: "‘Twas He that led me thus to pray,\nAnd He, I know, has answered prayer;\n"
+          "But it has been in such a way,\nAs almost drove me to despair."),
+          Verse(isChorus: false, lines: "I hoped that in some favoured hour\nMy Lord would answer my request,\n"
+          "And would by His constraining power\nSubdue my sins and give me rest."),
+          Verse(isChorus: false, lines: "Instead of this, He made me feel\nThe hidden evils of my heart,\n"
+          "And let the angry powers of hell\nAssault my soul in every part."),
+          Verse(isChorus: false, lines: "Then, with His own strong hand, He seemed\nIntent to aggravate my woe;\n"
+          "Thwarted the fair designs I schemed,\nWithered my pleasures; laid me low."),
+          Verse(isChorus: false, lines: "\“Lord, why is this?\” I trembling cried,\n\“Wilt Thou pursue my soul to death?\”\n"
+          "\“This is the way,\” the Lord replied,\n\“I answer prayer for grace and faith\""),
+          Verse(isChorus: false, lines: "\“These inward trials I employ,\nFrom self and pride to set you free;\n"
+          "And break your schemes of earthly joy,\nThat you may find your all in Me.\"")]
+    ),
+    Song(title: "I Cannot Tell why He, Whom Angels Worship, ", author: "W.Y. Fullerton",
+      verses: [
+          Verse(isChorus: false, lines: "I cannot tell why He, whom angels worship,\nShould set His love upon the sons of men;\n"
+          "Or why, as Shepherd, He should seek the wanderers,\nTo bring them back, they know not how or when.\n"
+          "But this I know that He was born of Mary,\nWhen Bethlehem’s manger was His only home;\n"
+          "And that He lived at Nazareth and laboured:\nAnd so the Saviour, Saviour of the world, is come."),
+          Verse(isChorus: false, lines: "I cannot tell how silently He suffered,\nAs with His peace He graced this place of tears;\n"
+          "Or how His heart upon the cross was broken\nThe crown of pain to three and thirty years.\n"
+          "But this I know, He heals the broken-hearted,\nAnd stays our sin, and calms our lurking fear;\n"
+          "And lifts the burden from the heavy laden,\nFor yet the Saviour, Saviour of the world, is here."),
+          Verse(isChorus: false, lines: "I cannot tell how He will win the nations,\nHow He will claim His earthly heritage;\n"
+          "How satisfy the needs and aspirations,\nOf east and west, of sinner and of sage.\n"
+          "But this I know, all flesh shall see His glory,\nAnd He shall reap the harvest He has sown,\n"
+          "And some glad day His sun shall shine in splendour:\nWhen He the Saviour, Saviour of the world, is known."),
+          Verse(isChorus: false, lines: "I cannot tell how all the lands shall worship,\nWhen at His bidding, every storm is stilled;\n"
+          "Or who can say how great the jubilation,\nWhen all the hearts of men with love are filled.\n"
+          "But this I know, the skies will thrill with rapture,\nAnd myriad, myriad human voices sing,\n"
+          "And earth to heaven, and heaven to earth will answer:\nAt last the Saviour, Saviour of the world, is King.")]
+    ),
+    Song(title: "I Gave my Life for Thee", author: "Frances R. Havergal",
+      verses: [
+          Verse(isChorus: false, lines: "I gave my life for thee,\nMy precious blood I shed;\nThat thou might’st ransomed be,\n"
+          "And quickened from the dead:\nI gave, I gave my life for thee,\nWhat hast thou given for Me?"),
+          Verse(isChorus: false, lines: "My Father’s house of light,\nMy glory-circled throne;\nI left for earthly night,\n"
+          "For wanderings sad and lone:\nI left, I left it all for thee,\nHast thou left aught for Me?"),
+          Verse(isChorus: false, lines: "I suffered much for thee,\nMore than thy tongue can tell;\nOf bitterest agony,\n"
+          "To rescue thee from hell:\nI’ve borne, I’ve borne it all for thee,\nWhat hast thou borne for Me?"),
+          Verse(isChorus: false, lines: "And I have brought to thee,\nDown from my home above;\nSalvation full and free,\n"
+          "My pardon and my love:\nI bring, I bring rich gifts to thee,\nWhat hast thou brought to Me?")]
+    ),
+    Song(title: "I have Decided to Follow Jesus", author: "S. Sundar Singh",
+      verses: [
+          Verse(isChorus: false, lines: "I have decided to follow Jesus,\nI have decided to follow Jesus,\n"
+          "I have decided to follow Jesus,\nNo turning back, no turning back."),
+          Verse(isChorus: false, lines: "Though no one join me, still I will follow,\nThough no one join me, still I will follow,\n"
+          "Though no one join me, still I will follow,\nNo turning back, no turning back."),
+          Verse(isChorus: false, lines: "The world behind me, the Cross before me,\nThe world behind me, the Cross before me,\n"
+          "The world behind me, the Cross before me,\nNo turning back, no turning back.")]
+    ),
+    Song(title: "I Hear my Blessed Saviour Say", author: "Author Unknown",
+      verses: [
+          Verse(isChorus: false, lines: "I hear my blessed Saviour say:\n\“Follow Me, follow Me, follow Me.\”\n"
+          "His voice is calling all the day:\n\“Follow Me, follow Me, follow Me.\”\nFor thee I trod the bitter way,\n"
+          "For thee I gave My life away,\nAnd drunk the gall thy debt to pay:\n\“Follow Me, follow Me, follow Me.\”\n"),
+          Verse(isChorus: false, lines: "Though thou sinned, I will pardon thee:\n\“Follow Me, follow Me, follow Me.\”\n"
+          "In every sin I will pardon thee,\n\“Follow Me, follow Me, follow Me.\”\nIn all thy changing, I will be\n"
+          "Thy God, thy Guard, on land and sea\nThy bliss through all eternity\n\“Follow Me, follow Me, follow Me.\”"),
+          Verse(isChorus: false, lines: "Come cast on me thy many cares\n\“Follow Me, follow Me, follow Me.\”\n"
+          "Thy heavy load my arm up bears\n\“Follow Me, follow Me, follow Me.\”\nLean on me and dismiss thy fears\n"
+          "And trust me with thy future years\nMy hand shall wipe away your tears\n\“Follow Me, follow Me, follow Me\”")]
+    ),
+    Song(title: "I Hear the Saviour Say", author: "Elvina M. Hall",
+      verses: [
+          Verse(isChorus: false, lines: "I hear the Saviour say\nYour strength indeed is small\nChild of weakness watch and pray\n"
+          "Find in Me your all in all"),
+          Verse(isChorus: true, lines: "Jesus paid it all\nAll to Him I owe\nSin had left a crimson stain\nHe washed it white as snow"),
+          Verse(isChorus: false, lines: "Lord now indeed I find\nYour power and Yours alone\nCan change the leper’s spots\n"
+          "And change the heart of stone"),
+          Verse(isChorus: false, lines: "For nothing good have I\nWhereby Your grace to claim\nI’ll wash my garments white\n"
+          "In the blood of Calvary’s Lamb"),
+          Verse(isChorus: false, lines: "And when before the throne\nI stand in Him complete\nJesus died my soul to save\n"
+          "My lips shall still repeat")]
+    ),
+    Song(title: "I Hear the Sound of Rustling in the Leaves of the Trees", author: "Ronnie Wilson",
+      verses: [
+          Verse(isChorus: false, lines: "I hear the sound of rustling in the leaves of the trees,\n"
+          "The Spirit of the Lord has come down on the earth.\nThe Church that seemed in slumber has now risen from its knees\n"
+          "And dry bones are responding with the fruits of new birth.\nOh this is now a time for declaration,\n"
+          "The word will go to all men everywhere;\nThe Church is here for healing of the nations,\nBehold the day of Jesus drawing near."),
+          Verse(isChorus: true, lines: "My tongue will be pen of a ready writer,\nAnd what the Father gives to me I’ll sing;\n"
+          "I only want to be His breath,\nI only want to glorify the King."),
+          Verse(isChorus: false, lines: "And all around the world the body waits expectantly,\n"
+          "The promise of the Father is now ready to fall,\nThe watchmen on the tower all exhort us to prepare\n"
+          "And the church responds – a people who will answer the call.\nAnd this is not a phase which is passing,\n"
+          "It’s the start of an age that is to come.\nAnd where is the wise man and the scoffer?\n"
+          "Before the face of Jesus they are dumb."),
+          Verse(isChorus: false, lines: "A body now prepared by God and ready for war,\n"
+          "The prompting of the Spirit is our word of command.\nWe rise, a mighty army, at the bidding of the Lord,\n"
+          "The devils see and fear, for their time is at hand.\nAnd children of the Lord hear our commission\n"
+          "That we should love and serve our God as one.\nThe Spirit won’t be hindered by division\n"
+          "In perfect work that Jesus has begun.")]
+    ),
+    Song(title: "I Hear thy Welcome Voice", author: "L. Hartsough",
+      verses: [
+          Verse(isChorus: false, lines: "I hear Thy welcome voice,\nThat calls me, Lord, to Thee;\n"
+          "For cleansing in Thy precious blood,\nThat flowed on Calvary."),
+          Verse(isChorus: true, lines: "I am coming, Lord! Coming now to Thee!\nWash me, cleanse me, in the blood,\n"
+          "That flowed on Calvary"),
+          Verse(isChorus: false, lines: "Though coming weak and vile,\nThou dost my strength assure;\n"
+          "Thou dost my vileness fully cleanse,\nTill spotless all and pure."),
+          Verse(isChorus: false, lines: "‘Tis Jesus calls me on; To perfect faith and love;\nTo perfect hope, and peace, "
+          "and trust,\nFor earth and heavens above."),
+          Verse(isChorus: false, lines: "‘Tis Jesus who confirms,\nThe blessed work within;\n"
+          "By adding grace to welcome grace,\nWhere reigned the power of sin."),
+          Verse(isChorus: false, lines: "And He the witness gives,\nTo loyal hearts and free,\n"
+          "That every promise is fulfilled,\nIf faith but brings the plea."),
+          Verse(isChorus: false, lines: "All hail, atoning blood! All hail, redeeming grace!\nAll hail, the gift of Christ "
+          "our Lord,\nOur strength and righteousness.")]
+    ),
+    Song(title: "I Heard an Old, Old Story", author: "Eugene.M. Bartlett",
+      verses: [
+          Verse(isChorus: false, lines: "I heard an old, old story, How a Saviour came from glory,\n"
+          "How He gave His life on Calvary To save a wretch like me;\nI heard about His groaning, Of His precious blood’s "
+          "atoning,\nThen I repented of my sins And won the victory."),
+          Verse(isChorus: true, lines: "O victory in Jesus, My Saviour, forever,\nHe sought me and bought me With\n"
+          "His redeeming blood;\nHe loved me ere I knew Him\nAnd all my love is due Him,\nHe plunged me to victory,\n"
+          "Beneath the cleansing flood."),
+          Verse(isChorus: false, lines: "I heard about His healing, Of His cleansing power revealing,\n"
+          "How He made the lame to walk again And caused the blind to see;\nAnd then I cried \“Dear Jesus, Come and heal my "
+          "broken spirit\”,\nAnd somehow Jesus came and brought to me the victory"),
+          Verse(isChorus: false, lines: "I heard about a mansion He has built for me in glory,\n nd I heard about the streets "
+          "of gold Beyond the  crystal sea;\nAbout the angels singing, And the old redemption story,\nAnd some sweet day I’ll "
+          "sing up there The song of victory.	")]
+    ),
   ];
 
   // goes to view of selected song
