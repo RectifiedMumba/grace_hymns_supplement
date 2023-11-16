@@ -1017,6 +1017,147 @@ class _HomeState extends State<Home> {
           "of gold Beyond the  crystal sea;\nAbout the angels singing, And the old redemption story,\nAnd some sweet day I’ll "
           "sing up there The song of victory.	")]
     ),
+    Song(title: "I'm Pressing on the Upward Way", author: "Johnson Oatman Jnr. & Ada R. Habershon",
+      verses: [
+          Verse(isChorus: false, lines: "I’m pressing on the upward way,\nNew heights I’m gaining every day;\n"
+          "Still praying as I’m onward bound,\n\“Lord, plant my feet on higher ground.\”"),
+          Verse(isChorus: true, lines: "Lord, lift me up and let me stand,\nBy faith, on heaven’s tableland;\n"
+          "Where love, and joy, and light abound,\nLord, plant my feet on higher ground."),
+          Verse(isChorus: false, lines: "My heart has no desire to stay,\nWhere doubts arise and fears dismay;\n"
+          "Though some may dwell where these abound,\nMy prayer, my aim, is higher ground."),
+          Verse(isChorus: false, lines: "I want to live above the world,\nThough Satan’s darts at me are hurled;\n"
+          "For faith has caught the joyful sound,\nThe song of saints on higher ground."),
+          Verse(isChorus: false, lines: "I long to scale the utmost height,\nAnd catch a gleam of glory bright;\n"
+          "But still I’ll pray till heaven I’ve found,\n\“Lord, lead me on to higher ground.\”")]
+    ),
+    Song(title: "I'm Rejoicing Night and Day", author: "Herbert Buffum",
+      verses: [
+          Verse(isChorus: false, lines: "I’m rejoicing night and day,\nAs I walk the pilgrim way,For the hand of God in all my life I see,\n"
+          "And the reason of the bliss,\nYes, the secret all is this:\nThat the Comforter abides with me."),
+          Verse(isChorus: true, lines: "He abides,..He abides, …\nHallelujah, He abides with me!\nI’m rejoicing night and day,\n"
+          "As I walk the narrow way,\nFor the Comforter abides with me."),
+          Verse(isChorus: false, lines: "Once my heart was full of sin,\nOnce I had no peace within,\nTill I heard how Jesus died upon the "
+          "tree;\nThen I fell down at His feet,\nAnd there came a peace so sweet,\nNow the Comforter abides with me."),
+          Verse(isChorus: false, lines: "He is with me everywhere,\nAnd He knows my every care,\nI’m as happy as a bird and just as free;\n"
+          "For the Spirit has control,\nJesus satisfies my soul,\nSince the Comforter abides with me."),
+          Verse(isChorus: false, lines: "There’s no thirsting for the things\nOf the world – they’ve taken wings;\nLong ago I gave them \n"
+          "up, and instantly\nAll my night was turned to day,\nAll my burdens rolled away,\nNow the Comforter abides with me.")]
+    ),
+    Song(title: "I've a Message from the Lord", author: "W.A. Ogden",
+      verses: [
+          Verse(isChorus: false, lines: "I’ve a message from the Lord, hallelujah!\nThe message unto you I'll give;\n"
+          "‘Tis recorded in His word, hallelujah!\nIt is only that you \“Look and live!\n”"),
+          Verse(isChorus: true, lines: "\“Look and live!\” my brother, live!\nLook to Jesus now and live;\n"
+          "‘Tis recorded in His word, hallelujah!\nIt is only that you \“Look and live!\”"),
+          Verse(isChorus: false, lines: "I’ve a message full of love, hallelujah!\nA message, Oh my friend, for you\n"
+          "‘Tis a message from above, hallelujah!\nJesus said it and I know ‘tis true."),
+          Verse(isChorus: false, lines: "Life is offered unto you, hallelujah!\nEternal life thy soul shall have;\n"
+          "If you’ll only look to Him, hallelujah!\nLook to Jesus who alone can save."),
+          Verse(isChorus: false, lines: "I will tell you how I came, hallelujah!\nTo Jesus when He made me whole:\n"
+          "‘Twas believing on His name, hallelujah!\nI trusted and He saved my soul.")]
+    ),
+    Song(title: "I've Found a Friend in Jesus", author: "Charles W. Fry",
+      verses: [
+          Verse(isChorus: false, lines: "I’ve found a friend in Jesus, He’s everything to me,\nHe’s the fairest of ten thousand to my soul;\n"
+          "The Lily of the Valley, in Him alone I see:\nAll I need to cleanse and make me fully whole.\nIn sorrow He’s my Comfort, in "
+          "trouble He’s my Stay,\nHe tells me every care on Him to roll;\nHe’s the Lily of the Valley, the Bright and Morning Star,\n"
+          "He’s the fairest of ten thousand to my soul."),
+          Verse(isChorus: true, lines: "In sorrow He’s my Comfort, in trouble He’s my Stay,\nHe tells me every care on Him to roll;\n"
+          "He’s the Lily of the Valley, the Bright and Morning Star,\nHe’s the fairest of ten thousand to my soul."),
+          Verse(isChorus: false, lines: "He all my grief has taken, and all my sorrows borne,\nIn temptation He’s my strong and mighty Tower;\n"
+          "I’ve all for Him forsaken, and all my idols torn,\nFrom my heart, and now He keeps me by His power.\n"
+          "Though all the world forsake me, and Satan tempt me sore,\nThrough Jesus I shall safely reach the goal;\n"
+          "He’s the Lily of the Valley, the Bright and Morning Star,\nHe’s the fairest of ten thousand to my soul."),
+          Verse(isChorus: false, lines: "He’ll never, never leave me, nor yet forsake me here,\nWhile I live by faith and do His blessed will;\n"
+          "A wall of fire about me, I’ve nothing now to fear,\nWith His manna He my hungry soul shall fill.\n"
+          "Then sweeping up to glory, I’ll see His blessed face,\nWhere rivers of delight shall ever flow;\n"
+          "He’s the Lily of the Valley, the Bright and Morning Star,\nHe’s the fairest of ten thousand to my soul.")]
+    ),
+    Song(title: "I’ve Wandered far Away from God", author: "William J. Kirkpatrick",
+      verses: [
+          Verse(isChorus: false, lines: "I’ve wandered far away from God,\nNow I’m coming home;\n"
+          "The paths of sin too long I’ve trod,\nLord, I’m coming home."),
+          Verse(isChorus: true, lines: "Coming home, coming home,\nNever more to roam;\n"
+          "Open wide Thine arms of love,\nLord, I’m coming home."),
+          Verse(isChorus: false, lines: "I’ve wasted many precious years,\nNow I’m coming home;\n"
+          "I now repent with bitter tears,\nLord, I’m coming home."),
+          Verse(isChorus: false, lines: "I’ve tired of sin and straying, Lord,\nNow I’m coming home;\n"
+          "I’ll trust Thy love, believe Thy word,\nLord, I’m coming home."),
+          Verse(isChorus: false, lines: "My soul is sick, my heart is sore,\nNow I’m coming home;\n"
+          "My strength renew, my hope restore,\nLord, I’m coming home."),
+          Verse(isChorus: false, lines: "My only hope, my only plea,\nNow I’m coming home;\n"
+          "That Jesus died, and died for me,\nLord, I’m coming home."),
+          Verse(isChorus: false, lines: "I need His cleansing blood I know,\nNow I’m coming home;\n"
+          "Oh, wash me whiter than the snow,\nLord, I’m coming home.")]
+    ),
+    Song(title: "I Saw a Way Worn Traveller", author: "Ira D. Sankey", 
+      verses: [
+          Verse(isChorus: false, lines: "I saw a way worn traveller,\nIn tattered garments clad,\n"
+          "And struggling up the mountain,\nIt seemed that he was sad;\nHis back was laden heavy,\n"
+          "His strength was almost gone,\nYet he shouted as he journeyed,\n\“Deliverance will come!\”"),
+          Verse(isChorus: true, lines: "\“Then palms of victory; Crowns of glory,\nPalms of victory; I shall bear.\”"),
+          Verse(isChorus: false, lines: "The summer sun was shining,\nThe sweat was on his brow,\n"
+          "His garments worn and dusty,\nHis step seemed very slow;\nBut he kept pressing onward,\n"
+          "For he was wending home,\nStill shouting as he journeyed,\n\“Deliverance will come!\”"),
+          Verse(isChorus: false, lines: "The songsters in the arbour\nThat stood beside the way\n"
+          "Attracted his attention,\nInviting his delay:\nHis watchword being \“Onward!\”\n"
+          "He stopped his ears and ran,\nStill shouting as he journeyed,\n\“Deliverance will come!\”"),
+          Verse(isChorus: false, lines: "I saw him in the evening;\nThe sun was bending low;\nHe’d overtopped the mountain,\n"
+          "And reached the vale below:\nHe saw the golden city\nHis everlasting home,\n"
+          "And shouted loud, \“Hosanna!\nDeliverance will come!\”"),
+          Verse(isChorus: false, lines: "While gazing on the city,\nJust o’er the narrow flood,\nA band of holy angels\n"
+          "Came from the throne of God;\nThey bore him on their pinions\nSafe o’er the dashing foam,\n"
+          "And joined him in his triumph:\nDeliverance had come!"),
+          Verse(isChorus: false, lines: "I heard the song of triumph\nThey sang upon that shore,\nSaying, \“Jesus has redeemed us\n"
+          "To suffer nevermore!\”\nThen, casting his eyes backward\nOn the race which he had run,\n"
+          "He shouted loud, \“Hosanna!\nDeliverance has come!\”")]
+    ),
+    Song(title: "I Serve a Risen Saviour", author: "Afred H. Ackley",
+      verses: [
+          Verse(isChorus: false, lines: "I serve a risen Saviour, He’s in the world today,\nI know that He is living, whatever men may say;\n"
+          "I see His hand of mercy, I hear His voice of cheer,\nAnd just the time I need Him, He’s always near."),
+          Verse(isChorus: true, lines: "He lives! He lives! Christ Jesus lives today:\nHe walks with me and talks with me,\n"
+          "along life’s narrow way;\nHe lives! He lives! Salvation to impart!\nYou ask me how I know He lives?\nHe lives within my heart!"),
+          Verse(isChorus: false, lines: "In all the world around me I see His loving care,\nAnd though my heart grows weary, I never will "
+          "despair;\nI know that He is leading through all the stormy blast,\nThe day of His appearing will come at last."),
+          Verse(isChorus: false, lines: "Rejoice, rejoice, O Christian, lift up your voice and sing!\nEternal hallelujahs to Jesus Christ "
+          "the King!\nThe hope of all who seek Him, the Help of all who find,\nNone other is so loving, so good and kind!"),]
+    ),
+    Song(title: "I Want to Walk with Jesus Christ", author: "C. Simmonds",
+      verses: [
+          Verse(isChorus: false, lines: "I want to walk with Jesus Christ,\nAll the days I live of this life on earth,\n"
+          "To give to Him complete control\nOf body and of soul."),
+          Verse(isChorus: true, lines: "Follow Him, follow Him, yield your life to Him,\nHe has conquered death, He is "
+          "King of kings;\nAccept the joy that he gives to those\nWho yield their lives to Him."),
+          Verse(isChorus: false, lines: "I want to learn to speak to Him,\nTo pray to Him, confess my sin\n"
+          "To open my life and let Him in,\nFor joy will then be mine."),
+          Verse(isChorus: false, lines: "I want to learn to speak of Him,\nMy life must show that He lives in me,\n"
+          "My deeds, my thoughts, my words must speak\nAll of His love for me."),
+          Verse(isChorus: false, lines: "I want to learn to read His word,\nFor this is how I know the way\n"
+          "To live my life as pleases Him,\nIn holiness and joy."),
+          Verse(isChorus: false, lines: "O Holy Spirit of the Lord,\nEnter now into this heart of mine,\n"
+          "Take full control of my selfish will\nAnd make me wholly Thine.")]
+    ),
+    Song(title: "I was Sinking Deep in Sin", author: "James Rowe",
+      verses: [
+          Verse(isChorus: false, lines: "I was sinking deep in sin,\nFar from the peaceful shore;\nVery deeply stained within,\n"
+          "Sinking to rise no more;\nBut the Master of the sea,\nHeard my despairing cry,\nFrom the waters lifted me\nNow safe am I."),
+          Verse(isChorus: true, lines: "Love lifted me! Love lifted me!\nWhen nothing else could help,\nLove lifted me!"),
+          Verse(isChorus: false, lines: "All my heart to Him I give,\nEver to Him I’ll cling;\nIn His blessed presence live,\n"
+          "Ever His praises sing;\nLove so mighty and so true,\nMerits my soul’s best songs;\nFaithful, loving service, too,\nTo Him belongs."),
+          Verse(isChorus: false, lines: "Souls in danger, look above,\nJesus completely saves;\nHe will lift you by His love,\n"
+          "Out of the angry waves;\nHe’s the Master of the sea,\nBillows His will obey;\nHe your Saviour wants to be,\nBe saved today.")]
+    ),
+    Song(title: "I will Bless the Lord at All Times", author: "Ross Flemin",
+      verses: [
+          Verse(isChorus: false, lines: "I will bless the Lord at all times,\nHis praise shall continually, be in my mouth;\n"
+          "My soul shall make its boast, in the Lord,\nThe humble shall hear and be glad."),
+          Verse(isChorus: true, lines: "O magnify the Lord with me,\nAnd let us exalt His name together;\n"
+          "I sought the Lord and He heard my cry,\nAnd delivered me from all my fears."),
+          Verse(isChorus: false, lines: "They looked unto Him and were radiant,\nAnd their faces were not ashamed;\n"
+          "This poor man cried and the Lord heard him,\nAnd delivered him out of all his troubles…")
+      ]
+    )
   ];
 
   // goes to view of selected song
