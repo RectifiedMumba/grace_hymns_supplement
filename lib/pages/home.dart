@@ -1155,8 +1155,98 @@ class _HomeState extends State<Home> {
           Verse(isChorus: true, lines: "O magnify the Lord with me,\nAnd let us exalt His name together;\n"
           "I sought the Lord and He heard my cry,\nAnd delivered me from all my fears."),
           Verse(isChorus: false, lines: "They looked unto Him and were radiant,\nAnd their faces were not ashamed;\n"
-          "This poor man cried and the Lord heard him,\nAnd delivered him out of all his troubles…")
-      ]
+          "This poor man cried and the Lord heard him,\nAnd delivered him out of all his troubles…")]
+    ),
+    Song(title: "I will Call Upon the Lord", author: "Michael O’Shields",
+      verses: [
+          Verse(isChorus: false, lines: "I will call upon the Lord,\nWho is worthy to be praised,\n"
+          "So shall I be saved from mine enemies."),
+          Verse(isChorus: false, lines: "The Lord liveth, and blessed be the Rock\nAnd may the God of my salvation be exalted.\n"
+          "The Lord liveth, and blessed be the Rock\nAnd may the God of my salvation be exalted.")]
+    ),
+    Song(title: "I will Follow wherever He Leads", author: "Author Unknown",
+      verses: [
+          Verse(isChorus: false, lines: "I will follow wherever He leads:\nEvery problem my Saviour He knows;\n"
+          "Though the path may be long,\nWith His help I’ll be strong;\nI will go just wherever He goes."),
+          Verse(isChorus: true, lines: "He may lead me to countries where troubles surround;\nEven there, He’ll be with me, I know:\n"
+          "I promise, I’Il follow wherever\nChrist leads me, and so\nI will go just wherever He goes."),
+          Verse(isChorus: false, lines: "When the sun starts to set in the sky,\nI shall know that I’m nearer my home;\n"
+          "But until that great day,\nI shall still trust and pray,\nI will go just wherever He goes."),]
+    ),
+    Song(title: "I will Sing of the Mercies of the Lord Forever", author: "J.H. Fullmore",
+      verses: [
+          Verse(isChorus: false, lines: "I will sing of the mercies of the Lord forever,\nI will sing, I will sing;\n"
+          "I will sing of the mercies of the Lord forever,\nI will sing of the mercies of the Lord.\n"
+          "With my mouth will I make known:\nThy faithfulness! Thy faithfulness!\nWith my mouth will I make known,\n"
+          "Thy faithfulness to all generations …")]
+    ),
+    Song(title: "I will Sing unto the Lord", author: "Donya Brockway",
+      verses: [
+          Verse(isChorus: false, lines: "I will sing unto the Lord as long as I Iive,\nI will sing praise to my God while I have my "
+          "being;\nMy meditation of Him shall be sweet,\nI will be glad, I will be glad in the Lord."),
+          Verse(isChorus: false, lines: "Bless thou the Lord, O my soul,\nPraise ye the Lord!\nBless thou the Lord, O my soul,\n"
+          "Praise ye the Lord!\nBless thou the Lord, O my soul,\nPraise ye the Lord!\nBless thou the Lord, O my soul,\n"
+          "Praise ye the Lord!")]
+    ),
+    Song(title: "I Would Rather have Jesus", author: "Rhea F. Miller",
+      verses: [
+          Verse(isChorus: false, lines: "I would rather have Jesus\nThan silver or gold;\nI would rather be His\n"
+          "Than have riches untold;\nI would rather have Jesus\nThan houses or land;\nI would rather be led\n"
+          "By His nail pierced hand\n"),
+          Verse(isChorus: true, lines: "Than to be the King, of a vast domain,\nOr be held in sin’s,straight sway.\n"
+          "I would rather have Jesus\nThan anything; this world affords today."),
+          Verse(isChorus: false, lines: "I would rather have Jesus\nThan men’s applause;\nAnd I’d rather be faithful\n"
+          "To His dear cause;\nI would rather have Jesus\nThan worldwide fame;\nI would rather be true\nTo His holy Name."),
+          Verse(isChorus: false, lines: "He’s fairer than lilies of rarest bloom\nHe’s sweeter than honey from out the comb\n"
+          "He’s all that my hungering spirit needs\nI’d rather have Jesus and let Him lead")]
+    ),
+    Song(title: "If I Walk in the Pathway of Duty", author: "Rev. Johnson Oatman",
+      verses: [
+          Verse(isChorus: false, lines: "If I walk in the pathway of duty,\nIf I work till the close of the day;\n"
+          "I shall see the great King in His beauty,\nWhen I’ve gone the last mile of the way."),
+          Verse(isChorus: true, lines: "When I’ve gone the last mile of the way,\nI will rest at the close of the day;\n"
+          "And I know there are joys that await me,\nWhen I’ve gone the last mile of the way."),
+          Verse(isChorus: false, lines: "If for Christ I proclaim the glad story,\nIf I seek for His sheep gone astray;\n"
+          "I am sure He will show me His glory,\nWhen I’ve gone the last mile of the way."),
+          Verse(isChorus: false, lines: "Here the dearest of ties we must sever,\nTears of sorrow are seen everyday;\n"
+          "But no sickness, no sighing forever,\nWhen I’ve gone the last mile of the way."),
+          Verse(isChorus: false, lines: "And if here I have earnestly striven,\nAnd have tried all His will to obey;\n"
+          "‘Twill enhance all the rapture of heaven,\nWhen I’ve gone the last mile of the way.")]  
+    ),
+    Song(title: "If without Faith, I Lose my Way in Darkness", author: "Author Unknown",
+      verses: [
+          Verse(isChorus: false, lines: "If without faith, I lose my way in darkness,\nAnd without faith my hopes and dreams would "
+          "fail;\nThen give me faith to flood my way with brightness,\nAnd give me faith to see my hope prevail:"),
+          Verse(isChorus: true, lines: "Almighty God, the source of my salvation,\nImpart to me your miracle of faith.\n"),
+          Verse(isChorus: false, lines: "Let faith remain a bulwark for all seasons,\nLet faith be always equal to the hour;\n"
+          "Be not concerned with earthly doubts or reasons,\nFly on the wings of faith’s eternal power")]
+    ),
+    Song(title: "If You from Sin are Longing to be Free", author: "H.G. Jackson",
+      verses: [
+          Verse(isChorus: false, lines: "If you from sin are longing to be free,\nLook to the Lamb of God;\n"
+          "He to redeem you died on Calvary,\nLook to the Lamb of God."),
+          Verse(isChorus: true, lines: "Look to the Lamb of God!\nLook to the Lamb of God!\n"
+          "For He alone is able to save you:\nLook to the Lamb of God!"),
+          Verse(isChorus: false, lines: "When Satan tempts, and doubts, and fears assail,\nLook to the Lamb of God;\n"
+          "You in His strength shall over all prevail,\nLook to the Lamb of God."),
+          Verse(isChorus: false, lines: "Are you weary, does the way seem long?\nLook to the Lamb of God;\n"
+          "His love will cheer and fill your heart with song,\nLook to the Lamb of God."),
+          Verse(isChorus: false, lines: "Fear not when shadows on your pathway fall,\nLook to the Lamb of God;\n"
+          "In joy or sorrow, Christ is all in all,\nLook to the Lamb of God.")]
+    ),
+    Song(title: "Ilyo Babatishe Yesu", author: "Author Unknown",
+      verses: [
+          Verse(isChorus: false, lines: "Leader:    Ilyo babatishe Yesu,\nAll:    No mulu waiswike,\nNo Mupashi waikele nge cipele"),
+          Verse(isChorus: false, lines: "Leader:    Aleluya, amen!\nAll:    Aleluya, amen!\nAleluya, amen!Aleluya, amen!"),
+          Verse(isChorus: false, lines: "Leader:    Nga mwafuma mu menshi,\nAll:    Mwitila nomba capwa,\nNomba e nshita mwafika mu"
+          "bwafya.")]
+    ),
+    Song(title: "Imwe Mwe Lesa Wesu", author: "Author Unknown",
+      verses: [
+          Verse(isChorus: false, lines: "Imwe mwe Lesa wesu,\nMwatupela umwana wenu;\nUyo uwatemwikwa, uwa fyelwe eka;\n"
+          "Amalumbo kulimwe,\nBukata bonse twamipela, Mwetata."),
+          Verse(isChorus: false, lines: "Twamilumba, twamilumba,\nTwami lumbanya mwe Tata;\nMwe baliko, mwe babako,\n"
+          "Mukabako umuyayaya mwe Tata.")]
     )
   ];
 
