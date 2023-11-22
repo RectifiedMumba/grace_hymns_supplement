@@ -1247,6 +1247,132 @@ class _HomeState extends State<Home> {
           "Amalumbo kulimwe,\nBukata bonse twamipela, Mwetata."),
           Verse(isChorus: false, lines: "Twamilumba, twamilumba,\nTwami lumbanya mwe Tata;\nMwe baliko, mwe babako,\n"
           "Mukabako umuyayaya mwe Tata.")]
+    ),
+    Song(title: "In a World Full of Sin", author: "Wezi Kaonga",
+      verses: [
+          Verse(isChorus: false, lines: "In a world full of sin\nFull of sorrow and death\nThe only place you should be\n"
+          "Is in God’s refuge-under His wings"),
+          Verse(isChorus: true, lines: "Under His wings\nYou will find a resting place\nUnder His wings\n"
+          "That’s the place where you should be\nUnder His wings"),
+          Verse(isChorus: false, lines: "You have tried and have failed\nTo achieve victory\n"
+          "You will find all the strength\nThat you need to win the fight-under His wings"),
+          Verse(isChorus: false, lines: "Jesus calms troubled waters\nHe rebukes the raging storm\n"
+          "And perfect peace and relief\nWill be yours if you come-under His wings")]  
+    ),
+    Song(title: "In Christ Alone", author: "Stuart Townend & Keith Getty\n©2001 Thankyou Music\nwww.worshiptogether.com", 
+        verses: [
+            Verse(isChorus: false, lines: "In Christ alone my hope is found,\nHe is my Light, my Strength, my Song;\n"
+            "This cornerstone, this solid ground,\nFirm through the fiercest drought and storm.\n"
+            "What heights of love, what depths of peace,\nWhen fears are stilled, when striving cease!\n"
+            "My Comforter, my All in All\nHere in the love of Christ I stand."),
+            Verse(isChorus: false, lines: "In Christ alone! Who took on flesh,\nFullness of God in helpless babe!\n"
+            "This gift of love and righteousness,\nScorned by the ones He came to save:\n"
+            "Till on that cross as Jesus died,\nThe wrath of God was satisfied;\n"
+            "For every sin on Him was laid;\nHere in the death of Christ I live."),
+            Verse(isChorus: false, lines: "There in the ground His body lay,\nLight of the world by darkness slain:\n"
+            "Then bursting forth in glorious day\nUp from the grave He rose again!\n"
+            "And as He stands in victory\nSin’s curse has lost its grip on me,\n"
+            "For I am His and He is mine,\nBought with the precious blood of Christ."),
+            Verse(isChorus: false, lines: "No guilt in life, no fear in death,\nThis is the power of Christ in me.\n"
+            "From life’s first cry to final breath,\nJesus commands my destiny.\n"
+            "No power of hell, no scheme of man\nCan ever pluck me from His hand;\n"
+            "Till He returns or calls me home;\nHere in the power of Christ I’ll stand.")]
+    ),
+    Song(title: "In Shady Green Pastures", author: "G.A. Young",
+      verses: [
+          Verse(isChorus: false, lines: "In shady green pastures, so rich and so sweet,\nGod leads His dear children along;\n"
+          "Where the water’s cool flow bathes the weary one’s feet,\nGod leads His dear children along."),
+          Verse(isChorus: true, lines: "Some thro’ the waters, some thro’ the flood,\nSome thro’ the fire, but all thro’ the blood;\n"
+          "Some thro’ great sorrow, but God gives a song;\nIn the night season and all the day long."),
+          Verse(isChorus: false, lines: "Sometimes on the mount where the sun shines so bright,\nGod leads His dear children along;\n"
+          "Sometimes in the valley in the darkest night,\nGod leads His dear children along."),
+          Verse(isChorus: false, lines: "Tho’ sorrows befall us, and Satan oppose,\nGod leads His dear children along;\n"
+          "Through grace we can conquer, defeat all our foes,\nGod leads His dear children along."),
+          Verse(isChorus: false, lines: "Away from the mire, and away from the clay,\nGod leads His dear children along;\n"
+          "Away up in glory, eternity’s day,\nGod leads His dear children along.")]
+    ),
+    Song(title: "Inspirer of the Ancient Seers", author: "Charles Wesley",
+      verses: [
+          Verse(isChorus: false, lines: "Inspirer of the ancient seers,\nWho wrote from Thee the sacred page,\n"
+          "Kept through the long succeeding years\nFor us in our benighted age:\nThe message of that word impart\n"
+          "And break its life into our heart."),
+          Verse(isChorus: false, lines: "While now the text divine we read,\nWith earnest prayer and strong desire,\n"
+          "O may a work in us proceed\nOur souls to quicken and inspire;\nOur dullness help, our blindness chase,\n"
+          "And guide us by the light of grace."),
+          Verse(isChorus: false, lines: "The sacred lessons of Thy ways,\nTransmitted through Thy word, repeat;\n"
+          "And train us up to themes of grace;\nAnd make us in Thy will complete;\nFulfil Thy love’s redeeming plan\n"
+          "And bring us to a perfect man."),
+          Verse(isChorus: false, lines: "So furnished from Thy treasury,\nO may we always ready stand\n"
+        "To help the souls redeemed by Thee\nIn what their various states demand;\nTo teach, convince, correct, "
+        "reprove,\nAnd build them up in serving love.")]
+    ),
+    Song(title: "It May not be on the Mountain's Height", author: "Carrie E. Rounsefell",
+      verses: [
+          Verse(isChorus: false, lines: "It may not be on the mountain’s height,\nOr over the storm and sea;\n"
+          "It may not be at the battle’s front\nMy Lord will have need of me;\nBut if by a still, small voice He calls\n"
+          "To paths I do not know,\nI’ll answer, dear Lord, with my hand in Thine\nI’ll go where You want me to go."),
+          Verse(isChorus: true, lines: "I’ll go where You want me to go, dear Lord,\nOver mountain or plain, or sea;\n"
+          "I’ll say what You want me to say, dear Lord,\nI’ll be what You want me to be."),
+          Verse(isChorus: false, lines: "Perhaps today there are loving words\nWhich Jesus would have me speak;\n"
+          "There may be now, in the paths of sin,\nSome wanderer whom I should seek.\nO, Saviour, if Thou wilt be my Guide,\n"
+          "Though dark and rugged the way,\nMy voice shall echo the message sweet,\nI’ll say what You want me to say."),
+          Verse(isChorus: false, lines: "There’s surely somewhere a lowly place\nIn earth’s harvest field so wide,\n"
+          "Where I may labour thro’life’s short day.\nFor Jesus the Crucified.\nSo, trusting and all unto Thy care,\n"
+          "I know Thou lovest me!\nI’ll do Thy will with a heart sincere,\nI’ll be what You want me to be.")]
+    ),
+    Song(title: "It's Not an Easy Road", author: "John W. Peterson",
+      verses: [
+          Verse(isChorus: false, lines: "It’s not an easy road, we are travelling to heaven,\nFor many are the thorns on the way;\n"
+          "It’s not an easy road, but the Saviour is with us,\nHis presence gives us joy every day."),
+          Verse(isChorus: true, lines: "No, no! It’s not an easy road,\nNo, no! It’s not an easy road;\n"
+          "But Jesus walks beside me and brightens the journey,\nAnd lightens every heavy load."),
+          Verse(isChorus: false, lines: "It’s not an easy road there are trials and troubles,\nAnd many are the dangers we meet;\n"
+          "But Jesus guards and keeps so that nothing can harm us,\nAnd smoothes the rugged path for our feet."),
+          Verse(isChorus: false, lines: "Though I am often footsore and weary from travel\nThough I am often bowed down with care;\n"
+          "A better day is coming when home in the glory,\nWe’ll rest in perfect peace over there.")]
+    ),
+    Song(title: "It Only Takes a Spark", author: "Kurt Kaiser",
+      verses: [
+          Verse(isChorus: false, lines: "It only takes a spark to get a fire going,\nAnd soon all those around can warm up in its "
+          "glowing;\nThat’s how it is with God’s love; Once you’ve experienced it,\nYou spread His love to everyone; You want to "
+          "pass it on."),
+          Verse(isChorus: false, lines: "What a wondrous time is spring when all the trees are budding,\nThe birds begin to sing, "
+          "the flowers start their blooming;\nThat’s how it is with God’s love; Once you’ve experienced it,\nYou want to sing, "
+          "it’s fresh like spring, You want to pass it on."),
+          Verse(isChorus: false, lines: "I wish for you, my friends, this happiness that I’ve found,\nYou can depend on Him, It matters "
+          "not where you’re bound;\nI’ll shout it from the mountain top, I want my world to know;\nThe Lord of love has come to me, I "
+          "want to pass it on.")]
+    ),
+    Song(title: "Jesus Commanded us to Be", author: "Author Unknown",
+      verses: [
+          Verse(isChorus: false, lines: "Jesus commanded us to be,\nA light shining out for all to see:"),
+          Verse(isChorus: true, lines: "Let my light shine, all of the time,\nThat all may see, the Saviour "
+          "in me,\nAnd may come to know the Lord."),
+          Verse(isChorus: false, lines: "We are a city on the hill,\nTo guide people lost in darkness still:"),
+          Verse(isChorus: false, lines: "Let us be careful what we do,\nOur lives are for ever full in view:")]
+    ),
+    Song(title: "Jesus is a Wonderful Saviour", author: "Author Unknown",
+      verses: [
+          Verse(isChorus: false, lines: "Jesus is a wonderful Saviour,\nHe will carry you through;\n"
+          "Jesus is a wonderful Saviour,\nHe will carry you through;\nJesus is a wonderful Saviour,\n"
+          "He will carry you through;\nAnd when the battle is done,\nAnd the victory’s won,\n"
+          "My Lord will carry you through;\nAnd on that last day\nWhen you’re facing your Maker,\n"
+          "You’ll need my Jesus\nTo be your Saviour;\nHe’ll ever hide you in the Rock of ages,\n"
+          "The Rock of ages that was cleft for you.")]
+    ),
+    Song(title: "Jesus is Lord", author: "David J. Mansell",
+      verses: [
+          Verse(isChorus: false, lines: "Jesus is Lord!\nCreation’s voice proclaims it:\nFor by His power, each "
+          "tree and flower\nWas planned and made.\nJesus is Lord! the universe declares it:\nSun, moon and stars "
+          "in heaven Cry, \“Jesus is Lord!\""),
+          Verse(isChorus: true, lines: "Jesus is Lord! Jesus is Lord!\nPraise Him with hallelujahs\n"
+          "For Jesus is Lord!"),
+          Verse(isChorus: false, lines: "Jesus is Lord! Yet from His throne eternal:\nIn flesh He came, to die in "
+          "pain,\nOn Calv’ry’s tree. Jesus is Lord!\nFrom Him all life proceeding,\nYet gave His life a ransom,\n"
+          "Thus setting us free …"),
+          Verse(isChorus: false, lines: "Jesus is Lord!\nO’er sin the mighty Conqueror:\nFrom death He rose and "
+          "all His foes\nShall own His name.\nJesus is Lord! God sent His Holy Spirit:\nTo show by works of power,\n"
+          "That \“Jesus is Lord!\”…")]
     )
   ];
 
