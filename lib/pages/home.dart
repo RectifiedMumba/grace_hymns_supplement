@@ -1373,6 +1373,108 @@ class _HomeState extends State<Home> {
           Verse(isChorus: false, lines: "Jesus is Lord!\nO’er sin the mighty Conqueror:\nFrom death He rose and "
           "all His foes\nShall own His name.\nJesus is Lord! God sent His Holy Spirit:\nTo show by works of power,\n"
           "That \“Jesus is Lord!\”…")]
+    ),
+    Song(title: "Jesus, My Lord, to Thee I Cry", author: "Eliza H. Hamilton",
+      verses: [
+          Verse(isChorus: false, lines: "Jesus, my Lord, to Thee I cry;\nUnless Thou help me I must die:\n"
+          "Oh, bring Thy free salvation nigh,\nAnd take me as I am."),
+          Verse(isChorus: true, lines: "And take me as I am! And take me as I am!\nMy only plea—Christ "
+          "died for me,\nOh, take me as I am!"),
+          Verse(isChorus: false, lines: "Helpless I am and full of guilt;\nBut yet for me Thy blood was spilt,\n"
+          "And Thou can’st make me what Thou wilt,\nAnd take me as I am."),
+          Verse(isChorus: false, lines: "No preparation can I make,\nMy best resolves I only break:\n"
+          "Yet save me for Thine own name’s sake,\nAnd take me as I am."),
+          Verse(isChorus: false, lines: "Behold me, Saviour, at Thy feet,\nDeal with me as Thou seest meet;\n"
+          "Thy work begin, Thy work complete,\nAnd take me as I am.")]
+    ),
+    Song(title: "Jesus, Stand Among Us", author: "Graham Kendrick",
+      verses: [
+          Verse(isChorus: false, lines: "Jesus, stand among us,\nAt the meeting of our lives;\nBe our sweet agreement,\n"
+          "At the meeting of our eyes.\nO Jesus, we love You, so we gather here;\nJoin our hearts in unity, and take away our fear"),
+          Verse(isChorus: false, lines: "So to You we’re gathering,\nOut of each and every land;\nChrist the love between us,\n"
+          "At the joining of our hands.\nO Jesus, we love You, so we gather here;\nJoin our hearts in unity, and take away our fear.")]
+    ),
+    Song(title: "Jesus, Take Me as I Am", author: "Dave Bryant",
+      verses: [
+          Verse(isChorus: false, lines: "Jesus, take me as I am,\nI can come no other way;\nTake me deeper into You,\n"
+          "Make my flesh life melt away.\nMake me like a precious stone,\nCrystal clear and finely honed;\n"
+          "Life of Jesus shining through:\nGiving glory back to You.")]
+    ),
+    Song(title: "Jesus, Thine All Victorious Love", author: "Charles Wesley",
+      verses: [
+          Verse(isChorus: false, lines: "Jesus, Thine all victorious love\nShed in my soul abroad;\n"
+          "Then shall my feet no longer rove,\nRooted and fixed in God."),
+          Verse(isChorus: false, lines: "O that in me the sacred fire\nMight now begin to glow,\n"
+          "Burn up the dross of base desire\nAnd make the mountains flow!"),
+          Verse(isChorus: false, lines: "O that it now from heaven might fall,\nAnd all my sins consume!\n"
+          "Come, Holy Ghost, for Thee I call;\nSpirit of burning, come!"),
+          Verse(isChorus: false, lines: "Refining fire, go through my heart,\nIlluminate my soul;\n"
+          "Scatter Thy life through every part,\nAnd sanctify the whole."),
+          Verse(isChorus: false, lines: "My steadfast soul, from falling free,\nShall then no longer move,\n"
+          "While Christ is all the world to me,\nAnd all my heart is love.")]
+    ),
+    Song(title: "Jesus, What a Friend for Sinners", author: "J. Wilbur Chapman",
+      verses: [
+          Verse(isChorus: false, lines: "Jesus! What a Friend for sinners!\nJesus! Lover of my soul!\n"
+          "Friends may fail me, foes assail me:\nHe, my Saviour, makes me whole."),
+          Verse(isChorus: true, lines: "Hallelujah! what a Saviour!\nHallelujah! what a Friend!\n"
+          "Saving, helping, keeping, loving:\nHe is with me to the end."),
+          Verse(isChorus: false, lines: "Jesus! What a Strength in weakness!\nLet me hide myself in Him!\n"
+          "Tempted, tried and sometimes failing:\nHe, my Strength, my victory wins."),
+          Verse(isChorus: false, lines: "Jesus! What a help in sorrow!\nWhile the billows over me roll,\n"
+          "Even when my heart is breaking,\nHe, my Comfort, helps my soul."),
+          Verse(isChorus: false, lines: "Jesus! What a Guide and Keeper!\nWhile the tempest still is high,\n"
+          "Storms about me, night overtakes me:\nHe, my Pilot, hears my cry."),
+          Verse(isChorus: false, lines: "Jesus! I do now receive Him;\nMore than all in Him I find.\n"
+          "He hath granted me forgiveness:\nI am His, and He is mine.")]
+    ),
+    Song(title: "Joyful! Joyful, We Adore Thee", author: "Henry Van Dyke",
+      verses: [
+          Verse(isChorus: false, lines: "Joyful! Joyful, we adore Thee,\nGod of glory, Lord of love;\n"
+          "Hearts unfold like flowers before Thee,\nHail Thee as the sun above.\nMelt the clouds of sin and sadness,\n"
+          "Drive the dark of doubt away;\nGiver of immortal gladness,\nFill us with the light of day!"),
+          Verse(isChorus: false, lines: "All Thy works with joy surround Thee,\nEarth and heaven reflect Thy rays;\n"
+          "Stars and angels sing around Thee,\nCentre of unbroken praise;\nField and forest, vale and mountain,\n"
+          "Bloss-’ming meadow, flashing sea;\nChanting bird and flowing fountain,\nCall us to rejoice in Thee."),
+          Verse(isChorus: false, lines: "Thou art giving and forgiving,\nEver blessing, ever blest;\n"
+          "Well-spring of the joy of living,\nOcean depth of happy rest!\nThou our Father, Christ our brother\n"
+          "All who live in love are Thine;\nTeach us how to love each other,\nLift us to the joy Divine."),
+          Verse(isChorus: false, lines: "Mortals join the mighty chorus\nWhich the morning stars began;\n"
+          "Father love is reigning o’er us,\nBrother love binds man to man.\nEver singing, march we onward,\n"
+          "Victors in the midst of strife;\nJoyful music lifts us sunward\nIn the triumph song of life.")]
+    ),
+    Song(title: "Jubilate, Everybody", author: "Fred Dun",
+      verses: [
+          Verse(isChorus: false, lines: "Jubilate, everybody,\nServe the Lord in all your ways,\nAnd come before His "
+          "presence singing,\nEnter now His courts with praise.\nFor the Lord our God is gracious,\nAnd His mercy’s "
+          "everlasting,\nJubilate, jubilate, jubilate Deo.")]
+    ),
+    Song(title: " Kuno Kwawamisha", author: "Author Unknown",
+      verses: [
+          Verse(isChorus: false, lines: " Kuno kwawamisha; kuno kwawamisha\nKuno kwawamisha; twikalilile!"),
+          Verse(isChorus: false, lines: "Yesu nabasambi; banino lupili,\nKuno kwawamisha; twikalilile."),
+          Verse(isChorus: false, lines: "Yesu alabeka; alabengeshima,\nNgawati umuloleke; kulile filamba."),
+          Verse(isChorus: false, lines: "Tukule insaka: imo yakwa Yesu\nImo yakwa Eliya; imo yakwa Mose.")]
+    ),
+    Song(title: "Led like a Lamb to the Slaughter", author: "Graham Kendrick",
+      verses: [
+          Verse(isChorus: false, lines: "Led like a lamb to the slaughter,\nIn silence and shame;\n"
+          "There on your back you carried,\nA world of violence and pain:\nBleeding, dying, bleeding, dying."),
+          Verse(isChorus: true, lines: "You’re alive! You’re alive!\nYou have risen! Alleluia!\n"
+          "And the power and the glory is given!\nAlleluia! Jesus to you!"),
+          Verse(isChorus: false, lines: "At break of dawn, poor Mary,\nStill weeping she came;\n"
+          "When through her grief she heard Your voice,\nNow speaking her name:\nMary, Master, Mary, Master."),
+          Verse(isChorus: false, lines: "At the right hand of the Father,\nNow seated on high;\n"
+          "You have began Your eternal reign,\nOf justice and joy:\nGlory, glory, glory, glory.")],
+    ),
+    Song(title: "Lesa e Kachama Wandi", author: "Psalm 23",
+      verses: [
+          Verse(isChorus: false, lines: "Lesa e kacema wandi, nshakakabile pe;\nKu mulemfwe alentwala, ku menshi ya bumi."),
+          Verse(isChorus: false, lines: "Umutima ambwesesha, mu lwendo angafwa;\nMu nshila sha bololoke, pe shina lyakwe fye."),
+          Verse(isChorus: false, lines: "‘Lintu nkenda mu mfwa ine, nshakatine kantu;\nPantu imwe mulensunga, no kunsansamusha."),
+          Verse(isChorus: false, lines: "‘Cintamba mwanungikila, mu cinso ca babi;\nUmutwe wandi mwansuba, ‘nkombo shaisula."),
+          Verse(isChorus: false, lines: "‘Busuma bweka no luse, fyakulankonka pe;\nNa mu ng’anda ya kwa Lesa, nkekalililamo.")
+      ]
     )
   ];
 
