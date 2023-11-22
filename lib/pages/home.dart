@@ -1473,8 +1473,125 @@ class _HomeState extends State<Home> {
           Verse(isChorus: false, lines: "Umutima ambwesesha, mu lwendo angafwa;\nMu nshila sha bololoke, pe shina lyakwe fye."),
           Verse(isChorus: false, lines: "‘Lintu nkenda mu mfwa ine, nshakatine kantu;\nPantu imwe mulensunga, no kunsansamusha."),
           Verse(isChorus: false, lines: "‘Cintamba mwanungikila, mu cinso ca babi;\nUmutwe wandi mwansuba, ‘nkombo shaisula."),
-          Verse(isChorus: false, lines: "‘Busuma bweka no luse, fyakulankonka pe;\nNa mu ng’anda ya kwa Lesa, nkekalililamo.")
-      ]
+          Verse(isChorus: false, lines: "‘Busuma bweka no luse, fyakulankonka pe;\nNa mu ng’anda ya kwa Lesa, nkekalililamo.")]
+    ),
+    Song(title: "Lesa Wamushilo Twamilumbanya", author: "Chishiba Shibemba Chibuta",
+      verses: [
+          Verse(isChorus: false, lines: "Lesa wamushilo twamilumbanya\nPaluse mwakwata palifwebantu\n"
+          "Mwatumine Yesu ukwisatulubula\nNomulopa wakwe"),
+          Verse(isChorus: true, lines: "Imwe mwalibuta Lesa patatu\nNelyo tulemupepa tube abamushilo"),
+          Verse(isChorus: false, lines: "Mulopa wakwa Yesu ewatusamba\nNokutufumya kulubembu\n"
+          "Mutwafwe tukonke muntampulo shakwe\nNokuba abamushilo")]
+    ),
+    Song(title: "Let Me but Hear My Saviour Say", author: "Isaac Watts",
+      verses: [
+          Verse(isChorus: false, lines: "Let me but hear my Saviour say,\n\“Strength shall be equal to the day,\”\n"
+          "Then I rejoice in all distress,\nLeaning on His sufficient grace."),
+          Verse(isChorus: false, lines: "I glory in infirmity,\nThat Christ’s own power may rest on me;\n"
+          "When I am weak, then am I strong,\nGrace is my shield, and Christ my song."),
+          Verse(isChorus: false, lines: "But if the Lord be once withdrawn,\nAnd we attempt the work alone,\n"
+          "When new temptations spring and rise,\nWe find how great our weakness is."),
+          Verse(isChorus: false, lines: "I can do all things, or can bear\nAll suffering, if my Lord be there:\n"
+          "Sweet pleasures mingle with the pains,\nWhile His kind hand my soul sustains.")]
+    ),
+    Song(title: "Let Me have My Way Among You", author: "Graham Kendrick",
+      verses: [
+          Verse(isChorus: false, lines: "Let Me have My way among you,\nDo not strive, do not strive.\n"
+          "Let Me have My way among you,\nDo not strive, do not strive.\nFor Mine is the power and the glory\n"
+          "For ever and ever the same.\nLet Me have My way among you,\nDo not strive, do not strive."),
+          Verse(isChorus: false, lines: "We’ll let You have Your way among us,\nWe’ll not strive, we’ll not strive.\n"
+          "We’ll let You have Your way among us,\nWe’ll not strive, we’ll not strive.\nFor Yours is the power and the glory\n"
+          "For ever and ever the same.\nWe’ll let You have Your way among us,\nWe’ll not strive, we’ll not strive."),
+          Verse(isChorus: false, lines: "Let My peace rule within your hearts,\nDo not strive, do not strive.\n"
+          "Let My peace rule within your hearts,\nDo not strive, do not strive.\nFor Mine is the power and the glory\n"
+          "For ever and ever the same.\nLet My peace rule within your hearts,\nDo not strive, do not strive."),
+          Verse(isChorus: false, lines: "We’ll let Your peace rule within our hearts,\nWe’ll not strive, we’ll not strive.\n"
+          "We’ll let Your peace rule within our hearts,\nWe’ll not strive, we’ll not strive.\nFor Yours is the power and the glory\n"
+          "For ever and ever the same.\nWe’ll let Your peace rule within our hearts,\nWe’ll not strive, we’ll not strive.")]
+    ),
+    Song(title: "Let Us Rejoice and be Glad", author: "Gerrit Hansen",
+      verses: [
+          Verse(isChorus: false, lines: "Let us rejoice and be glad\nGiving the glory to Him\nFor the marriage of the Lamb has come\n"
+          "And the bride has made herself ready"),
+          Verse(isChorus: true, lines: "Hallelujah, for the Lord our God\nThe Almighty reigns;\nHallelujah, for the Lord our God\n"
+          "The Almighty reigns."),
+          Verse(isChorus: false, lines: "Praise the Lord!\nYe servants of the Lord\nYou who fear His name\nLift Him up\n"
+          "Both the small and the great (repeat)"),
+          Verse(isChorus: false, lines: "Praise the Lord\nHallelujah! Salvation and Glory\nHonour and power belong to our God x2"
+          "(Repeat 2 and then refrain)")]
+    ),
+    Song(title: "Let Us Sing of His Love Once Again", author: "F. Bottome",
+      verses: [
+          Verse(isChorus: false, lines: "Let us sing of His love once again\nOf the love that can never decay,\n"
+          "Of the blood of the Lamb who was slain,\nTill we praise Him again in that day."),
+          Verse(isChorus: true, lines: "In the sweet by and by,\nWe shall meet on that beautiful shore (repeat)."),
+          Verse(isChorus: false, lines: "There is cleansing and healing for all\nWho will wash in the life-giving flood;\n"
+          "There is life everlasting and joy\nAt the right hand of God through the blood."),
+          Verse(isChorus: false, lines: "Even now while we taste of His love\nWe are filled with delight at His name;\n"
+          "But what will it be when above\nWe shall join in the song of the Lamb!")]
+    ),
+    Song(title: "Like the Woman at the Well", author: "Richard Blanchard",
+      verses: [
+          Verse(isChorus: false, lines: "Like the woman at the well I was seeking,\nFor things that could not satisfy;\n"
+          "And then I heard my Saviour speaking,\n\“Draw from my well that never shall run dry.\”"),
+          Verse(isChorus: true, lines: "Fill my cup, Lord! I lift it up, Lord!\nCome and quench this thirsting of my soul;\n"
+          "Bread of heaven, feed me now and ever more:\nFill my cup, fill it up and make me whole!"),
+          Verse(isChorus: false, lines: "There are millions in this world who are craving,\nThe pleasures earthly things afford;\n"
+          "But none can match the wondrous treasure,\nThat I find in Jesus Christ my Lord."),
+          Verse(isChorus: false, lines: "So, my brother, if the things this world gave you,\nLeave hungers that won’t pass away;\n"
+          "My blessed Lord will come and save you,\nIf you kneel to Him and humbly pray.")]
+    ),
+    Song(title: "Lion of Judah on theThrone", author: "Ted Sandquist",
+      verses: [
+          Verse(isChorus: false, lines: "Lion of Judah on theThrone,\nI shout Your name, let it be known;\n"
+          "That You are King of kings,\nYou are the Prince of peace;\nMay Your kingdom’s reign never cease:\n"
+          "Hail to the King! Hail to the King!"),
+          Verse(isChorus: false, lines: "Lion of Judah come to earth,\nI want to thank You for Your birth;\n"
+          "For the living word,\nFor Your death on the tree;\nFor Your resurrection victory:\n"
+          "Hallelujah! Hallelujah!"),
+          Verse(isChorus: false, lines: "Lion of Judah come again,\nTake up Your throne Jerusalem;\n"
+          "Bring release to this earth,\nAnd the consummation;\nOf Your kingdom’s reign, let it come:\n"
+          "Maranatha! Maranatha!"),
+          Verse(isChorus: false, lines: "Lion of Judah on the throne,\nI shout Your name, let it be known;\n"
+          "That You are King of kings,\nYou are the Prince of peace;\nMay Your kingdom’s reign never cease:\n"
+          "Hail to the King! Hail to the King!\nYou are my King!")]
+    ),
+    Song(title: "Living Below in this Old Sinful World", author: "J. B. Coats",
+      verses: [
+          Verse(isChorus: false, lines: "Living below in this old sinful world,\nHardly a comfort can afford;\n"
+          "Striving alone to face temptations sore,\nWhere could I go but to the Lord!"),
+          Verse(isChorus: true, lines: "Where could I go? Oh, where could I go?\nSeeking a refuge for my soul?\n"
+          "Needing a friend to help me to the end:\nWhere could I go but to the Lord!"),
+          Verse(isChorus: false, lines: "Neighbours are kind, I love them every one,\nWe get along in sweet accord;\n"
+          "But when my soul needs manna from above,\nWhere could I go but to the Lord!"),
+          Verse(isChorus: false, lines: "Life here is grand with friends I Iove so dear,\nComfort I get from God’s word;\n"
+          "Yet when I face the chilling hand of death,cWhere could I go but to the Lord!")]
+    ),
+    Song(title: "Lord of the Reapers, Hear our Lowly Pleading", author: "Frederic Goldsmith French",
+      verses: [
+          Verse(isChorus: false, lines: "Lord of the reapers, hear our lowly pleading,Lord of the reapers, hear our lowly pleading,\n"
+          "Thine are the fields that stand all harvest-white,\nThine is the love that human souls are needing,\n"
+          "Ere falls the dusk that deepens into night."),
+          Verse(isChorus: false, lines: "Oft have we prayed, with longing and beseeching,\nFruit for our toil and glory for Thy cross;\n"
+          "Yet slow the reaping, slow the task of reaching\nFar distant souls whose distance is their loss."),
+          Verse(isChorus: false, lines: "Oft have we asked for some rewarding token,\nOnly to know our toil was not in vain,\n"
+          "And for a patient love to lead the broken\nLives of the lost to an eternal gain."),
+          Verse(isChorus: false, lines: "Soon o’er our harvest field the twilight stealeth,\nLow on its margin stands the solemn sun;\n"
+          "Rising to thee the reapers’ prayer appealeth:\n\“Grant us full sheaves before the day is done.\”"),
+          Verse(isChorus: false, lines: "So when Thy morning floods the land with glory,\nGood will it be to meet and see Thee then!\n"
+          "Learn all the triumphs of Thy love’s sweet story,\nLord of the reapers! Hope of sinful men!")]
+    ),
+    Song(title: "Lord the Light of Your Love is Shinning", author: "Graham Kendrick",
+      verses: [
+          Verse(isChorus: false, lines: "Lord the light of Your love is shining\nIn the midst of the darkness shining\n"
+          "Jesus light of the world shine upon us\nSet us free by the truth You now bring us\nShine on me, shine on me!"),
+          Verse(isChorus: true, lines: "Shine Jesus shine\nFill this land with the Father’s glory\nBlaze Spirit blaze, "
+          "set our hearts on fire\nFlow river flow\nFlood the nations with grace and mercy\nSend forth Your word\n"
+          "Lord and let there be light"),
+          Verse(isChorus: false, lines: "Lord I come to Your awesome presence\nFrom the shadows into Your radiance\n"
+          "By the blood I may enter Your brightness\nSearch me try me consume all my darkness\nShine on me, shine on me!"),
+          Verse(isChorus: false, lines: "As we gaze on Your kingly brightness\nSo our faces display Your likeness\n"
+          "Ever changing from glory to glory\nMirrored here may our lives tell Your story\nShine on me, shine on me!")]
     )
   ];
 
