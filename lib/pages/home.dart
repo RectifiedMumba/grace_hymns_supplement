@@ -1592,6 +1592,107 @@ class _HomeState extends State<Home> {
           "By the blood I may enter Your brightness\nSearch me try me consume all my darkness\nShine on me, shine on me!"),
           Verse(isChorus: false, lines: "As we gaze on Your kingly brightness\nSo our faces display Your likeness\n"
           "Ever changing from glory to glory\nMirrored here may our lives tell Your story\nShine on me, shine on me!")]
+    ),
+    Song(title: "Low in the Grace He Low", author: "Robert Lowry",
+      verses: [
+          Verse(isChorus: false, lines: "Low in the grave He lay, Jesus, my Saviour,\nWaiting the coming day, Jesus, my Lord:"),
+          Verse(isChorus: true, lines: "Up from the grave He arose,\nWith a mighty triumph o’er His foes;\nHe arose a victor from "
+          "the dark domain,\nAnd He lives for ever with His saints to reign:\nHe arose! He arose! Alleluia! Christ arose!"),
+          Verse(isChorus: false, lines: "Vainly they watch His bed, Jesus, my Saviour;\nVainly they seal the dead, Jesus, my Lord:\n"),
+          Verse(isChorus: false, lines: "Death cannot keep his prey, Jesus, my Saviour;\nHe tore the bars away, Jesus, my Lord:")]
+    ),
+    Song(title: "Majesty, Worship His Majesty", author: "Jack W. Hayford",
+      verses: [
+          Verse(isChorus: false, lines: "Majesty, worship His Majesty,\nUnto Jesus be all glory, power and praise;\n"
+          "Majesty, kingdom authority,\nFlow from His throne; unto His own,\nHis anthem raise!\nSo exalt, lift up on "
+          "high, the name of Jesus;\nMagnify, come glorify, Christ Jesus the King;\nMajesty, worship His Majesty,\n"
+          "Jesus who died, now glorified, King of all kings!")]
+    ),
+    Song(title: "Marvellous Grace of Our loving Lord", author: "Julia H. Johnston",
+      verses: [
+          Verse(isChorus: false, lines: "Marvellous grace of our loving Lord,\nGrace that exceeds our sin and our guilt;\n"
+          "‘Yonder on Calvary’s mount outpoured,\nThere where the blood of the Lamb was spilt."),
+          Verse(isChorus: true, lines: "Grace, grace, God’s grace,\nGrace that will pardon and cleanse within;\n"
+          "Grace, grace, God’s grace,\nGrace that is greater than all our sin."),
+          Verse(isChorus: false, lines: "Sin and despair like the sea waves cold,\nThreaten the soul with infinite loss;\n"
+          "Grace that is greater, yes, grace untold,\nPoints to the refuge, the mighty cross."),
+          Verse(isChorus: false, lines: "Dark is the stain that we cannot hide,\nWhat can avail to wash it away?\n"
+          "Look, there is flowing a crimson tide,\nWhiter than snow you may be today."),
+          Verse(isChorus: false, lines: "Marvellous, infinite, matchless grace,\nFreely bestowed on all who believe;\n"
+          "You that are longing to see His face,\nWill you this moment His grace receive.")]
+    ),
+    Song(title: "Mbuye Wondipulumutsa", author: "Author Unknown",
+      verses: [
+          Verse(isChorus: false, lines: "Mbuye wondipulumutsa\nMulandire mtima wanga,\nMwandipatsa Mzimu wanu\n"
+          "Womeretsa zipatsomo."),
+          Verse(isChorus: true, lines: "Ndiye Mzimu wakuyera\nAtipatsa ife makhalidwe\nOfanana naye Yesu,\n"
+          "Anatsika kumwambako."),
+          Verse(isChorus: false, lines: "Naye Mzimu mndiphunzitse\nKukondwera nsiku zonse,\nNdi kukhala ndi mtendere\n"
+          "Osaderatu nkhawa ‘yi."),
+          Verse(isChorus: false, lines: "Mndilimbitse ndipirire\nOsadandaula konse,\nNdi kulamulira thupi\n"
+          "Ndi zofuna zacezo."),
+          Verse(isChorus: false, lines: "Mndithandize kukondana\nNdi ku thangatira onse,\nNdi kukhululukirabe\n"
+          "Akundicimwirawo."),
+          Verse(isChorus: false, lines: "Kudzirala ndi kufatsa,\nInde, zonse muzikonda,\nMndiphunzitse pondipatsa\n"
+          "Mzimu wanu woyerawo.")]
+    ),
+    Song(title: "Meekness and Majesty", author: "Graham Kendrick",
+      verses: [
+          Verse(isChorus: false, lines: "Meekness and majesty, manhood and deity\nIn perfect harmony, the man who is God\n"
+          "Lord of eternity, dwells in humanity\nKneels in humility, and washes our feet"),
+          Verse(isChorus: true, lines: "O what a mystery, meekness and majesty\nBow down and worship, for this is your God\n"
+          "This is your God."),
+          Verse(isChorus: false, lines: "Father’s pure radiance, perfect in innocence\nYet learns obedience, to death on a cross\n"
+          "Suffering to give us life\nConquering through sacrifice\nAnd as they crucify, prays \”Father forgive\n”"),
+          Verse(isChorus: false, lines: "Wisdom unsearchable, God the invisible\nLove indestructible, in frailty appears\n"
+          "Lord of infinity, stooping so tenderly\nLifts our humanity; To the heights of His throne")]
+    ),
+    Song(title: "Mine Eyes have Seen the Glory of the Coming of the Lord;", author: "Julia Ward Howe",
+      verses: [
+          Verse(isChorus: false, lines: "Mine eyes have seen the glory of the coming of the Lord;\nHe is trampling out the vintage "
+          "where the grapes of wrath are stored;\nHe has loosed the fateful lightning of His terrible swift sword:\n"
+          "His truth is marching on."),
+          Verse(isChorus: true, lines: "Glory, glory alleluia! Glory, glory alleluia!\nGlory, glory alleluia! His truth "
+          "is marching on."),
+          Verse(isChorus: false, lines: "He has sounded forth the trumpet that shall never call retreat;\nHe is sifting out the "
+          "hearts of men before His judgement seat:\nO be swift, my soul, to answer Him; be jubilant, my feet!\nOur God is marching on."),
+          Verse(isChorus: false, lines: "In the beauty of the lilies Christ was born across the sea,\nWith a glory in His bosom that "
+          "transfigures you and me,\nAs He died to make men holy, let us live to make men free,\nWhile God is marching on.")]
+    ),
+    Song(title: "Morning has Broken", author: "Eleanor Farjean",
+      verses: [
+          Verse(isChorus: false, lines: "Morning has broken, like the first morning,\nBlackbird has spoken, like the first bird;\n"
+          "Praise for the singing, praise for the morning,\nPraise for them springing, fresh from the word."),
+          Verse(isChorus: false, lines: "Sweet the rain’s dew fall, Sun lit from heaven,\nLike the first dew-fall, on the first grass;\n"
+          "Praise for the sweetness, of the wet garden,\nSprung in completeness where His feet pass."),
+          Verse(isChorus: false, lines: "Mine is the sunlight, mine is the morning,\nBorn of the one light Eden saw play;\n"
+          "Praise with elation, praise every morning,\nGod’s recreation of the New Day!")]
+    ),
+    Song(title: "Mu Weshiwa Muntu Mpona", author: "E.D. Mund\n(Translator unknown)",
+      verses: [
+          Verse(isChorus: false, lines: "Mu kweshiwa muntu mpona, mu myunga intu nyantapo;\nMwe Mfumu cimo cashala, mulenjibukisha."),
+          Verse(isChorus: true, lines: "Mulenjibukisha! mulenjibukisha!\nNdetina nshi ngo li mupepi, no kunjibukisha."),
+          Verse(isChorus: false, lines: "‘Masakamano yafula, ayamfisha ku mutima;\nIci e cilensekesha, mulenjibukisha."),
+          Verse(isChorus: false, lines: "Mu fyawama, mu fyabipa, mu fyabuta, mu fyafita;\nMfumu, tapali mulandu, mulenjibukisha.")]
+    ),
+    Song(title: "Mu Mpanga Ya Kwa Lesa", author: "John R. Clements\n(Translator unknown)",
+        verses: [
+            Verse(isChorus: false, lines: "Mu mpanga ya kwa Lesa; mu musumba ulya,\nTukalabelela pe; ‘bushiku takwaba.\n"),
+            Verse(isChorus: false, lines: "Ne filamba no mwenso,\nNelye mfwa ne misongo,\nTabalepende myaka; ‘bushiku takwaba."),
+            Verse(isChorus: false, lines: "‘Mpongolo shabekesha; mu musumba ulya,\nPa nshi pa nsahabu; ‘bushiku takwaba."),
+            Verse(isChorus: false, lines: "‘Mpongolo tashisalwa; mu musumba ulya,\n'Mumana uleya pe; ‘bushiku takwaba."),
+            Verse(isChorus: false, lines: "Tabafwaya kasuba; mu musumba ulya,\nPantu Yesu e lubuto; ‘bushiku takwaba.")]
+      ),
+    Song(title: "Munsuminishe Nyende Nemwe", author: "Author Unknown",
+      verses: [
+          Verse(isChorus: false, lines: "Munsuminishe nyende nemwe,\nPamo nga Enock uwakale;\nNjikate kumaboko yenu,\n"
+          "Munsuminishe nyende nemwe;\nNangwi nshila nshileimona,\nKatula ine nyende nemwe."),
+          Verse(isChorus: false, lines: "Teti njesho kwenda neka,\nMakumbi yafisha kumulu;\nAmasanso nayo yafula,\n"
+          "Amacusho nayo bwingi;\nIcimana naco capunga,\nShikulu ine nyende nemwe."),
+          Verse(isChorus: false, lines: "Teti njesho kwenda neka,\nMakumbi yafisha kumulu;\nAmasanso nayo yafula,\n"
+          "Amacusho nayo bwingi;\nIcimana naco capunga,\nShikulu ine nyende nemwe."),
+          Verse(isChorus: false, lines: "Mbike amaboko pali mwe,\nNdekakulwa ndesekela;\nInkosesha namunshila,\n"
+          "Pakusenda ulupanda;\nKu Zion nsuke mfike,\nKatula ine nyende nemwe.\nMlunguyo.")]
     )
   ];
 
