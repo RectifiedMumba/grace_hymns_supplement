@@ -1689,10 +1689,128 @@ class _HomeState extends State<Home> {
           "Munsuminishe nyende nemwe;\nNangwi nshila nshileimona,\nKatula ine nyende nemwe."),
           Verse(isChorus: false, lines: "Teti njesho kwenda neka,\nMakumbi yafisha kumulu;\nAmasanso nayo yafula,\n"
           "Amacusho nayo bwingi;\nIcimana naco capunga,\nShikulu ine nyende nemwe."),
-          Verse(isChorus: false, lines: "Teti njesho kwenda neka,\nMakumbi yafisha kumulu;\nAmasanso nayo yafula,\n"
-          "Amacusho nayo bwingi;\nIcimana naco capunga,\nShikulu ine nyende nemwe."),
           Verse(isChorus: false, lines: "Mbike amaboko pali mwe,\nNdekakulwa ndesekela;\nInkosesha namunshila,\n"
           "Pakusenda ulupanda;\nKu Zion nsuke mfike,\nKatula ine nyende nemwe.\nMlunguyo.")]
+    ),
+    Song(title: "My Faith has Found a Resting Place", author: "L.H. Edmonds",
+      verses: [
+          Verse(isChorus: false, lines: "My faith has found a resting place,\nNot in device nor creed;\nI trust the ever living One,\n"
+          "His wounds for me shall plead."),
+          Verse(isChorus: true, lines: "I need no other argument,\nI need no other plea:\nIt is enough that Jesus died,\n"
+          "And that He died for me!"),
+          Verse(isChorus: false, lines: "Enough for me that Jesus saves,\nThis ends my fear and doubt;\nA sinful soul I come to Him,\n"
+          "He’ll never cast me out."),
+          Verse(isChorus: false, lines: "My heart is leaning on the word,\nThe written word of God;\nSalvation by my Saviour's name,\n"
+          "Salvation through His blood."),
+          Verse(isChorus: false, lines: "My great physician heals the sick,\nThe lost He came to save;\nFor me His precious blood He shed,\n"
+          "For me His life He gave.")]
+    ),
+    Song(title: "My Heart is Fixed Eternal God", author: "Rev. Richard Jukes",
+      verses: [
+          Verse(isChorus: false, lines: "My heart is fixed eternal God,\nFixed on Thee! Fixed on Thee!\nAnd my immortal choice is made:\n"
+          "Christ for me!\nHe is my Prophet, Priest and King,\nWho did for me salvation bring,\nAnd while I’ve breath, I mean to sing:\n"
+          "Christ for me! Christ for me!"),
+          Verse(isChorus: false, lines: "In Him I see the Godhead shine,\nChrist for me! Christ for me!\nHe is the majesty divine,\n"
+          "Christ for me!\nThe Father’s well beloved Son,\nCo-partner of His royal throne,\nWho did for human guilt atone:\n"
+          "Christ for me! Christ for me!"),
+          Verse(isChorus: false, lines: "Let others boast of heaps of gold,\nChrist for me! Christ for me!\nHis riches never can be told,\n"
+          "Christ for me!\nYour gold will waste and wear away,\nYour honours perish in a day,\nMy portion never can decay,\n"
+          "Christ for me! Christ for me!")]
+    ),
+    Song(title: "My Soul in Sad Exile", author: "Words by Henry L. Gilmour\nMusic by George D. Moore ",
+      verses: [
+          Verse(isChorus: false, lines: "My soul in sad exile was out on life’s sea,\nSo burden’d with sin and distress’d\n"
+          "Till I heard a sweet voice saying,\n\“Make me your choice;\”cAnd I entered the \“Haven of Rest.\”"),
+          Verse(isChorus: true, lines: "I’ve anchored my soul in the haven of rest,\nI’ll sail the wide seas no more;\n"
+          "The tempest may sweep o’er the wild, stormy deep,\nIn Jesus I’m safe evermore."),
+          Verse(isChorus: false, lines: "I yield myself to His tender embrace,\nAnd faith taking hold of the word,\n"
+          "My fetters fell off, and I anchor’d my soul;\nThe “Haven of Rest” is my Lord."),
+          Verse(isChorus: false, lines: "The song of my soul, since the Lord made me whole,\nHas been the old story so blest,\n"
+          "Of Jesus, who’ll save whosoever will have\nA home in the \“Haven of Rest.\”"),
+          Verse(isChorus: false, lines: "How precious the thought that we all may recline,\nLike John, the beloved and blest,\n"
+          "On Jesus’ strong arm, where no tempest can harm,\nSecure in the \“Haven of Rest.\”"),
+          Verse(isChorus: false, lines: "Oh, come to the Saviour, He patiently waits\nTo save by His power divine;\n"
+          "Come, anchor your soul in the \“Haven of Rest,\”\nAnd say, \“My beloved is Mine.\”")]
+    ),
+    Song(title: "Ndekabila uku Lumbanya Lesa", author: "Author Unknown",
+      verses: [
+          Verse(isChorus: false, lines: "Ndekabila uku lumbanya Lesa\nNdekabila uku lumbanya Lesa;"),
+          Verse(isChorus: false, lines: "Emwine fyonse, Kalenga wandi,\nNdekabila uku lumbanya Lesa")]
+    ),
+    Song(title: "Ndi Ne Cibusa Yesu, Icine Kuli Ne,", author: "Author Unknown",
+      verses: [
+          Verse(isChorus: false, lines: "Ndi ne cibusa Yesu, icine kuli ne,\nNi cibusa wandi uwamushilo;\n"
+          "Kalubula uwacalo, wene alempela\nUbwelelo ne pusukilo pamo.\nMu bulanda nsansamusha, mu mafya’ lengafwa’\n"
+          "Anjeba ifyo e ulensunga,\nNi Kalubula wa calo, kapela wa mweo,\nMutemwikwa wacila ku mupashi."),
+          Verse(isChorus: false, lines: "Ubucushi bwandi asenda, no bulanda’ senda,’\nMu matunko alengafwo kucimfya,\n"
+          "Nasula ifya calo, no kumukonka pe,\nNomba alensunga mu maka yakwe.\nNangu mpatwe ne calo, ciwa nawo pimpe,\n"
+          "Mu maka yakwe Yesu nkacimfya,\nNi Kalubula wa calo, kapela wa mweo,\nMutemwikwa wacila ku mupashi."),
+          Verse(isChorus: false, lines: "Takatale, ankana, nangu ukunsula,\nIlyo ndecetekela muli wene,\n"
+          "Shikulu alintemwa, nshiletina’ kantu’\nPantu alensunga mu bololoke.\nIlyo nkaya ku mulu, nkamumona Yesu\n"
+          "Uko kwabe nsansa sha pe na pe,\nNi Kalubula wa calo, kapela wa mweo,\nMutemwikwa wacila ku mupashi.")]
+    ),
+    Song(title: "Ndikonda Mlungu Pomva Mbuye Wanga", author: "Author Unknown",
+      verses: [
+          Verse(isChorus: false, lines: "Ndikonda Mlungu pomva Mbuye wanga\nAmva pemphero ndi kulira kwanga,\n"
+          "Namachereza khutu nditapfuula, Andithandiza, nandipulumutsa."),
+          Verse(isChorus: false, lines: "Mulungu wanga ndiye wachifundo\nNdi wolungama mtima ndi wabwino;\nApulumtsa anthu akufoka,\n"
+          "Akathandiza nkhawa imachoka."),
+          Verse(isChorus: false, lines: "Mtimanga, bwera kuti upumule,\nWakuchitiranso zokoma Mbuye,\nWakuchotsera imfa ndi misozi,\n"
+          "Ndingakhumudwe asungira phazi."),
+          Verse(isChorus: false, lines: "Nditani ine kubwezera Mbuye\nZokoma zonse anandichitira?\nChipulumutso chake ndidzatama,\n"
+          "Ndinalumbira zija ndidzapatsa."),
+          Verse(isChorus: false, lines: "Imfa ya anthu ake imkomera,\nAwalandira m’nyumba zokonzeka.\nMbuye, kapolo wanu ndipereka\n"
+          "Nsembeyi yonga yanu, ndine ndekha.")]
+    ),
+    Song(title: "Nearer my God to Thee, Nearer to Thee", author: "Sarah F. Adams",
+      verses: [
+          Verse(isChorus: false, lines: "Nearer my God to Thee, nearer to Thee,\nEven though it be a cross that raiseth me;\n"
+          "Still all my song shall be:\nNearer, my God, to Thee,\nNearer, my God, to Thee, nearer to Thee."),
+          Verse(isChorus: false, lines: "Though like the wanderer, the sun gone down,\nDarkness be over me, my rest a stone;\n"
+          "Yet in my dreams I’d be:\nNearer, my God, to Thee,\nNearer, my God, to Thee, nearer to Thee."),
+          Verse(isChorus: false, lines: "There let the way appear, steps unto heaven,\nAll that Thou sendest me, in mercy given;\n"
+          "Angels to beckon me:\nNearer, my God, to Thee,\nNearer, my God, to Thee, nearer to Thee."),
+          Verse(isChorus: false, lines: "Then with my waking thoughts, bright with Thy praise,\nOut of my stony griefs, Bethel I’II "
+          "raise;\nSo by my woes to be:\nNearer, my God, to Thee,\nNearer, my God, to Thee, nearer to Thee."),
+          Verse(isChorus: false, lines: "Or if on joyful wing, cleaving the sky,\nSun, moon and stars forgot, upward I fly;\n"
+          "Still all my song shall be:\nNearer, my God, to Thee,\nNearer, my God, to Thee, nearer to Thee.")]
+    ),
+    Song(title: "Nshakatale Ambwelele Numa,’", author: "Author Unknown",
+      verses: [
+          Verse(isChorus: true, lines: "Nshakatale, ‘Ambwelele’ numa,’\nNshakatale ine, ‘Ambwelele’ numa,’\nNshakatale, ‘Ambwelele’ numa,’"
+          "Nshakatale ine, ‘Ambwelele’ numa.’ "),
+          Verse(isChorus: false, lines: "‘Ilyo naumfwile’ landwe,’ lya kwa Yesu Shikulu,\nNaipele kuliwene, kuti mbe no mweo;\n"
+          "Abanandi balikene, bashele ne fya chalo,\nNga bamona lyonse batila: \“bwela, isonde talipwa.\”"),
+          Verse(isChorus: false, lines: "Mpalameni mwe Lesa, shonogo napimpa\nAlefwaya ukufumya balungeme kucinso cha Mfumu;\n"
+          "Umweo wandi panwesonde ukalumbanya mwe Lesa,\nNgakwisa fyakwisa kafise lelo, nchetekela Lesa")]
+    ),
+    Song(title: "O Lord, Close to Thee we Would Cleave", author: "Joseph Hart",
+      verses: [
+          Verse(isChorus: false, lines: "O Lord, close to Thee we would cleave,\nAnd rest on Thy promise alone,\n"
+          "Thy righteousness only receive,\nAnd never place trust in our own."),
+          Verse(isChorus: false, lines: "For Thou art our Shepherd divine,\nWhose word on our hearts we shall keep\n"
+          "\“This flock has the Father made mine;\nI lay down my life for my sheep …\""),
+          Verse(isChorus: false, lines: "\“‘Tis life everlasting I give;\nMy blood was the price my sheep cost,\n"
+          "Not one that on me shall believe\nShall ever be finally lost.\”"),
+          Verse(isChorus: false, lines: "This God is the God we adore,\nOur faithful, unchangeable friend!\n"
+          "Whose love is as great as His power,\nAnd knows neither measure nor end!"),
+          Verse(isChorus: false, lines: "‘Tis Jesus the first and the last,\nWhose Spirit shall guide us safe home;\n"
+          "We’ll praise Him for all that is past,\nAnd trust Him for all that’s to come.")]
+    ),
+    Song(title: "O Welcome all ye Noble Saints of Old", author: "Robert Stamps",
+      verses: [
+          Verse(isChorus: false, lines: "O, welcome all ye noble saints of old,\nAs now before your very eyes unfold:\n"
+          "The wonders all so long ago foretold,\nGod and man at table are sat down,\nGod and man at table are sat down."),
+          Verse(isChorus: false, lines: "Elders, martyrs, all are falling down,\nAnd prophets, patriarchs are gath’ring ’round:\n"
+          "What angels longed to see now man has found,\nGod and man at table are sat down,\nGod and man at table are sat down."),
+          Verse(isChorus: false, lines: "Who is this who spreads the vict’ry feast?\nWho is this who makes our warring cease?\n"
+          "Jesus, risen Saviour, Prince of peace,\nGod and man at table are sat down,\nGod and man at table are sat down."),
+          Verse(isChorus: false, lines: "Beggars, lame and harlots also here,\nRepentant publicans are drawing near;\n"
+          "Wayward sons come home without a fear,\nGod and man at table are sat down,\nGod and man at table are sat down."),
+          Verse(isChorus: false, lines: "Worship in the presence of the Lord,\nWith joyful songs and hearts in one accord:\n"
+          "And let our host of table be adored,\nGod and man at table are sat down,\nGod and man at table are sat down."),
+          Verse(isChorus: false, lines: "When at last this earth shall pass away,\nWhen Jesus and His bride are one to stay:\n"
+          "The feast of love is just begun that day,\nGod and man at table are sat down,\nGod and man at table are sat down.")]
     )
   ];
 
