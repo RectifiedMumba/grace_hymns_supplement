@@ -1811,6 +1811,136 @@ class _HomeState extends State<Home> {
           "And let our host of table be adored,\nGod and man at table are sat down,\nGod and man at table are sat down."),
           Verse(isChorus: false, lines: "When at last this earth shall pass away,\nWhen Jesus and His bride are one to stay:\n"
           "The feast of love is just begun that day,\nGod and man at table are sat down,\nGod and man at table are sat down.")]
+    ),
+    Song(title: "Oh How the Grace of God Amazes Me", author: "E.T. Sibomana [tr. R.Guillebaud]",
+      verses: [
+          Verse(isChorus: false, lines: "Oh! How the grace of God, amazes me,\nIt loosed me from my bonds and set me free;\n"
+          "What made it happen so?\n‘Twas His will, this much I know:\nSet me, as now I show, at liberty."),
+          Verse(isChorus: false, lines: "My God has chosen me, though one of naught,\nTo sit beside my King, in heaven’s court;\n"
+          "Hear what my Lord hath done,\nOh the love that made Him run:\nTo meet His erring son, this hath God wrought."),
+          Verse(isChorus: false, lines: "Not for my righteousness, for I have none,\nBut for His mercy’s sake, Jesus, God’s Son;\n"
+          "Suffered on Calvary’s tree –\nCrucified with thieves was He:\nGreat was His grace to me, His wayward one."),
+          Verse(isChorus: false, lines: "And when I think of how at Calvary,\nHe bore sin’s penalty instead of me;\n"
+          "Amazed, I wonder why,\nHe, the sinless One, should die:\nFor one so vile as I’ my Saviour He."),
+          Verse(isChorus: false, lines: "Now all my heart’s desire, is to abide,\nIn Him my Saviour dear, in Him to hide;\n"
+          "My shield and buckler He,\nCovering and protecting me:\nFrom Satan’s darts I’ll be, safe at His side. "),
+          Verse(isChorus: false, lines: "Lord Jesus, hear my prayer, Thy grace impart,\nWhen evil thoughts arise, through Satan’s art;\n"
+          "Oh, drive them all away,\nAnd do Thou from day to day:\nKeep me beneath Thy sway, King of my heart.")]
+    ),
+    Song(title: "Oh! Now I See the Crimson Wave", author: "Phoebe P. Knapp",
+      verses: [
+          Verse(isChorus: false, lines: "Oh! Now I see the crimson wave,\nThe fountain deep and wide;\n"
+          "Jesus, my Lord, mighty to save,\nPoints to His wounded side."),
+          Verse(isChorus: true, lines: "The cleansing stream, I see, I see,\nI plunge, and Oh, it cleanseth me!\n"
+          "Oh! Praise the Lord, it cleanseth me,\nIt cleanseth me, yes, cleanseth me!"),
+          Verse(isChorus: false, lines: "I see the new creation rise,\nI hear the speaking blood;\n"
+          "It speaks, my thankful heart replies,\nCleans’d neath its precious flood."),
+          Verse(isChorus: false, lines: "O rise to walk in heav’n’s own light,\nAbove the world and sin;\n"
+          "With heart made pure, and garments white,\nAnd Christ enthroned within."),
+          Verse(isChorus: false, lines: "Amazing grace! ‘Tis heav’n below,\nTo feel the blood applied;\n"
+          "And Jesus, only Jesus know,\nMy Jesus crucified.")]
+    ),
+    Song(title: "Oh, Safe to the Rock that is Higher than I", author: "W.O. Cushing",
+      verses: [
+          Verse(isChorus: false, lines: "Oh, safe to the Rock that is higher than I\nMy soul in its conflicts and sorrows would fly.\n"
+          "So sinful, so weary, thine, thine would I be;\nThou blest “Rock of ages,” I’m hiding in Thee."),
+          Verse(isChorus: true, lines: "Hiding in Thee; Hiding in Thee,\nThou blest “Rock of ages,” I’m hiding in Thee."),
+          Verse(isChorus: false, lines: "In the calm of the noontide, in sorrow’s lone hour,\nIn times when temptation casts o’er me "
+          "its power;\nIn the tempests of life, on its wide, heaving sea,\nThou blest “Rock of ages,” I’m hiding in Thee."),
+            Verse(isChorus: false, lines: "How oft in the conflict, when pressed by the foe,\nI have fled to my Refuge and breathed out my "
+            "woe;\nHow often when trials like sea billows roll,\nHave I hidden in Thee, O Thou rock of my soul.")]
+      ),
+      Song(title: "Oh Soul, are You Weary and Troubled", author: "Helen H. Lemmel",
+        verses: [
+            Verse(isChorus: false, lines: "Oh soul, are you weary and troubled?\nNo light in the darkness you see?\n"
+            "There’s light for a look at the Saviour,\nAnd life more abundant and free:"),
+            Verse(isChorus: true, lines: "Turn your eyes upon Jesus,\nLook full in His wonderful face;\n"
+            "And the things of earth will grow strangely dim:\nIn the light of His glory and grace."),
+            Verse(isChorus: false, lines: "Through death into life everlasting,\nHe passed, and we follow Him there;\n"
+            "Over us, sin no more hath dominion,\nFor more than conquerors we are:"),
+            Verse(isChorus: false, lines: "His word shall not fail you, He promised,\nBelieve Him and all will be well;\n"
+            "Then go to a world that is dying,\nHis perfect salvation to tell:")]
+    ),
+    Song(title: "Oh, Spread the Tidings Round", author: "Francis Bottome",
+      verses: [
+          Verse(isChorus: false, lines: "Oh, spread the tidings round, wherever man is found,\nWherever human hearts and human woes abound;\n"
+          "Let every Christian tongue, proclaim the joyful sound:\n\“The Comforter has come\!”"),
+          Verse(isChorus: true, lines: "The Comforter has come! The Comforter has come!\nThe Holy Ghost from heaven, the Father’s promise "
+          "given;\nOh spread the tidings round, wherever man is found; The Comforter has come!"),
+          Verse(isChorus: false, lines: "Lo, the great King of kings, with healing in His wings,\nTo every captive soul, a full deliverance "
+          "brings;\nAnd through the vacant cells, the song of triumph rings: \“The Comforter has come!\”"),
+          Verse(isChorus: false, lines: "Oh, boundless love divine! How shall this tongue of mine,\nTo wondering mortals tell: the matchless "
+          "grace divine!\nThat I a child of hell, should in His image shine:\n\“The Comforter has come!\”"),
+          Verse(isChorus: false, lines: "Sing, ’til the echoes fly, above the vaulted sky,\nAnd all the saints above to all below reply,\n"
+          "In strains of endless love, the song that ne’er will die:\n\“The Comforter has come!\”")]
+    ),
+    Song(title: "Oh, What a Saviour That He Died for Me", author: "James McGranahan",
+      verses: [
+          Verse(isChorus: false, lines: "Oh, what a Saviour that He died for me,\nFrom condemnation He hath made me free;\n"
+          "\“He that believeth on the Son,\” said He,\n\“Hath everlasting life!\”"),
+          Verse(isChorus: true, lines: "\“Verily, verily, I say unto you;\nVerily, verily,\” message ever new!\n"
+          "\“He that believeth on the Son,\” ‘tis true,\n\“Hath everlasting life!\”"),
+          Verse(isChorus: false, lines: "All my iniquities on Him were laid;\nAll my indebtedness by Him was paid;\n"
+          "All who believe on Him, the Lord hath said:\n\“Hath everlasting life!\”"),
+          Verse(isChorus: false, lines: "Though poor and needy I can trust my Lord;\nThough weak and sinful, I believe His word;\n"
+          "Oh glad message! every child of God:\n\“Hath everlasting life!\”"),
+          Verse(isChorus: false, lines: "Though all unworthy, yet I will not doubt;\nFor him that cometh He will not cast out:\n"
+          "\“He that believeth,\” Oh the good news shout:\n\“Hath everlasting life!\”")]
+    ),
+    Song(title: "Oh! What a Wonderful Wonderful day", author: "John W. Peterson",
+        verses: [
+            Verse(isChorus: false, lines: "Oh! What a wonderful, wonderful day,\nDay I will never forget;\n"
+            "After I’d wandered in darkness away,\nJesus my Saviour I met.\nOh! What a tender, compassionate friend,\n"
+            "He met the need of my heart:\nShadows dispelling, with joy I am telling,\nHe made all the darkness depart!"),
+            Verse(isChorus: true, lines: "Heaven came down and glory filled my soul,\nWhen at the cross the Saviour made me "
+            "whole;\nMy sins were washed away,\nAnd my night was turned to day:\nHeaven came down and glory filled my soul!"),
+            Verse(isChorus: false, lines: "Born of the Spirit with life from above,\nInto God’s family divine;\nJustified fully "
+            "through Calvary’s love,\nOh! What a standing is mine!\nAnd the transaction so quickly was made,\nWhen as a sinner I came:\n"
+            "Took of the offer of grace He did proffer,\nHe saved me, Oh, praise His dear name!"),
+            Verse(isChorus: false, lines: "Now I’ve a hope that will surely endure,\nAfter the passing of time;\nI have a future in "
+            "heaven for sure,\nThere in those mansions sublime!\nAnd it’s because of that wonderful day,\nWhen at the cross I believed:\n"
+            "Riches eternal and blessings supernal,\nFrom His precious hand I received.")]
+    ),
+    Song(title: "On a Hill Far Away", author: "George Bennard",
+      verses: [
+          Verse(isChorus: false, lines: "On a hill far away, stood an old rugged cross,\nThe emblem of suff’ring and shame;\n"
+          "And I love that old cross, where the dearest and best,\nFor a world of lost sinners was slain."),
+          Verse(isChorus: true, lines: "So I’Il cherish the old rugged cross,\n‘Til my trophies at last I lay down;\n"
+          "I will cling to the old rugged cross,\nAnd exchange it some day for a crown."),
+          Verse(isChorus: false, lines: "Oh! That old rugged cross, so despised by the world,\nHas a wondrous attraction for me;\n"
+          "For the dear Lamb of God, left His glory above,\nTo bear it to dark Calvary."),
+          Verse(isChorus: false, lines: "In the old rugged cross, stained with blood so divine,\nA wondrous beauty, I see;\n"
+          "For t’was on that old cross, Jesus suffered and died,\nTo pardon and sanctify me."),
+          Verse(isChorus: false, lines: "To the old rugged cross, I will ever be true,\nIt’s shame and reproach gladly bear;\n"
+          "Then He’ll call me someday, to my home far away,\nWhere His glory forever I’ll share.")]
+    ),
+    Song(title: "One Day when Heaven", author: "J. Wilbur Chapman",
+      verses: [
+          Verse(isChorus: false, lines: "One day when heaven was filled with His praises,\nOne day when sin was as black as could be;\n"
+          "Jesus came forth to be born of a virgin:\nDwelt among men, my example is He!"),
+          Verse(isChorus: true, lines: "Living, He loved me; dying, He saved me;\nBuried, He carried my sins far away;\n"
+          "Rising, He justified freely forever:\nOne day He’s coming, O! Glorious day!"),
+          Verse(isChorus: false, lines: "One day they led Him up Calvary’s mountain,\nOne day they nailed Him to die on the tree;\n"
+          "Suffering anguish, despised and rejected:\nBearing our sins, my Redeemer is He!"),
+          Verse(isChorus: false, lines: "One day they left Him alone in the garden,\nOne day He rested, from suffering free;\n"
+          "Angels came down o’er His tomb to keep vigil:\nHope of the hopeless, my Saviour is He!"),
+          Verse(isChorus: false, lines: "One day the grave could conceal Him no longer,\nOne day the stone rolled away from the door;\n"
+          "He had arisen, o’er death He had conquered:\nNow is ascended, my Lord evermore!"),
+          Verse(isChorus: false, lines: "One day the trumpet will sound for His coming,\nOne day the skies with His glory will shine;\n"
+          "Wonderful day, His beloved ones bringing:\nGlorious Saviour, this Jesus is mine!")]
+    ),
+    Song(title: "Praise the Saviour, Ye Who Know Him!", author: "T. Kelly",
+      verses: [
+          Verse(isChorus: false, lines: "Praise the Saviour, ye who know Him!\nWho can tell how much we owe Him?\n"
+          "Gladly let us render to Him\n All we are and have."),
+          Verse(isChorus: false, lines: "Jesus is the name that charms us,\nHe for conflict fits and arms us;\n"
+          "Nothing moves and nothing harms us\nWhile we trust in Him."),
+          Verse(isChorus: false, lines: "Trust in Him, ye saints, forever;\nHe is faithful, changing never;\n"
+          "Neither force nor guile can sever\nThose He loves from Him."),
+          Verse(isChorus: false, lines: "Keep us, Lord, O keep us cleaving,\nTo Thyself and still believing;\n"
+          "Till the hour of our receiving\nPromised joys with Thee."),
+          Verse(isChorus: false, lines: "Then we shall be where we would be,\nThen we shall be what we should be;\n"
+          "Things that are not now, nor could be,\nSoon shall be our own.")]
     )
   ];
 
