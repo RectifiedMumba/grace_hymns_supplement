@@ -1941,6 +1941,127 @@ class _HomeState extends State<Home> {
           "Till the hour of our receiving\nPromised joys with Thee."),
           Verse(isChorus: false, lines: "Then we shall be where we would be,\nThen we shall be what we should be;\n"
           "Things that are not now, nor could be,\nSoon shall be our own.")]
+    ),
+    Song(title: "Rejoice and Be Glad!", author: "Horatius Bonar",
+      verses: [
+          Verse(isChorus: false, lines: "Rejoice and be glad! The Redeemer hath come;\nGo, look on His cradle; His cross and His tomb."),
+          Verse(isChorus: true, lines: "Sound His praises, tell the story\nOf Him who was slain;\nSound His praises, tell with gladness\n"
+          "He liveth again!"),
+          Verse(isChorus: false, lines: "Rejoice and be glad! For the blood hath been shed;\nRedemption is finished; The price hath been paid."),
+          Verse(isChorus: false, lines: "Rejoice and be glad! Now the pardon is free;\nThe just for the unjust; Hath died on the tree."),
+          Verse(isChorus: false, lines: "Rejoice and be glad! For our King is on high;\nHe pleadeth for us; On His throne in the sky."),
+          Verse(isChorus: false, lines: "Rejoice and be glad! For He cometh again;\nHe cometh in glory; The Lamb that was slain.")]
+    ),
+    Song(title: "Rescue the Perishing", author: "Fanny J. Crosby",
+      verses: [
+          Verse(isChorus: false, lines: "Rescue the perishing, care for the dying,\nSnatch them in pity from sin and the grave;\n"
+          "Weep o’er the erring one, lift up the fallen,\nTell them of Jesus, the mighty to save."),
+          Verse(isChorus: true, lines: "Rescue the perishing! Care for the dying!\nJesus is merciful! Jesus will save!"),
+          Verse(isChorus: false, lines: "Though they are slighting Him, still He is waiting,\nWaiting the penitent child to receive;\n"
+          "Plead with them earnestly, plead with them gently;\nHe will forgive if they only believe."),
+          Verse(isChorus: false, lines: "Down in the human heart, crushed by the tempter,\nFeelings lie buried that grace can restore;\n"
+          "Touched by a loving hand, wakened by kindness,\nChords that were broken can vibrate once more."),
+          Verse(isChorus: false, lines: "Rescue the perishing, duty demands it;\nStrength for the labour the Lord will provide:\n"
+          "Back to the narrow way patiently win them;\nTell the poor wanderers the Saviour has died.")]
+    ),
+    Song(title: "Saviour, visit Thy plantation", author: "John Newton",
+      verses: [
+          Verse(isChorus: false, lines: "Saviour, visit Thy plantation,\nGrant us, Lord, a gracious rain!\nAll will come to desolation\n"
+          "Unless Thou return again.\nKeep no longer at a distance,\nShine upon us from on high,\nLest, for want of Thine assistance,\n"
+          "Every plant should droop and die."),
+          Verse(isChorus: false, lines: "Surely, once Thy garden flourished,\nEvery part looked strong and green;\nThen Thy word our "
+          "spirits nourished,\nHappy seasons we have seen!\nBut a drought has since succeeded,\nAnd a sad decline we see;\n"
+          "Lord, Thy help is sorely needed;\nHelp can only come from Thee."),
+          Verse(isChorus: false, lines: "Where are those devoted leaders,Filled with zeal, and love, and truth?\n"
+          "Older pilgrims, tall as cedars,\nBright examples to our youth!\nSome, in whom we once delighted,\n"
+          "Are no longer here below;\nOthers, sadly, now are blighted,\nScarce a single leaf they show."),
+          Verse(isChorus: false, lines: "Let our mutual hopes be fervent,\nMake us earnest in our prayers;\n"
+          "Let each one who is Thy servant\nShun the world’s bewitching snares.\nBreak the tempter’s fatal power,\n"
+          "Turn the stony heart to flesh;\nAnd begin from this good hour\nTo revive Thy work afresh.")]
+    ),
+    Song(title: "Search Me Oh God", author: "Edwin Orr",
+      verses: [
+          Verse(isChorus: false, lines: "Search me, Oh, God! And know my heart today;\nTry me, Oh, Saviour, know my thoughts, I pray.\n"
+          "See if there be some wicked way in me;\nCleanse me from every sin, and set me free."),
+          Verse(isChorus: false, lines: "I praise Thee, Lord, for cleansing me from sin;\nFulfil Thy word and make me pure within.\n"
+          "Fill me with fire, where once I burned with shame;\nGrant my desire to magnify Thy name."),
+          Verse(isChorus: false, lines: "Lord, take my life and make it wholly Thine;\nFill my poor heart with Thy great love divine.\n"
+          "Take all my will, my passion, self and pride;\nI now surrender, Lord, in me abide."),
+          Verse(isChorus: false, lines: "Oh Holy Ghost, revival, comes from Thee;\nSend a revival and start the work in me.\n"
+          "Thy word declares Thou wilt supply our need;\nFor blessing now, Oh Lord, I humbly plead.")]
+    ),
+    Song(title: "See Him a Laying on the Bed of Straw;", author: "Michael Perry",
+      verses: [
+          Verse(isChorus: false, lines: "See Him a laying on the bed of straw;\nA draughty stable with an open door,\n"
+          "Mary cradling the babe she bore;\nThe Prince of Glory is His name."),
+          Verse(isChorus: true, lines: "O now carry me to Bethlehem,\nTo see the Lord appear to men:\n"
+          "Just as poor as was the stable then,\nThe Prince of Glory when He came."),
+          Verse(isChorus: false, lines: "Star of silver sweep across the skies,\nShow where Jesus in the manger lies.\n"
+          "Shepherd swiftly from your stupor rise,\nTo see the Saviour of the world."),
+          Verse(isChorus: false, lines: "Angels, sing again the song you sang,\nBring God’s glory to the heart of man:\n"
+          "Sing that Bethlehem’s little baby can,\nBe salvation to the soul."),
+          Verse(isChorus: false, lines: "Mine are riches—From Thy poverty:\nFrom Thine innocence, eternity;\n"
+          "Mine, forgiveness by Thy death for me,\nChild of sorrow for my joy")]
+    ),
+    Song(title: "Seek Ye first the Kingdom of God", author: "K. Lafferty",
+      verses: [
+          Verse(isChorus: false, lines: "Seek ye first the kingdom of God,\nAnd His righteousness;\nAnd all these things shall be "
+          "added unto you,\nHallelu, hallelujah!"),
+          Verse(isChorus: true, lines: "Hallelujah! Hallelujah! Hallelujah!\nHallelu! hallelujah!"),
+          Verse(isChorus: false, lines: "Man shall not live by bread alone,\nBut by every word:\nThat proceeds from the mouth of God;\n"
+          "Hallelu, hallelujah!"),
+          Verse(isChorus: false, lines: "Ask and it shall be given unto you,\nSeek and ye shall find.\nKnock and it shall be opened "
+          "unto you,\nHallelu, hallelujah!"),
+          Verse(isChorus: false, lines: "If the Son shall set you free,\nYe shall be free indeed.\nYe shall know the truth and the "
+          "truth shall set you free;\nHallelu, hallelujah!"),
+          Verse(isChorus: false, lines: "Let your light so shine before men,\nThat they may see your good works,\nAnd glorify your "
+          "Father in heaven\nHallelu, hallelujah!"),
+          Verse(isChorus: false, lines: "Trust in the Lord with all thine heart,\nHe shall direct thy paths;\nIn all thy ways "
+          "acknowledge Him,\nHallelu, hallelujah!")]
+    ),
+    Song(title: "Seek Ye the Lord All Ye People", author: "Joan Parsons",
+      verses: [
+          Verse(isChorus: false, lines: "Seek ye the Lord all ye people,\nTurn to Him while He is near.\nLet the wicked forsake his own way\n"
+          "And call on Him while He may hear.\nHo everyone who is thirsty,\nCome to the waters of life,\nCome and drink of the milk and the "
+          "wine,\nCome without money and price."),
+          Verse(isChorus: false, lines: "And there is peace like a river\nAnd glory divine; If you’ll come to the water,\n"
+          "If you’ll taste of His wine.\nThere is love ever flowing; and joy ever full,\nAnd there’s life everlasting for us all."),
+          Verse(isChorus: false, lines: "For you shall go out in joy\nAnd be led forth in peace,\nThe mountains and hills before you "
+          "shall sing\nAnd the trees of the field clap their hands.\nInstead of the thorns shall come cypress,\nAnd myrtle replace "
+          "every brier.\nAnd it shall be to remember the Lord\nAn everlasting sign.")]
+    ),
+    Song(title: "Silent Night", author: "Joseph Mohr",
+      verses: [
+          Verse(isChorus: false, lines: "Silent night! Holy night! All is calm, all is bright\nRound yon virgin mother and child!\n"
+          "Holy Infant, so tender and mild,\nSleep in heavenly peace; Sleep in heavenly peace."),
+          Verse(isChorus: false, lines: "Silent night! Holy night! Shepherds quake at the sight!\nGlories stream from heaven afar,\n"
+          "Heavenly hosts sing hallelujah;\nChrist, the Saviour, is born;\nChrist, the Saviour, is born"),
+          Verse(isChorus: false, lines: "Silent night! Holy night! Son of God, love’s pure light!\nRadiant beams from Thy holy face,\n"
+          "With the dawn of redeeming grace,\nJesus, Lord, at Thy birth; Jesus, Lord, at Thy birth.")]
+    ),
+    Song(title: "Sing them Over Again to Me", author: "Philip P. Bliss", 
+      verses: [
+          Verse(isChorus: false, lines: "Sing them over again to me,\nWonderful words of life;\nLet me more of their beauty see,\n"
+          "Wonderful words of life.\nWords of life and beauty,\nTeach me faith and duty:"),
+          Verse(isChorus: true, lines: "Beautiful words, wonderful words,\nWonderful words of life.\nBeautiful words, wonderful words,v"
+          "Wonderful words of life."),
+          Verse(isChorus: false, lines: "Christ, the blessed One, gives to all\nWonderful words of life;\nSinners, list to the "
+          "loving call,\nWonderful words of life.\nAll so freely given; Wooing us to heaven:"),
+          Verse(isChorus: false, lines: "Sweetly echo the gospel call,\nWonderful words of life;\nOffer pardon and peace to all,\n"
+          "Wonderful words of life.\nJesus, only Saviour; Sanctify forever:")]
+    ),
+    Song(title: "Softly and Tenderly Jesus is Calling", author: "William L. Thompson",
+      verses: [
+          Verse(isChorus: false, lines: "Softly and tenderly Jesus is calling,\nCalling for you and for me;\nSee on the portals "
+          "He’s waiting and watching,\nWatching for you and for me."),
+          Verse(isChorus: true, lines: "Come home, come home,\nYe who are weary, come home\nEarnestly, tenderly, Jesus is calling,\n"
+          "Calling, O sinner, come home."),
+          Verse(isChorus: false, lines: "Why should we tarry when Jesus is pleading,\nPleading for you and for me?\n"
+          "Why should we linger and heed not his mercies,\nMercies for you and for me?"),
+          Verse(isChorus: false, lines: "Time is now fleeting, the moments are passing,\nPassing from you and from me;\n"
+          "Shadows are gathering, deaths nightis coming;\nComing for you and for me."),
+          Verse(isChorus: false, lines: "O, for the wonderful love He has promised,\nPromised for you and for me;\n"
+          "Though we have sinned, He has mercy and pardon;\nPardon for you and for me.")]
     )
   ];
 
