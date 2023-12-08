@@ -2062,6 +2062,736 @@ class _HomeState extends State<Home> {
           "Shadows are gathering, deaths nightis coming;\nComing for you and for me."),
           Verse(isChorus: false, lines: "O, for the wonderful love He has promised,\nPromised for you and for me;\n"
           "Though we have sinned, He has mercy and pardon;\nPardon for you and for me.")]
+    ),
+    Song(title: "Some Glad Morning when this Life is O’er", author: "Albert E. Brumley",
+      verses: [
+          Verse(isChorus: false, lines: "Some glad morning when this life is o’er,\nI’ll fly away;\nTo a home on God’s celestial shore; "
+          "I’Il fly away."),
+          Verse(isChorus: true, lines: "I’ll fly away, O glory, I’II fly away;\nWhen I die, hallelujah, by and by; I’II fly away."),
+          Verse(isChorus: false, lines: "When the shadows of this life have grown, I’II fly away;\nLike a bird from prison "
+          "bars has flown;\nI’ll fly away."),
+          Verse(isChorus: false, lines: "Just a few more weary days and then,\nI’ll fly away;\nTo a land where joys shall never end,\n"
+          "I’ll fly away.")]
+    ),
+    Song(title: "Speak O Lord", author: "Keith Getty & Stuart Townend",
+      verses: [
+          Verse(isChorus: false, lines: "Speak, O Lord, as we come to You,\nTo receive the food of Your holy word.\n"
+          "Take Your truth, plant it deep in us;\nShape and fashion us in Your likeness,\nThat the light of Christ "
+          "might be seen today,\nIn our acts of love and our deeds of faith.\nSpeak, O Lord, and fulfil in us all your "
+          "purposes\nFor Your glory."),
+          Verse(isChorus: false, lines: "Teach us Lord full obedience,\nHoly reverence, true humility.\nTest our thoughts "
+          "and our attitudes,\nIn the radiance of Your purity.\nCause our faith to rise, Cause our eyes to see\n"
+          "Your majestic love and authority.\nWords of power that can never fail;\nLet their truth prevail over unbelief."),
+          Verse(isChorus: false, lines: "Speak, O Lord, and renew our minds;\nHelp us grasp the heights of Your plans for us.\n"
+          "Truths unchanged from the dawn of time,\nThat will echo down through eternity.\nAnd by grace we’ll stand on Your "
+          "promises;\nAnd by faith we’ll walk as You walk with us.\nSpeak, O Lord, till Your church is built,\n"
+          "And the earth is filled with Your glory.")]
+    ),
+    Song(title: "Standing on the Promises", author: "R. Kelso Carter",
+      verses: [
+          Verse(isChorus: false, lines: "Standing on the promises of Christ my King,\nThrough eternal ages let His praises ring;\n"
+          "Glory in the highest, I will shout and sing,\nStanding on the promises of God."),
+          Verse(isChorus: true, lines: "Standing, standing,\nStanding on the promises of God my Saviour;\nStanding, standing,\n"
+          "I’m standing on the promises of God."),
+          Verse(isChorus: false, lines: "Standing on the promises that cannot fail,\nWhen the howling storms of doubt and fear assail,\n"
+          "By the living word of God I shall prevail,\nStanding on the promises of God."),
+          Verse(isChorus: false, lines: "Standing on the promises I now can see,\nPerfect, present cleansing in the blood for me;\n"
+          "Standing in the liberty where Christ makes free,\nStanding on the promises of God."),
+          Verse(isChorus: false, lines: "Standing on the promises of Christ the Lord,\nBound to Him eternally by love’s strong cord,\n"
+          "Overcoming daily with the Spirit’s sword,\nStanding on the promises of God."),
+          Verse(isChorus: false, lines: "Standing on the promises I cannot fall,\nList’ning every moment to the Spirit’s call,\n"
+          "Resting in my Saviour as my All in all,\nStanding on the promises of God.")]
+    ),
+    Song(title: "Sumbuleni Amaboko Kumulu", author: "Author Unknown",
+      verses: [
+          Verse(isChorus: false, lines: "Sumbuleni amaboko kumulu,\nNokuya losha kuli Mushilo;\n"
+          "O mupaleni Yehoba amapalo,\nEwa bumbile ifintu fyonse."),
+          Verse(isChorus: false, lines: "Kontameni icinso panshi,\nMushishimune, mucindikeni;\n"
+          "O mupaleni Yehoba amapalo,\nEwa bumbile ifintu fyonse.")]
+    ),
+    Song(title: "Sweet Hour of Prayer", author: "W.W. Walford",
+      verses: [
+          Verse(isChorus: false, lines: "Sweet hour of prayer, sweet hour of prayer,\nThat calls me from a world of care,\n"
+          "And bids me at my Father’s throne\nMake all my wants and wishes known;\nIn seasons of distress and grief,\n"
+          "My soul has often found relief,\nAnd oft escaped the tempter’s snare,\nBy thy return, sweet hour of prayer"),
+          Verse(isChorus: false, lines: "Sweet hour of prayer, sweet hour of prayer,\nThy wings shall my petition bear,\n"
+          "To Him whose truth and faithfulness\nEngage the waiting soul to bless:\nAnd since He bids me seek His face,\n"
+          "Believe His word and trust His grace,\nI’ll cast on Him my every care,\nAnd wait for thee, sweet hour of prayer."),
+          Verse(isChorus: false, lines: "Sweet hour of prayer, sweet hour of prayer,\nMay I Thy consolation share,\n"
+          "Till, from Mount Pisgah’s lofty height,\nI view my home, and take my flight:\nThis robe of flesh I’ll drop and rise\n"
+          "To seize the everlasting prize;\nAnd shout, while passing through the air,\nFarewell, farewell, sweet hour of prayer!")]
+    ),
+    Song(title: "Take the Name of Jesus with You", author: "Mrs. L. Baxter",
+        verses: [
+            Verse(isChorus: false, lines: "Take the name of Jesus with you,\nChild of sorrow and of woe;\n"
+            "It will joy and comfort give you,\nTake it, then, where-e’er you go."),
+            Verse(isChorus: true, lines: "Precious name, O how sweet!\nHope of earth and joy of heaven.\n"
+            "Precious name, O how sweet!\nHope of earth and joy of heaven."),
+            Verse(isChorus: false, lines: "Take the name of Jesus ever,\nAs a shield from every snare;\n"
+            "If temptations ‘round you gather,\nBreathe that holy Name in prayer."),
+            Verse(isChorus: false, lines: "Oh! The precious name of Jesus!\nHow it thrills our souls with joy;\n"
+            "When His loving arms receive us,\nAnd His songs our tongues employ."),
+            Verse(isChorus: false, lines: "At the name of Jesus bowing,\nFalling prostrate at His feet;\n"
+            "King of kings in heaven we’ll crown Him,\nWhen our journey is complete.")]
+    ),
+    Song(title: "Take this Bread, I Give to You", author: "Barry McGuire",
+        verses: [
+            Verse(isChorus: false, lines: "Take this bread, I give to you;\nAnd as you do, remember Me.\n"
+            "This bread is My body,\nBroken just for you;\nTake it, eat it, each time you do:\n"
+            "Remember Me, remember Me.\nTake this cup, I fill for you;"),
+            Verse(isChorus: false, lines: "And as you do, remember Me.\nThis cup is the new covenant,\n"
+            "I’m making with you; take it, drink it:\nEach time you.\nTake this love, I’ve given you;\n"
+            "And as you do, remember Me,\nRemember me, remember Me")]
+    ),
+    Song(title: "Take Time to be Holy", author: "W.D. Longstaff",
+        verses: [
+            Verse(isChorus: false, lines: "Take time to be holy, speak oft with thy Lord;\nAbide in Him always, and feed on His word;\n"
+            "Make friends of God’s children, help those who are weak;\nForgetting in nothing His blessing to seek."),
+            Verse(isChorus: false, lines: "Take time to be holy, the world rushes on;\nSpend much time in secret with Jesus alone—\n"
+            "By looking to Jesus, like Him thou shalt be;\nThy friends in thy conduct His likeness shall see."),
+            Verse(isChorus: false, lines: "Take time to be holy, let Him be Thy Guide;\nAnd run not before Him, whatever betide;\n"
+            "In joy or in sorrow still follow the Lord,\nAnd, looking to Jesus, still trust in His word."),
+            Verse(isChorus: false, lines: "Take time to be holy, be calm in thy soul;\nEach thought and each temper beneath His "
+            "control:\nThus led by His Spirit to fountains of love,\nThou soon shalt be fitted for service above.")]
+      ),
+    Song(title: "Take up thy Cross and Follow Me", author: "B.B. McKinney",
+        verses: [
+            Verse(isChorus: false, lines: "\“Take up thy cross and follow Me,\”\nI heard my Master say;\n\“I gave My life to "
+            "ransom thee\nSurrender your all today.\n”"),
+            Verse(isChorus: true, lines: "Wherever He leads I’ll go,\nWherever He leads I’ll go;\nI’ll follow my Christ who "
+            "loves me so:\nWherever He leads I’ll go."),
+            Verse(isChorus: false, lines: "He drew me closer to His side,\nI sought His will to know,\nAnd in that will I "
+            "now abide,\nWherever He leads I’ll go."),
+            Verse(isChorus: false, lines: "It may be through the shadows dim,\nOr o’er the stormy sea,\nI take my cross and "
+            "follow Him,\nWherever He leadeth me."),
+            Verse(isChorus: false, lines: "My heart, my life, my all I bring\nTo Christ who loves me so,\nHe is my Master, Lord "
+            "and King,\nWherever He leads I’ll go.")]
+    ),
+    Song(title: "Teach Me to Pray Lord", author: "Albert S. Reitz",
+      verses: [
+          Verse(isChorus: false, lines: "Teach me to pray, Lord, teach me to pray;\nThis is my heart cry day unto day;\n"
+          "I long to know Thy will and Thy way;\nTeach me to pray, Lord, teach me to pray."),
+          Verse(isChorus: true, lines: "Living in Thee, Lord, and Thou in me,\nConstant abiding, this is my plea;\n"
+          "Grant me Thy power, boundless and free,\nPower with men and power with Thee."),
+          Verse(isChorus: false, lines: "Power in prayer, Lord, power in prayer!\nHere ‘mid earth’s sin and sorrow and care,\n"
+          "Men lost and dying, souls in despair;\nO give me power, power in prayer!"),
+          Verse(isChorus: false, lines: "My weakened will, Lord, Thou canst renew;\nMy sinful nature Thou canst subdue;\n"
+          "Fill me just now with power anew;\nPower to prayer and power to do!"),
+          Verse(isChorus: false, lines: "Teach me to pray, Lord, teach me to pray;\nThou art my pattern day unto day;\n"
+          "Thou art my surety now and for aye;\nTeach me to pray, Lord, teach me to pray.")]
+    ),
+    Song(title: "That God Should Love a Sinner Such as I", author: "C. Bishop",
+      verses: [
+          Verse(isChorus: false, lines: "That God should love a sinner such as I\nShould yearn to change my sorrow into bliss;\n"
+          "Nor rest till He had planned to bring me nigh,\nHow wonderful is love like this!"),
+          Verse(isChorus: true, lines: "Such love, such wondrous love!\nSuch love, such wondrous love!\n"
+          "That God should love a sinner such as I\nHow wonderful is love like this!"),
+          Verse(isChorus: false, lines: "That Christ should join so freely in the scheme,\nAlthough it meant His death on Calvary;\n"
+          "Did ever human tongue find nobler theme\nThan love divine that ransomed me!"),
+          Verse(isChorus: false, lines: "That for a wilful outcast such as I,\nThe Father planned, the Saviour bled and died;\n"
+          "Redemption for a worthless slave to buy,\nWho long had law and grace defied."),
+          Verse(isChorus: false, lines: "And now He takes me to His heart a son,\nHe asks me not to fill a servant’s place;\n"
+          "The ‘far-off country’ wand’rings all are gone,\nWide open are His arms of grace.")]
+    ),
+    Song(title: "THe Greatest Physician Now is Near", author: "William Hunter",
+      verses: [
+          Verse(isChorus: false, lines: "The great Physician now is near,\nThe sympathizing Jesus;\n"
+          "He speaks the drooping heart to cheer,\nOh, hear the voice of Jesus."),
+          Verse(isChorus: true, lines: "Sweetest note in seraph song,\nSweetest name on mortal tongue;\n"
+          "Sweetest carol ever sung;\nJesus, blessed Jesus."),
+          Verse(isChorus: false, lines: "Your many sins are all forgiven,\nOh, hear the voice of Jesus;\n"
+          "Go on your way in peace to heaven,\nAnd wear a crown with Jesus."),
+          Verse(isChorus: false, lines: "All glory to the dying Lamb!\nI now believe in Jesus;\n"
+          "I love the blessed Saviour’s name,\nI love the name of Jesus."),
+          Verse(isChorus: false, lines: "His name dispels my guilt and fear,\nNo other name but Jesus,\n"
+          "Oh! How my soul delights to hear\nThe precious name of Jesus.")]
+    ),
+    Song(title: "The Lord’s Our Rock, in Him we hide", author: "Vernon J. Charlesworth",
+      verses: [
+          Verse(isChorus: false, lines: "The Lord’s our Rock, in Him we hide,\nA Shelter in the time of storm;\n"
+          "Secure whatever ill betide,\nA Shelter in the time of storm"),
+          Verse(isChorus: true, lines: "O, Jesus is a Rock in a weary land,\nA weary land, a weary land;\n"
+          "O, Jesus is a Rock in a weary land,\nA Shelter in the time of storm."),
+          Verse(isChorus: false, lines: "A Shade by day, Defense by night,\nA Shelter in the time of storm;\n"
+          "No fears alarm, no foes afright,\nA Shelter in the time of storm."),
+          Verse(isChorus: false, lines: "The raging storms may round us beat,\nA Shelter in the time of storm;\n"
+          "We’ll never leave our safe retreat,\nA Shelter in the time of storm."),
+          Verse(isChorus: false, lines: "O Rock divine, O Refuge dear,\nA Shelter in the time of storm;\n"
+          "Be Thou our Helper ever near,\nA Shelter in the time of storm.")]
+    ),
+    Song(title: "The Love of God is Greater Far", author: "Frederick M. Lehman",
+      verses: [
+          Verse(isChorus: false, lines: "The love of God is greater far\nThan tongue or pen can ever tell;\n"
+          "It goes beyond the highest star,\nAnd reaches to the lowest hell;\nThe guilty pair, bowed down with care,\n"
+          "God gave His Son to win;\nHis erring child He reconciled,\nAnd pardoned from his sin."),
+          Verse(isChorus: true, lines: "O love of God, how rich and pure!\nHow measureless and strong!\n"
+          "It shall forever more endure\nThe saints and angels song."),
+          Verse(isChorus: false, lines: "When years of time shall pass away,\nAnd earthly thrones and kingdoms fall;\n"
+          "When men, who here refuse to pray,\nOn rocks and hills and mountains call,\nGod’s love so sure, shall still endure,\n"
+          "All measureless and strong;\nRedeeming grace to Adam’s race\nThe saints and angels song."),
+          Verse(isChorus: false, lines: "Could we with ink the ocean fill,\nAnd were the skies of parchment made;\n"
+          "Were every stalk on earth a quill,\nAnd every man a scribe by trade;\nTo write the love of God above,\n"
+          "Would drain the ocean dry;\nNor could the scroll contain the whole,\nThough stretched from sky to sky.")]
+    ),
+    Song(title: "The Price is Paid", author: "Graham Kendrick",
+      verses: [
+          Verse(isChorus: false, lines: "The price is paid, come let us enter in\nTo all that Jesus died, to make our own.\n"
+          "For every sin, more than enough He gave,\nAnd bought our freedom, from each guilty stain."),
+          Verse(isChorus: false, lines: "The price is paid, alleluia,\nAmazing grace, so strong and sure;\n"
+          "And so with all my heart, my life in every part,\nI live to thank You for, the price You paid."),
+          Verse(isChorus: false, lines: "The price is paid, see Satan flee away;\nFor Jesus crucified, destroys his power,\n"
+          "No more to pay, let accusation cease,\nIn Christ there is, no condemnation now."),
+          Verse(isChorus: false, lines: "The price is paid, and by that scourging cruel\nHe took our sicknesses, as if His own.\n"
+          "And by His wounds, His body broken there\nHis healing touch may now, by faith be known."),
+          Verse(isChorus: false, lines: "The price is paid, ‘Worthy the Lamb’ we cry\nEternity shall never, cease His praise.\n"
+          "The Church of Christ, shall rule upon the earth\nIn Jesus’ name we have, authority.")]
+    ),
+    Song(title: "The Volume of my Father's Grace", author: "Isaac Watts",
+      verses: [
+          Verse(isChorus: false, lines: "The volume of my Father’s grace\nDoes all my thirst assuage;\n"
+          "Here I behold my Saviour’s face\nIn almost every page"),
+          Verse(isChorus: false, lines: "This is the field where hidden lies;\nThe pearls of price unknown;\n"
+          "That merchant is divinely wise\nWho makes the pearl his own."),
+          Verse(isChorus: false, lines: "Here consecrated water flows\nTo purge my love of sin;\n"
+          "Here the fair tree of knowledge grows:\nNo danger dwells therein."),
+          Verse(isChorus: false, lines: "Here is the judge that ends all strife,\nWhere wit and reason fail;\n"
+          "My guide to everlasting life\nThrough all this earthly vale."),
+          Verse(isChorus: false, lines: "O may Thy counsels, mighty God,\nMy roving feet command,\n"
+          "Nor I forsake the happy road\nThat leads to Thy right hand")]
+    ),
+    Song(title: "There's a Call Comes Ringing", author: "Charles H. Gabriel",
+      verses: [
+          Verse(isChorus: false, lines: "There’s a call comes ringing o’er the restless wave,\nSend the light! Send the light!\n"
+          "There are souls to rescue, there are souls to save,\nSend the light! Send the light!"),
+          Verse(isChorus: true, lines: "Send the light, the blessed gospel light,\nLet it shine … from shore to shore!\n"
+          "Send the light! … And let its radiant beams\nLight the world … for evermore. …"),
+          Verse(isChorus: false, lines: "We have heard the Macedonian call today,\nSend the light! Send the light!\n"
+          "And a golden off’ring at the cross we lay,\nSend the light! Send the light!"),
+          Verse(isChorus: false, lines: "Let us pray that grace may everywhere abound\nSend the light! Send the light!\n"
+          "And a Christ-like spirit everywhere be found,\nSend the light! Send the light!"),
+          Verse(isChorus: false, lines: "Let us not grow weary in the work of love,\nSend the light! Send the light!\n"
+          "Let us gather jewels for a crown above,\nSend the light! Send the light")]
+    ),
+    Song(title: "There's a Land that is Fairer than Day", author: "S.F. Bennett",
+        verses: [
+          Verse(isChorus: false, lines: "There’s a land that is fairer than day,\nAnd by faith we can see it afar:\n"
+          "For the Father waits over the way,\nTo prepare us a dwelling place there."),
+          Verse(isChorus: true, lines: "In the sweet by and by,\nWe shall meet on that beautiful shore;\n"
+          "In the sweet by and by,\nWe shall meet on that beautiful shore."),
+          Verse(isChorus: false, lines: "We shall sing on that beautiful shore\nThe melodious songs of the blest,\n"
+          "And our spirits shall sorrow no more,\nNot a sigh for the blessing of rest."),
+          Verse(isChorus: false, lines: "To our bountiful Father above,\nWe will offer our tribute of praise,\n"
+          "For the glorious gift of His love,\nAnd the blessings that hallow our days.")]
+      ),
+    Song(title: "There’s not a Friend like the Lowly Jesus", author: "Johnson Oatman, Jr.,",
+      verses: [
+          Verse(isChorus: false, lines: "There’s not a friend like the lowly Jesus,\nNo, not one! No, not one!\n"
+          "None else could heal all our souls diseases,\nNo, not one! No, not one!"),
+          Verse(isChorus: true, lines: "Jesus knows all about our struggles,\nHe will guide till the day is done;\n"
+          "There’s not a friend like the lowly Jesus\nNo, not one! No, not one!"),
+          Verse(isChorus: false, lines: "No friend like Him is so high and holy,\nNo, not one! No, not one!\n"
+          "And yet no friend is so meek and lowly,\nNo, not one! No, not one!"),
+          Verse(isChorus: false, lines: "There’s not an hour that He is not near us,\nNo, not one! No, not one!\n"
+          "No night so dark but His love can cheer us,\nNo, not one! No, not one!"),
+          Verse(isChorus: false, lines: "Did ever saint find this Friend forsake him\nNo, not one! No, not one\n"
+          "Or sinner find that He would not take him?\nNo, not one! No, not one!"),
+          Verse(isChorus: false, lines: "Was e’er a gift like the Saviour given?\nNo, not one! No, not one!\n"
+          "Will He refuse us a home in heaven?\nNo, not one! No, not one!")]
+    ),
+    Song(title: "There was One who was Willing to Die in my Stead", author: "Carrie E. Breck",
+      verses: [
+          Verse(isChorus: false, lines: "There was one who was willing to die in my stead,\nThat a soul so unworthy might live;\n"
+          "And the path of the cross He was willing to tread,\nAll the sins of my life to forgive."),
+          Verse(isChorus: true, lines: "They are nailed to the cross, they are nailed to the cross,\nO how much He was willing to bear!\n"
+          "With what anguish and loss, Jesus went to the cross!\nAnd He carried my sins with Him there!"),
+          Verse(isChorus: false, lines: "He is tender and loving and patient with me,\nWhile He cleanses my heart of its dross;\n"
+          "But “There’s no condemnation” I know I am free,\nFor my sins are all nailed to the cross."),
+          Verse(isChorus: false, lines: "I will cling to my Saviour and never depart,\nI will joyfully journey each day;\n"
+          "With a song on my lips and song in my heart,\nThat my sins have been taken away")]
+    ),
+    Song(title: "This World is not my Home", author: "Albert E. Brumley",
+      verses: [
+          Verse(isChorus: false, lines: "This world is not my home, I’m just a passing through,\nMy treasures are laid up somewhere "
+          "beyond the blue;\nThe Saviour beckons me from heaven’s open door,\nAnd I can’t feel at home in this world any more."),
+          Verse(isChorus: true, lines: "Oh, Lord, you know, I have no friend like You;\nIf heaven’s not my home, then, Lord "
+          "what will I do? The Saviour beckons me from heaven’s open door;\nAnd I can’t feel at home in this world any more."),
+          Verse(isChorus: false, lines: "They’re all expecting me, and that’s one thing Iknow;\nMy Saviour pardoned me, now onward I "
+          "must go;\nI know He’ll take me through, though I am weak poor,\nAnd I can’t feel at home in this world any more."),
+          Verse(isChorus: false, lines: "Just over in glory-land we’ll live eternally,\nThe saints on every hand are shouting victory;\n"
+          "Their songs of sweetest praise drift back from heaven’s shore,\nAnd I can’t feel at home in this world any more.")]
+    ),
+    Song(title: "Thou Didst Leave Thy Throne", author: "Emily E.S. Elliott",
+      verses: [
+          Verse(isChorus: false, lines: "Thou didst leave Thy throne\nAnd Thy kingly crown\nWhen Thou camest to earth for me;\n"
+          "But in Bethlehem’s home\nWas there found no room\nFor Thy holy nativity:\n"),
+          Verse(isChorus: true, lines: "O come to my heart, Lord Jesus,\nThere is room in my heart for Thee."),
+          Verse(isChorus: false, lines: "Heaven’s arches rang\nWhen the angels sang,\n"
+          "Proclaiming Thy royal degree;\nBut of lowly birth\nDidst Thou come to earth,\nAnd in greatest humility."),
+          Verse(isChorus: false, lines: "The foxes found rest,\nAnd the birds their nest\nIn the shade of the forest tree;\n"
+          "But Thy couch was the sod,\nO Thou Son of God,\nIn deserts of Galilee."),
+          Verse(isChorus: false, lines: "Thou camest, O Lord,\nWith the living word\nThat should set Thy people free;\n"
+          "But with mocking scorn,\nAnd with crown of thorn,\nThey bore Thee to Calvary:"),
+          Verse(isChorus: false, lines: "When the heavens shall ring,\nAnd the angels sing,\n"
+          "At Thy coming to victory,\nLet Thy voice call me home,\nSaying, \“Yes there is room,\n"
+          "There is room at My side for thee.\”")]
+    ),
+    Song(title: "Though the World has Forsaken God", author: "R. T.Bewes",
+      verses: [
+          Verse(isChorus: false, lines: "Though the world has forsaken God,\nTreads a different path, lives a different way;\n"
+          "I walk the road that the Saviour trod,\nAnd all may know I live under Jesus’ way."),
+          Verse(isChorus: true, lines: "They are watching you, marking all you do,\nHearing the things you say;\n"
+          "Let them see the Saviour as He shines in you,\nLet His power control you everyday."),
+          Verse(isChorus: false, lines: "Men will look at the life I lead,\nSee the side I take, and the things I love;\n"
+          "They judge my Lord by my every deed;\nLord, set my affections on things above."),
+          Verse(isChorus: false, lines: "When assailed in temptations hour,\nBy besetting sins, by the fear of man,\n"
+          "Then I can know Jesus’ mighty power,\nAnd become like Him in His perfect plan."),
+          Verse(isChorus: false, lines: "Here on earth people walk in night;\nWith no lamp to guide, they are dead in sin;"
+          "I know the Lord who can give them light:\nI live, yet not I, but Christ within.")]
+    ),
+    Song(title: "Through Our God we Shall Do Valiantly", author: "Dale Garratt",
+      verses: [
+          Verse(isChorus: false, lines: "Through our God we shall do valiantly,\nIt is He who will tread down our enemies;\n"
+          "We’ll sing and shout His victory: Christ is King!\n(Last time sing three times)"),
+          Verse(isChorus: false, lines: "For God has won the victory,\nAnd set His people free;\n"
+          "His word has slain the enemy,\nThe earth shall stand and see that …")]
+    ),
+    Song(title: "Tis so Sweet to Trust in Jesus", author: "Louisa M.R. Stead",
+      verses: [
+          Verse(isChorus: false, lines: "‘Tis so sweet to trust in Jesus,\nJust to take Him at His Word;\n"
+          "Just to rest upon His promise;\nJust to know, \“Thus saith the Lord.\”"),
+          Verse(isChorus: true, lines: "Jesus, Jesus, how I trust Him!\nHow I’ve proved Him o’er and o’er!\n"
+          "Jesus, Jesus, precious Jesus!\nO for grace to trust Him more!"),
+          Verse(isChorus: false, lines: "O how sweet to trust in Jesus,\nJust to trust His cleansing blood;\n"
+          "Just in simple faith to plunge me\n‘Neath the healing, cleansing flood!"),
+          Verse(isChorus: false, lines: "Yes, ‘tis sweet to trust in Jesus,\nJust from sin and self to cease;\n"
+          "Just from Jesus simply taking\nLife and rest, and joy and peace."),
+          Verse(isChorus: false, lines: "I’m so glad I learned to trust Thee,\nPrecious Jesus, Saviour, Friend;\n"
+          "And I know that Thou art with me,\nWilt be with me to the end.")]
+    ),
+    Song(title: "Tis the Blessed Hour of Prayer", author: "Fanny J. Crosby`",
+      verses: [
+          Verse(isChorus: false, lines: "‘Tis the blessed hour of prayer,\nwhen our hearts lowly bend,\nAnd we gather to Jesus\n"
+          "our Saviour and Friend,\nIf we come to Him in faith,\nHis protection to share,\nWhat a balm for the weary!\n"
+          "Oh, how sweet to be there!"),
+          Verse(isChorus: true, lines: "Blessed hour of prayer,\nBlessed hour of prayer;\nWhat a balm for the weary!\n"
+          "Oh, how sweet to be there!"),
+          Verse(isChorus: false, lines: "‘Tis the blessed hour of prayer,\nwhen the Saviour draws near,\nWith a tender compassion,\n"
+          "His children to hear;\nWhen He tells us we may cast\nat His feet every care,\nWhat a balm for the weary!\nOh, how sweet "
+          "to be there!"),
+          Verse(isChorus: false, lines: "‘Tis the blessed hour of prayer,\nwhen the tempted and tried\nTo the Saviour who loves them\n"
+          "their sorrow confide;\nWith a sympathizing heart\nHe removes every care;\nWhat a balm for the weary!\nOh, how sweet to "
+          "be there!"),
+          Verse(isChorus: false, lines: "At the blessed hour of prayer,\ntrusting Him we believe\nThat the blessings we’re needing\n"
+          "we’ll sure receive;\nIn the fullness of this trust\nwe shall lose every care;\nWhat a balm for the weary!\nOh, how sweet "
+          "to be there!")]
+    ),
+    Song(title: "Tis to Thee We Owe Allegiance", author: "Thomas Kelly",
+      verses: [
+          Verse(isChorus: false, lines: "‘Tis to Thee we owe allegiance,\nGod, our Saviour and our King:\nMay we render true obedience,\n"
+          "Every day our tribute bring;\nAnd with rapture; Of Thy love and glory sing."),
+          Verse(isChorus: false, lines: "May we bow to Thy dominion,\nYielding to Thy righteous sway;\nCareless of the world’s opinion,\n"
+          "May we all Thy will obey;\nSaviour, lead us; lead us in Thy perfect way."),
+          Verse(isChorus: false, lines: "Thine is greatness never wasting,\nHigh Thou art, with glory crowned;\nThine a kingdom everlasting,\n"
+          "Grace and truth Thy throne surround;\nWhile all others; vanish, and no more are found."),
+          Verse(isChorus: false, lines: "Happy they whom Thou dost govern!\nGreat their peace, their honour great;\nThee beholding, Thee "
+          "their sovereign,\nThee enthroned in royal state;\nHappy people! Who before Thee ever wait.")]
+    ),
+    Song(title: "Trials Dark on Every Hand", author: "Charles A. Tindley",
+      verses: [
+          Verse(isChorus: false, lines: "Trials dark on every hand,\nand we cannot understand,\nAll the ways that God would lead us to\n"
+          "that blessed Promised Land;\nBut He guides us with His eye\nand we’ll follow till we die;\nFor we will understand it better "
+          "by and by."),
+          Verse(isChorus: true, lines: "By and by, when the morning comes,\nWhen the saints of God are gathered home;\n"
+          "We will tell the story how we’ve overcome,\nWe will understand it better by and by."),
+          Verse(isChorus: false, lines: "Oft our cherished plans have failed,\nDisappointments have prevailed;\n"
+          "And we’ve wandered in the darkness\n Heavy hearted and alone;\nBut we’re trusting in the Lord,\n"
+          "And according to His word:\nWe will understand it better by and by."),
+          Verse(isChorus: false, lines: "Temptations, hidden snares,\noften take us unawares,\nAnd we’re often made to bleed\n"
+          "for some thoughtless word or deed;\nAnd we wonder why the test\nwhen we try to do our best,:\n"
+          "But we will understand it better by and by.")]
+    ),
+    Song(title: "Triumphant Zion, Lift your Head", author: "Philip Doddridge",
+      verses: [
+          Verse(isChorus: false, lines: "Triumphant Zion, lift your head,\nFrom dust and ashes and the dead;\n"
+          "Though humbled long, arise at length,\nOnce more assume your Saviour’s strength."),
+          Verse(isChorus: false, lines: "Put your most regal garments on,\nAnd make your powers and blessings known;\n"
+          "The world your glories shall confess,\nDecked in the robes of righteousness."),
+          Verse(isChorus: false, lines: "No more shall foes unclean invade\nTo fill your hallowed walls with dread;\n"
+          "No more shall hell’s insulting host\nTheir victory and your sorrows boast."),
+          Verse(isChorus: false, lines: "God from on high will hear your prayer,\nHis hand your ruins shall repair;\n"
+          "Reared and adorned by love divine,\nYour towers and battlements shall shine."),
+          Verse(isChorus: false, lines: "Grace shall inspire your heart and voice\nTo share and sing eternal joys;\n"
+          "Nor will your watchful sovereign cease\nTo keep you in the way of peace.")]
+    ),
+    Song(title: "Tusekele No Kwanga; Pantu Lesa Musuma", author: "John Milton\n(Translator unknown)",
+      verses: [
+          Verse(isChorus: false, lines: "Tusekele no kwanga; Pantu Lesa musuma.\nPantu aba no luse; Pa bantu bakwe bonse.\n"
+          "Bonse tumutotele; Ni Lesa eka wene.\nIcalo abumbile; Ne fyaba umo mwine.\nAba ne fintu fyonse; Alatulela bonse.\n"
+          "Alebatangilila; ‘Bantu bakwe mu nshila.\nKu luse atumona; Nangu tube a babipa.\nE co tusekelele; Lesa tumulumbanye.")]
+    ),
+    Song(title: "Ukapenya Kwa Yesu uliko moyoko", author: "Author Unknown\n(Translator unknown)",
+      verses: [
+          Verse(isChorus: false, lines: "Ukapenya kwa Yesu uliko moyoko,\nInde, moyo tsopanopanotu;\n"
+          "Wolakwira upenye kwa Yesu Mbuyeyo,\nKuwombola naferatu’ we.’"),
+          Verse(isChorus: true, lines: "Ona! Ona! Onatu! Kuli moyo kwa yense\nApenya Yesu yo; Wakuferatu pamtandapo."),
+          Verse(isChorus: false, lines: "Anasenzapa bwanji uchimo wonsewo,\nNgati wanu pa Yesu sulipo?\n"
+          "Bwanji mwazi wakhetsa kutsuka ifetu,\nNgati uwu sutikwanako?"),
+          Verse(isChorus: false, lines: "Zilepheradi zonse kugula moyowo,\nKoma mwazi wa Yesu Mbuyeyo;\n"
+          "Khulupira mwa mphamvu ya Mlungu wathuyi\nKuyeretsa’ we’ m’mtimakomo."),
+          Verse(isChorus: false, lines: "Anathera pamtanda zinchito zonsezi,\nZowombola mizimu yathuyi;\n"
+          "Ndipo yense akadza mokondwakondwadi\nMoyo apeza kwa Yesu ko")]
+    ),
+    Song(title: "Ulaembela, Ulaembela", author: "Author Unknown",
+      verses: [
+          Verse(isChorus: true, lines: "Ulaembela, ulaembela;\nulaembela Mwami	"),
+          Verse(isChorus: false, lines: "Alumbwe alumbwe; Mwami wa bami\nUlaembela Mwami\nAlumbwe alumbwe; Mwami wa julu\nUlaembela Mwami"),
+          Verse(isChorus: false, lines: "Nakuba kuti; Tupenge buti\nUlaembela Mwami\nNakuba kuti; Tulile buti\nUlaembela Mwami")]
+    ),
+    Song(title: "Under the Burden of Guilt and Care", author: "Ulaembela, ulaembela",
+      verses: [
+          Verse(isChorus: false, lines: "Under the burden of guilt and care,\nMany a spirit is grieving,\nWho in the joy of the Lord "
+          "might share,\nLife everlasting receiving."),
+          Verse(isChorus: true, lines: "Life! Life! Eternal life! Jesus alone is the giver!\nLife! Life! Abundant life! Glory to Jesus "
+          "for ever!"),
+          Verse(isChorus: false, lines: "Bearing our burden of guilt, there came\nOne who is strong to deliver,\nBringing to men, "
+          "through His wondrous name,\nLife “More abundant” for ever."),
+          Verse(isChorus: false, lines: "Burdened one, why will you longer bear\nSorrows from which He releases?\n"
+          "Open your heart, and rejoicing share,\nLife “More abundant” in Jesus."),
+          Verse(isChorus: false, lines: "Leaving the mountain, the streamlet grows,\nFlooding the vale with a river;\n"
+          "So, from the hill of the cross, there flows\nLife “More abundant” for ever."),
+          Verse(isChorus: false, lines: "Oh, for the floods on the thirsty land!\nOh, for a mighty revival!\n"
+          "Oh, for a sanctified, fearless band,\nReady to hail its arrival.	")]
+    ),
+    Song(title: "We are a Moment, You are Forever", author: "Lynn DeShazo & Gary Sadi",
+      verses: [
+          Verse(isChorus: false, lines: "We are a moment, You are forever,\nLord of the ages, God before time;\n"
+          "We are a vapour, You are eternal,\nLove everlasting, reigning on high."),
+          Verse(isChorus: true, lines: "Holy, holy Lord God Almighty,\nWorthy is the Lamb who was slain,\n"
+          "Highest praises honour and glory …\nBe unto Your name."),
+          Verse(isChorus: false, lines: "We are the broken, You are the healer,\nJesus, Redeemer, mighty to save;\n"
+          "You are the love song, we’ll sing forever,\nBowing before You, blessing Your name.")]
+    ),
+    Song(title: "We are Moment, You are Forever", author: "Lynn DeShazo & Gary Sadi",
+      verses: [
+          Verse(isChorus: false, lines: "We are a moment, You are forever,\nLord of the ages, God before time;\n"
+          "We are a vapour, You are eternal,\nLove everlasting, reigning on high."),
+          Verse(isChorus: true, lines: "Holy, holy Lord God Almighty,\nWorthy is the Lamb who was slain,\n"
+          "Highest praises honour and glory …\nBe unto Your name."),
+          Verse(isChorus: false, lines: "We are the broken, You are the healer,\nJesus, Redeemer, mighty to save;\n"
+          "You are the love song, we’ll sing forever,\nBowing before You, blessing Your name.")]
+    ),
+    Song(title: "We are Heirs of the Father", author: "Jimmy & Carol Owens",
+      verses: [
+          Verse(isChorus: false, lines: "We are heirs of the Father,\nWe are joint heirs with the Son;\n"
+          "We are children of the Kingdom,\nWe are family, we are one."),
+          Verse(isChorus: false, lines: "We are washed, we are sanctified,\nWe are cleansed by the blood;\n"
+          "We are born of the Spirit,\nWe are children of the Lord."),
+          Verse(isChorus: false, lines: "We are members of His body,\nWe are objects of His love;\n"
+          "We’re partakers of His holiness,\nWe are citizens of heaven above."),
+          Verse(isChorus: false, lines: "We’re partakers of His suffering,\nWe’re partakers of His grace;\n"
+          "We shall be changed to be like Him,\nWhen we see Him face to face."),
+          Verse(isChorus: false, lines: "We are longing for His coming,\nWe are looking to the sky;\n"
+          "We are watching, we are waiting,\nWe shall fly with Him, we shall rise."),
+          Verse(isChorus: false, lines: "We shall reign with Him forever,\nMen and angels shout and sing;\n"
+          "All dominion shall be given,\nTo the family of the King.")]
+    ),
+    Song(title: "We are Here to Praise You", author: "Graham Kendrik",
+      verses: [
+          Verse(isChorus: false, lines: "We are here to praise You,\nLift our hearts and sing;\nWe are here to give You,\n"
+          "The best that we can bring;\nAnd it is our love,\nRising from our hearts,\nEverything within us cries: ‘Abba Father’.\n"
+          "Help us now to give You, pleasure and delight,\nHeart and mind and will that say:\n‘I love You, Lord.’")]
+    ),
+    Song(title: "May the Fragrance of Jesus Fill this Place", author: "Graham Kendrick",
+      verses: [
+          Verse(isChorus: false, lines: "May the fragrance of Jesus fill this place;\nMay the fragrance of Jesus fill this place;"),
+          Verse(isChorus: false, lines: "May the fragrance of Jesus fill this place;\nLovely fragrance of Jesus\n"
+          "Rising from the sacrifice\nOf lives laid down in adoration "),
+          Verse(isChorus: false, lines: "May the glory of Jesus fill His church;\nMay the glory of Jesus fill His church;\n"
+          "May the glory of Jesus fill His church;\nRadiant glory of Jesus\nShining from our faces\nAs we gaze in adoration"),
+          Verse(isChorus: false, lines: "May the beauty of Jesus fill my life;\nMay the beauty of Jesus fill my life;\n"
+          "May the beauty of Jesus fill my life;\nPerfect beauty of Jesus\nFill my thoughts my words my deeds\n"
+          "My all I give in adoration\nFill my thoughts my words my deeds\nMy all I give in adoration\n"
+          "My all I give in adoration")]
+    ),
+    Song(title: "We Magnify Your Name", author: "Pam Hansford",
+      verses: [
+          Verse(isChorus: false, lines: "We magnify Your name, Lord,\nWe worship and adore You:\nFor who You are, for what You’ve done,\n"
+          "Among Your people here;\nWe open up our lives to You,\nLay down our minds and wills;\nWe want You, Lord, to have Your way,\n"
+          "For we delight in You.")]
+    ),
+    Song(title: "We will Rejoice in You and be Glad", author: "Author Unknown", 
+      verses: [
+          Verse(isChorus: false, lines: "We will rejoice in You and be glad,\nWe will extol Your love more than wine;\n"
+          "Draw me unto You and let us run together\nWe will rejoice in You and be glad."),
+          Verse(isChorus: false, lines: "More than when the grain and the new wine abound,\nYou have put gladness in my heart\n"
+          "More than when the grain and the new wine abound,\nYou have put gladness in my heart."),
+          Verse(isChorus: false, lines: "So lift up the light of Your countenance,\nUpon us, O Lord;\n"
+          "So lift up the light of Your countenance,\nUpon us, O Lord."),
+          Verse(isChorus: false, lines: "We will rejoice in You and be glad,\nWe will extol Your love more than wine\n"
+          "Draw me unto You and let us run together\nWe will rejoice in You and be glad.")]
+    ),
+    Song(title: "Were You there When they Crucified my Lord?", author: "African American Spiritual",
+      verses: [
+          Verse(isChorus: false, lines: "Were you there when they crucified my Lord?\nWere you there?\n"
+          "Were you there when they crucified my Lord?\nWere you there?\nOh! Sometimes it causes me to tremble, tremble, tremble,\n"
+          "Were you there when they crucified my Lord?\nWere you there?"),
+          Verse(isChorus: false, lines: "Were you there when they nailed Him to the tree?\nWere you there?\n"
+          "Were you there when they nailed Him to the tree?\nWere you there?\nOh! Sometimes it causes me to tremble, tremble, tremble,\n"
+          "Were you there when they nailed Him to the tree?\nWere you there?"),
+          Verse(isChorus: false, lines: "Were you there when the sun refused to shine?\nWere you there?\n"
+          "Were you there when the sun refused to shine?\nWere you there?\nOh! Sometimes it causes me to tremble, tremble,\n tremble,\n"
+          "Were you there when the sun refused to shine?\nWere you there?"),
+          Verse(isChorus: false, lines: "Were you there when they pierced Him in the side?\nWere you there?\n"
+          "Were you there when they pierced Him in the side?\nWere you there?\nOh! Sometimes it causes me to tremble, tremble, tremble,\n"
+          "Were you there when they pierced\nHim in the side? Were you there?"),
+          Verse(isChorus: false, lines: "Were you there when they laid Him in the tomb?\nWere you there?\n"
+          "Were you there when they laid Him in the tomb?\nWere you there?\nOh! Sometimes it causes me to tremble, tremble, tremble,\n"
+          "Were you there when they laid Him in the tomb?\nWere you there?"),
+          Verse(isChorus: false, lines: "Were you there when He rose up from the dead?\nWere you there?\n"
+          "Were you there when He rose up from the dead?\nWere you there?\n"
+          "Oh! Sometimes I feel like shouting:\n\“Praise Him! Praise Him! Praise Him!\”\nWere you there when He rose up from the dead?\n"
+          "Were you there?")]
+    ),
+    Song(title: "What a Fellowship; What a Joy Divine", author: "Elisha A. Hoffman",
+      verses: [
+          Verse(isChorus: false, lines: "What a fellowship; what a joy divine,\nLeaning on the everlasting arms;\n"
+          "What a blessedness, what a peace is mine,\nLeaning on the everlasting arms."),
+          Verse(isChorus: true, lines: "Leaning, leaning,\nSafe and secure from all alarms;\n"
+          "Leaning, leaning,\nLeaning on the everlasting arms."),
+          Verse(isChorus: false, lines: "O, how sweet to walk in this pilgrim way,\nLeaning on the everlasting arms;\n"
+          "O, how bright the path grows from day to day,\nLeaning on the everlasting arms."),
+          Verse(isChorus: false, lines: "What have I to dread; what have I to fear,\nLeaning on the everlasting arms;\n"
+            "I have blessed peace with my Lord so near,\nLeaning on the everlasting arms.")]
+      ),
+      Song(title: "What a Wonderful Change in My Life", author: "Rufus H. McDaniel",
+        verses: [
+          Verse(isChorus: false, lines: "What a wonderful change in my life has been wrought,\nSince Jesus came into my heart!\n"
+          "I have light in my soul for which long I have sought,\nSince Jesus came into my heart!"),
+          Verse(isChorus: true, lines: "Since Jesus came into my heart,\nSince Jesus came into my heart,\n"
+          "Floods of joy o’er my soul like the sea billows roll\nSince Jesus came into my heart."),
+          Verse(isChorus: false, lines: "I have ceased from my wand’ring and going astray,\nSince Jesus came into my heart!\n"
+          "And my sins, which were many, are all washed away,\nSince Jesus came into my heart!"),
+          Verse(isChorus: false, lines: "There’s a light in the valley of death now for me,\nSince Jesus came into my heart!\n"
+          "And the gates of the City beyond I can see\nSince Jesus came into my heart!"),
+          Verse(isChorus: false, lines: "I shall go there to dwell in that City I know,\nSince Jesus came into my heart!\n"
+        "And I’m happy, so happy, as onward I go,\nSince Jesus came into my heart!")]
+    ),
+    Song(title: "What a Wonderful Saviour is Jesus", author: "A Sevison", 
+      verses: [
+          Verse(isChorus: false, lines: "What a wonderful Saviour is Jesus,\nWhat a wonderful friend is He;\n"
+          "For He left all the glory of Heaven,\nCame to earth to die on Calvary."),
+          Verse(isChorus: true, lines: "Sing hosanna! Sing hosanna!\nSing hosanna to the King of kings!\n"
+          "Sing hosanna! Sing hosanna!\nSing hosanna to the King!"),
+          Verse(isChorus: false, lines: "He arose from the grave, Hallelujah!\nAnd He lives, never more to die;\n"
+          "At the Father’s right hand interceding\nHe will hear and heed our faintest cry."),
+          Verse(isChorus: false, lines: "He is coming some day to receive us,\nWe’ll be caught up to Heaven above;\n"
+          "What a joy it will be to behold Him,\nSing for ever His grace and love.")]
+    ),
+    Song(title: "What can Wash Away my Sin?", author: "Robert Lowry",
+      verses: [
+          Verse(isChorus: false, lines: "What can wash away my sin?\nNothing but the blood of Jesus;\n"
+          "What can make me whole again?\nNothing but the blood of Jesus."),
+          Verse(isChorus: true, lines: "Oh! precious is the flow,\nThat makes me white as snow;\n"
+          "No other fount I know,\nNothing but the blood of Jesus."),
+          Verse(isChorus: false, lines: "For my pardon this I see,\nNothing but the blood of Jesus;\n"
+          "For my cleansing this my plea,\nNothing but the blood of Jesus."),
+          Verse(isChorus: false, lines: "Nothing can for sin atone,\nNothing but the blood of Jesus;\n"
+          "Naught of good that I have done,\nNothing but the blood of Jesus."),
+          Verse(isChorus: false, lines: "This is all my hope and peace,\nNothing but the blood of Jesus;\n"
+          "This is all my righteousness,\nNothing but the blood of Jesus.")]
+    ),
+    Song(title: "When Fears Arise and Trials Oppress", author: "Augustus M. Toplady",
+      verses: [
+          Verse(isChorus: false, lines: "When fears arise and trials oppress\nTo test our faith and love,\n"
+          "‘Tis sweet to think on all the grace\nThat lifts our souls above."),
+          Verse(isChorus: false, lines: "Sweet to reflect how grace divine\nMy sins on Jesus laid;\n"
+          "Sweet to remember that His blood\nMy debt of sufferings paid."),
+          Verse(isChorus: false, lines: "Sweet in His righteousness to stand,\nWhich saves from second death;\n"
+          "Sweet to experience, day by day,\nHis Spirit’s quickening breath."),
+          Verse(isChorus: false, lines: "Sweet on His covenant of grace,\nFor all things to depend;\n"
+          "Sweet on His faithfulness to rest,\nWhose love can never end."),
+          Verse(isChorus: false, lines: "Sweet to rejoice in lively hope,\nThat, when my end shall come,\n"
+          "Angels will hover round my bed,\nAnd take my spirit home."),
+          Verse(isChorus: false, lines: "There shall my disembodied soul\nBehold Him and adore;\n"
+          "Be with His likeness clothed upon,\nAnd grieve and sin no more."),
+          Verse(isChorus: false, lines: "If such the sweetness of the stream,\nWhat must the fountain be?\n"
+          "Where saints and angels draw their bliss\nDirectly, Lord, from Thee")]
+    ),
+    Song(title: "When I Look into Your Holiness", author: "Wayne & Cathy Perrin",
+      verses: [
+          Verse(isChorus: false, lines: "When I look into Your holiness,\nWhen I gaze into Your loveliness,\n"
+          "When all things that surround\nBecome shadows in the light of You;\nWhen I’ve found the joy of reaching Your heart,\n"
+          "When my will becomes enthroned in Your love,\nWhen all things that surround\nBecome shadows in the light of You:"),
+          Verse(isChorus: true, lines: "I worship You, I worship You,\nThe reason I live is to worship You.\nI worship You, I worship You,\n"
+          "The reason I live is to worship You")]
+    ),
+    Song(title: "When I Saw the Cleansing Fountain", author: "Mrs. M.J. Harris",
+      verses: [
+          Verse(isChorus: false, lines: "When I saw the cleansing fountain\nOpen wide for all my sin,\n"
+          "I obeyed the Spirit’s wooing,\nWhen He said, \“Wilt thou be clean?\”"),
+          Verse(isChorus: true, lines: "I will praise Him! I will praise Him!\nPraise the Lamb for sinners slain;\n"
+          "Give Him glory all ye people,\nFor His blood has washed away my stain."),
+          Verse(isChorus: false, lines: "Though the way seemed straight and narrow,\nAll I claimed was swept away;\n"
+          "My ambitions, plans and wishes,\nAt my feet in ashes lay."),
+          Verse(isChorus: false, lines: "Then God’s fire upon the alter\nOf my heart was set a flame;\n"
+          "I shall never cease to praise Him,\nGlory, glory to His name!"),
+          Verse(isChorus: false, lines: "Blessed be the name of Jesus!\nI’m so glad He took me in;\n"
+          "He has forgiven my transgressions,\nHe has cleansed my heart from sin."),
+          Verse(isChorus: false, lines: "Glory, glory to the Father!\nGlory, glory to the Son!\n"
+          "Glory, glory to the Spirit!\nGlory to the Three in One!")]
+    ),
+    Song(title: "When my Life Work is Ended", author: "Fanny J. Crosby",
+      verses: [
+          Verse(isChorus: false, lines: "When my life work is ended, and I cross the swelling tide,\n"
+          "When the bright and glorious morning I shall see;\nI shall know my Redeemer when I reach the other side,\n"
+          "And His smile will be the first to welcome me."),
+          Verse(isChorus: false, lines: "I shall know Him, I shall know Him!\nAs redeemed by His side I shall stand;\n"
+          "I shall know Him, I shall know Him;\nby the print of the nails in His hand."),
+          Verse(isChorus: false, lines: "Oh, the soul thrilling rapture when I view His blessed face,\n"
+          "And the luster of His kindly beaming eye;\nHow my full heart will praise Him for the mercy, love and grace,\n"
+          "That prepares for me a mansion in the sky."),
+          Verse(isChorus: false, lines: "Oh, the dear ones in glory, how they beckon me to come,\n"
+          "And our parting at the river I recall;\nTo the sweet vales of Eden they will sing my welcome home,\n"
+          "But I long to meet my Saviour first of all."),
+          Verse(isChorus: false, lines: "Thru the gates to the city in a robe of spotless white,\n"
+          "He will lead me where no tears shall ever fall;\nIn the glad song of ages I shall mingle with delight;\n"
+          "But I long to meet my Saviour first of all.")]
+    ),
+    Song(title: "When My Ways Grows Drear,", author: "Thomas A. Dorsey",
+      verses: [
+          Verse(isChorus: false, lines: "When my ways grows drear, Precious Lord, linger near,\nWhen my life is almost gone;\n"
+          "Hear my cry, hear my call, Hold my hand lest I fall;\nTake my hand, Precious Lord, lead me home."),
+          Verse(isChorus: true, lines: "Precious Lord, take my hand,\nLead me on, help me stand;\n"
+          "I am tired, I am weak, I am worn;\nThru the storm, thru the night,\nLead me on to the light;\n"
+          "Take my hand, Precious Lord, lead me home."),
+          Verse(isChorus: false, lines: "When the shadows appear, and the night draweth near,\nAnd the day is past and gone;\n"
+          "At the river I stand, guide my feet, Hold my hand;\nTake my hand, Precious Lord, lead me home.")]
+    ),
+    Song(title: "When the Trumpet of the Lord Shall Sound", author: "J.M. Black",
+      verses: [
+          Verse(isChorus: false, lines: "When the trumpet of the Lord shall sound and time shall be no more,\n"
+          "And the morning breaks eternal, bright and fair;\nWhen the saved of earth shall gather over on the other shore,\n"
+          "And the roll is called up yonder, I’ll be there."),
+          Verse(isChorus: true, lines: "When the roll is called up yonder,\nWhen the roll is called up yonder,\n"
+          "When the roll is called up yonder,\nWhen the roll is called up yonder, I’Il be there."),
+          Verse(isChorus: false, lines: "On that bright and cloudless morning when the dead in Christ shall rise,\n"
+          "And the glory of His resurrection share;\nWhen His chosen ones shall gather to their home beyond the skies,\n"
+          "And the roll is called up yonder, I’ll be there."),
+          Verse(isChorus: false, lines: "Let us labour for the Master from the dawn till setting sun,\n"
+          "Let us talk of all His wondrous love and care;\nThen when all of life is over and our work on earth is done,\n"
+          "And the roll is called up yonder, I’ll be there.")]
+    ),
+    Song(title: "When Upon Life’s Billows you are Tempest Tossed", author: "Johnson Oatman Jnr.",
+      verses: [
+          Verse(isChorus: false, lines: "When upon life’s billows you are tempest tossed,\nWhen you are discouraged, thinking all is lost,\n"
+          "Count your many blessings, name them one by one,\nAnd it will surprise you what the Lord hath done."),
+          Verse(isChorus: true, lines: "Count your blessings, Name them one by one,\nCount your blessings, See what God hath done;\n"
+          "Count your blessings, Name them one by one,\nAnd it will surprise you what the Lord hath done."),
+          Verse(isChorus: false, lines: "Are you ever burdened with a load of care?\nDoes the cross seem heavy you are called to bear?\n"
+          "Count your many blessings, every doubt will fly,\nAnd you will be singing as the days go by."),
+          Verse(isChorus: false, lines: "When you look at others with their lands and gold,\nThink that Christ has promised you His wealth "
+          "untold,\nCount your many blessings, money cannot buy\nYour reward in Heaven, nor your home on high."),
+          Verse(isChorus: false, lines: "So, amid the conflict, whether great or small,\nDo not be discouraged, God is over all,\n"
+          "Count your many blessings, angels will attend,\nHelp and comfort give you to your journey’s end.")]
+    ),
+    Song(title: "Which Way are you Choosing, the Narrow or Broad?", author: "Richard Bewes",
+      verses: [
+          Verse(isChorus: false, lines: "Which way are you choosing, the narrow or broad?\nYou’ll have to make up your mind!\n"
+          "Just give up your own way and follow the Lord\nWhy don’t you make up your mind\nHe died a stranger of Galilee\n"
+          "To bring salvation to you and me;\nA strong companion you’ll prove Him to be\nSo won’t you make up your mind?"),
+          Verse(isChorus: false, lines: "Which crowd will you follow, the large or the small?\nBe sure to make up your mind\n"
+          "The cost is demanding but hear Jesus’ call;\nThen come and make up your mind\nYour friends may shun you unthinkingly\n"
+          "But Christ gives power and liberty\nTo life with a purpose you’ll find the key\nWhen once you make up your mind!"),
+          Verse(isChorus: false, lines: "On which are you resting the Rock or the sand?\nYou’d better make up your mind\n"
+          "With Christ as foundation your building will stand\nBut have you made up your mind?\nTemptations and trials must come your way\n"
+          "The storm of judgment will rage one day\nTake Jesus and on Him your confidence stay\nDon’t wait, but make up your mind."),
+          Verse(isChorus: false, lines: "O! What will you do with the Saviour today?\nHe bids you make up your mind\n"
+          "Repent and accept Him without delay\nO sinner make up your mind\nWhy stumble alone along the road\n"
+          "He’ll sort your tangles, He’ll take your load\nAnd in your heart, He’ll make His abode\nIt’s time to make up your mind!")]
+    ),
+    Song(title: "Wina Atikonda Ife", author: "Author Unknown",
+      verses: [
+          Verse(isChorus: false, lines: "Wina atikonda ife; Bwenzi lathu ndiyeyu;\nAtifunafuna ife; Inde, nthawi zonsetu."),
+          Verse(isChorus: true, lines: "Chikondano chakechi; Nchachikulukuludi."),
+          Verse(isChorus: false, lines: "Ndani mwa abale athu; Akanatifera ‘fe?\nKoma Yesu m’malo mwathu; Anapachikidwatu."),
+          Verse(isChorus: false, lines: "Anamnyoza pansi pano; Bwenzi la ochimwawo;\nMu ulemerero wake; Alikonda dzinali."),
+          Verse(isChorus: false, lines: "Timchimwira kopambana; Ndi kumusautsa ‘Ye,\nKoma bwenzi lathu Yesu; Atikondakondabe."),
+          Verse(isChorus: false, lines: "Mtiphunzitse, Mbuye Yesu; Tikondane nanutu;\nTisaiwalire konse; Bwenzi lathu ndinutu.")]
+    ),
+    Song(title: "Worthy Art Thou, O Lord My God", author: "Dave Richards",
+      verses: [
+          Verse(isChorus: false, lines: "Worthy art Thou, O Lord my God,\nOf honour and power;\nFor Thou art reigning now on high, "
+          "hallelujah!\nJesus is Lord of all the earth; Hallelujah!\nHallelujah, hallelujah!")]
+    ),
+    Song(title: "Worthy, O Worthy are You Lord", author: "Mark S. Kinzer",
+      verses: [
+          Verse(isChorus: false, lines: "Worthy, O worthy are You Lord,\nWorthy to be thanked and praised\nAnd worshipped and adored.\n"
+          "Worthy, O worthy are You Lord,\nWorthy to be thanked and praised\nAnd worshipped and adored."),
+          Verse(isChorus: false, lines: "Singing hallelujah, Lamb upon the throne,\nWe worship and adore You, make Your glory known.\n"
+          "Hallelujah, glory to the King:\nYou’re more than a conqueror,\nYou’re Lord of everything.")]
+    ),
+    Song(title: "Would you be Free from the Burden of Sin?", author: "Lewis E. Jones",
+      verses: [
+          Verse(isChorus: false, lines: "Would you be free from the burden of sin?\nThere’s power in the blood, power in the blood;\n"
+          "Would you o’er evil a victory win?\nThere’s wonderful power in the blood."),
+          Verse(isChorus: true, lines: "There is power, power, wonder working power,\nIn the blood of the Lamb;\n"
+          "There is power, power, wonder working power,\nIn the precious blood of the Lamb."),
+          Verse(isChorus: false, lines: "Would you be free from your passion and pride?\nThere’s power in the blood, power in the "
+          "blood;\nCome for a cleansing to Calvary’s tide,\nThere’s wonderful power in the blood"),
+          Verse(isChorus: false, lines: "Would you be whiter, much whiter than snow?\nThere’s power in the blood, power in the blood;\n"
+          "Sin stains are lost in its life-giving flow;\nThere’s wonderful power in the blood."),
+          Verse(isChorus: false, lines: "Would you do service for Jesus your King?\nThere’s power in the blood, power in the blood;\n"
+          "Would you live daily His praises to sing?\nThere’s wonderful power in the blood.")]
+    ),
+    Song(title: "Years I Spent in Vanity and Pride", author: "William R. Newell",
+      verses: [
+          Verse(isChorus: false, lines: "Years I spent in vanity and pride;\nCaring not my Lord was crucified,\n"
+          "Knowing not it was for me He died; On Calvary."),
+          Verse(isChorus: true, lines: "Mercy there was great and grace was free;\nPardon there was multiplied to me;\n"
+          "There my burdened soul found liberty,\nAt Calvary."),
+          Verse(isChorus: false, lines: "By God’s Word at last my sin I learned,\nThen I trembled at the law I’d spurned,\n"
+          "Till my guilty soul, imploring turned; To Calvary."),
+          Verse(isChorus: false, lines: "Now I’ve given to Jesus everything,\nNow I gladly own Him as my King;\n"
+          "Now my raptured soul can only sing; Of Calvary."),
+          Verse(isChorus: false, lines: "O the love that drew salvation’s plan!\nO the grace that brought it down to man,\n"
+          "O the mighty gulf that God did span;\nAt Calvary.")]
+    ),
+    Song(title: "Yesu Kale Amfwaile", author: "Author Unknown",
+      verses: [
+          Verse(isChorus: false, lines: "Yesu kale amfwaile, nalyu mweni kutali;\nPa kuntula aposele ‘mweo wakwe pali ‘ne."),
+          Verse(isChorus: true, lines: "Namutemwa, aleluya,\nNamutemwa, ‘Mupusushi;\nNamutemwa, Yesu Kristu,\nAmfwilile pa kalbale."),
+          Verse(isChorus: false, lines: "Yesu nomba alefwaya ‘Kuti nkonke nshiku pe\nMu makasa umo mwine; Aendele panonse."),
+          Verse(isChorus: false, lines: "Yesu mwine akabwela ‘Kututwala ku mwakwe;\nE ko tukalasekela Mu musumba wakwe pe.")]
+    ),
+    Song(title: "You are Beautiful Beyond Description", author: "Supertones",
+      verses: [
+          Verse(isChorus: false, lines: "You are beautiful beyond description,\nToo marvelous for words,\nToo wonderful for comprehension,\n"
+          "Like nothing ever seen or heard;"),
+          Verse(isChorus: false, lines: "Who can grasp Your infinite wisdom,\nWho can fathom the depth of Your love,\n"
+          "You are beautiful beyond description,\nMajesty enthroned above."),
+          Verse(isChorus: false, lines: "I stand, I stand in awe of You,\nI stand, I stand in awe of You;\n"
+          "Holy God to whom all praise is due,\nI stand in awe of You.")]
+    ),
+    Song(title: "You are the King of Glory", author: "Mavis Ford",
+      verses: [
+          Verse(isChorus: false, lines: "You are the King of glory,\nYou are the Prince of peace,\nYou are the Lord of heaven and earth,\n"
+          "You’re the Son of righteousness;\nAngels bow down before You,\nWorship and adore\nFor You have the words of eternal life,\n"
+          "You are Jesus Christ the Lord.\nHosanna to the Son of David,\nHosanna to the King of kings;\nGlory in the highest heaven,\n"
+          "For Jesus the Messiah reigns")
+      ]
+    ),
+    Song(title: "You Said You’d Come and Share all my Sorrows", author: "Marsha Stevens",
+      verses: [
+          Verse(isChorus: false, lines: "You said You’d come and share all my sorrows,\nYou said You’d be there for all my tomorrows;\n"
+          "I came so close to sending You away,\nBut just like You promised,\nYou came there to stay, I just had to pray:"),
+          Verse(isChorus: true, lines: "And Jesus said: \“Come to the water,\nStand by My side, I know you are thirsty,\n"
+          "You won’t be denied.\nI felt every tear drop when\nin darkness you cried,\nAnd I strove to remind you That for\n"
+          "those tears I died.\”"),
+          Verse(isChorus: false, lines: "Your goodness so great, I can’t understand,\nAnd dear Lord, I know that all this was planned,\n"
+          "I know You’re here now, and always will be;\nYour love loosed my chains and in You I’m free,\nBut Jesus, why me?"),
+          Verse(isChorus: false, lines: "Jesus, I give you my heart and my soul,\nI know that without God I’d never be whole,\n"
+          "Saviour, You opened all the right doors,\nAnd I thank You, and I praise You,\nfrom earth’s humble shores,\n"
+          "Take me, I’m Yours.")]
     )
   ];
 
