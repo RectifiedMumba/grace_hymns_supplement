@@ -9,6 +9,13 @@ class Song{
 
   Song({required this.title, required this.author, required this.verses}){
     count++;
-    this.title = "$count ${this.title}";
+    if(count < 216)
+      this.title = "$count ${this.title}";
+    else if(count == 216)
+      this.title = "${count}a ${this.title}";
+    else if(count == 217)
+    this.title = "${count}b ${this.title}";
+    else
+      this.title = "${count - 1} ${this.title}";
   }
 }
