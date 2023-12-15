@@ -9,7 +9,7 @@ class VerseTemplate extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     FontStyle verseStyle = verse.isChorus ? FontStyle.italic : FontStyle.normal;
-    FontWeight verseWeight = verse.isChorus ? FontWeight.w400 : FontWeight.w500;
+    //FontWeight verseWeight = verse.isChorus ? FontWeight.w400 : FontWeight.w400;
 
     return Padding(
       padding: EdgeInsets.fromLTRB(4, 1, 4, 10),
@@ -18,7 +18,7 @@ class VerseTemplate extends StatelessWidget {
         style: TextStyle(
           fontSize: 19,
           height: 1.2,
-          fontWeight: verseWeight,
+          fontWeight: FontWeight.w400,
           fontStyle: verseStyle,
           color: Colors.blue[900]
         ),

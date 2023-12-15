@@ -2462,15 +2462,6 @@ class _HomeState extends State<Home> {
           Verse(isChorus: false, lines: "Oh, for the floods on the thirsty land!\nOh, for a mighty revival!\n"
           "Oh, for a sanctified, fearless band,\nReady to hail its arrival.	")]
     ),
-    Song(title: "We are a Moment, You are Forever", author: "Lynn DeShazo & Gary Sadi",
-      verses: [
-          Verse(isChorus: false, lines: "We are a moment, You are forever,\nLord of the ages, God before time;\n"
-          "We are a vapour, You are eternal,\nLove everlasting, reigning on high."),
-          Verse(isChorus: true, lines: "Holy, holy Lord God Almighty,\nWorthy is the Lamb who was slain,\n"
-          "Highest praises honour and glory …\nBe unto Your name."),
-          Verse(isChorus: false, lines: "We are the broken, You are the healer,\nJesus, Redeemer, mighty to save;\n"
-          "You are the love song, we’ll sing forever,\nBowing before You, blessing Your name.")]
-    ),
     Song(title: "We are Moment, You are Forever", author: "Lynn DeShazo & Gary Sadi",
       verses: [
           Verse(isChorus: false, lines: "We are a moment, You are forever,\nLord of the ages, God before time;\n"
