@@ -1,5 +1,6 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
+import 'package:grace_hymns_supplement/pages/authors_list.dart';
 import 'package:grace_hymns_supplement/pages/search_song.dart';
 import '/song.dart';
 import '/songs_template.dart';
@@ -2808,9 +2809,16 @@ class _HomeState extends State<Home> {
         title: Text("Grace Hymns Supplement"),
         actions: [
           // add songs filtering action button
+          // list of instrumentals for hymns
+          IconButton(
+            onPressed: () {},
+            icon: Icon(Icons.music_note_rounded),
+          ),
           // to show list of authors and their songs per author
           IconButton(
-            onPressed: (){},
+            onPressed: (){
+              Navigator.pushNamed(context, "/authors", arguments: songs);
+            },
             icon: Icon(
               Icons.person
             )
