@@ -1,5 +1,6 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
+import 'package:grace_hymns_supplement/pages/search_song.dart';
 import '/song.dart';
 import '/songs_template.dart';
 import 'package:grace_hymns_supplement/verse.dart';
@@ -2793,18 +2794,47 @@ class _HomeState extends State<Home> {
     });
   }
 
+  // helper to fire up song search modal widget
+  void startTitleSearch(BuildContext context){
+    showModalBottomSheet(context: context, builder: (BuildContext ctx){
+      return SearchSong(toSong: toSong);
+    });
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      appBar: AppBar(
+        title: Text("Grace Hymns Supplement"),
+        actions: [
+          // add songs filtering action button
+          // to show list of authors and their songs per author
+          IconButton(
+            onPressed: (){},
+            icon: Icon(
+              Icons.person
+            )
+          )
+        ],
+      ),
       body: Padding(
         padding: const EdgeInsets.all(8.0),
         child: SafeArea(
           child: ListView.builder(
             itemCount: songs.length,
             itemBuilder: (context, index){
-              return SongsTemplate(song: songs[index], callback: toSong, context: context);
+                return SongsTemplate(song: songs[index], callback: toSong, context: context);
             },
-          )
+          ),
+        ),
+      ),
+      floatingActionButton: FloatingActionButton(
+        onPressed: () => startTitleSearch(context),
+        child: IconButton(
+          color: Colors.white,
+          icon: Icon(
+            Icons.search_rounded, color: Colors.white,),
+            onPressed: null,
         ),
       ),
     );
