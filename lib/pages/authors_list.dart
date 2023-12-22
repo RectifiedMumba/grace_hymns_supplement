@@ -30,7 +30,8 @@ class _AuthorsListState extends State<AuthorsList> {
           height: 30,
           child: Card(
             color: Colors.grey[200],
-            child: Text(authors[index], style: TextStyle(fontSize: 21),)
+            shadowColor: Theme.of(context).primaryColor,
+            child: Text(authors[index], style: TextStyle(fontSize: 21, color: Theme.of(context).textTheme.bodyMedium?.color),)
           ),
         );
       }),

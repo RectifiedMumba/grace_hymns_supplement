@@ -16,11 +16,11 @@ class VerseTemplate extends StatelessWidget {
       child: Text(
         verse.lines,
         style: TextStyle(
+          fontWeight: FontWeight.w600,
           fontSize: 19,
           height: 1.2,
-          fontWeight: FontWeight.w400,
           fontStyle: verseStyle,
-          color: Colors.blue[900]
+          color: Theme.of(context).textTheme.bodySmall?.color,
         ),
     ),
     );

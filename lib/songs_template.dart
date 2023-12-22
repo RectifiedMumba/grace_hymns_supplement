@@ -29,7 +29,8 @@ class SongsTemplate extends StatelessWidget {
               Text(
                 song.title,
                 style: TextStyle(
-                    fontSize: 19
+                  fontSize: 19,
+                  fontWeight: FontWeight.w600
                 ),
               ),
               SizedBox(height: 6),
@@ -37,7 +38,7 @@ class SongsTemplate extends StatelessWidget {
                 song.author,
                 style: TextStyle(
                     fontSize: 15.5,
-                    color: Colors.blue[800]
+                    color: Theme.of(context).textTheme.titleMedium?.color,
                 ),
               ),
               Divider(

@@ -7,6 +7,32 @@ import 'package:grace_hymns_supplement/pages/current_song.dart';
 void main() {
   runApp(
     MaterialApp(
+      theme: ThemeData(
+        fontFamily: "DMSans",
+        primarySwatch: Colors.blue,
+        textTheme: TextTheme(
+          bodyMedium: TextStyle(
+            color: Colors.black,
+          ),
+          bodySmall: TextStyle(
+            color: Colors.deepPurple,
+          ),
+          titleMedium: TextStyle(
+            color: Colors.purple,
+          )
+        ),
+        buttonTheme: ButtonThemeData(
+          buttonColor: Colors.purple,
+          focusColor: Colors.purpleAccent,
+        ),
+        appBarTheme: AppBarTheme(
+          titleTextStyle: TextStyle(
+            fontFamily: "Hedvig Letters Sans",
+            fontWeight: FontWeight.bold,
+            fontSize: 20,
+          )
+        )
+      ),
       initialRoute: "/",
       routes: {
         "/": (context) => Loading(),

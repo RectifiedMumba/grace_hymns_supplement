@@ -2837,6 +2837,7 @@ class _HomeState extends State<Home> {
         ),
       ),
       floatingActionButton: FloatingActionButton(
+        backgroundColor: Theme.of(context).buttonTheme.colorScheme?.background,
         onPressed: () => startTitleSearch(context),
         child: IconButton(
           color: Colors.white,
