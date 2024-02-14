@@ -23,28 +23,21 @@ class SongsTemplate extends StatelessWidget {
         child: Card(
           elevation: 0,
           margin: EdgeInsets.fromLTRB(0, 5, 0, 0),
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.stretch,
-            children: [
-              Text(
-                song.title,
-                style: TextStyle(
-                  fontSize: 19,
-                  fontWeight: FontWeight.w600
-                ),
+          child: ListTile(
+            title: Text(song.title, style: TextStyle(
+              color: Theme.of(context).textTheme.titleMedium?.color
+            )),
+            subtitle: Text(song.author, style: TextStyle(
+              color: Colors.grey
+            ),),
+            leading: CircleAvatar(
+              child: FittedBox(
+                fit: BoxFit.fill,
+                child: Text(song.songCount),
               ),
-              SizedBox(height: 6),
-              Text(
-                song.author,
-                style: TextStyle(
-                    fontSize: 15.5,
-                    color: Theme.of(context).textTheme.titleMedium?.color,
-                ),
-              ),
-              Divider(
-                height: 3,),
-            ],
-          ),
+              radius: 21,
+            ),
+          )
         ),
       ),
     );

@@ -5,17 +5,23 @@ class Song{
   String title;
   String author;
   static int count = 0;
+  String songCount = '';
   List<Verse> verses;
 
   Song({required this.title, required this.author, required this.verses}){
     count++;
+    setSongCount();
+  }
+
+  // returns display number of current song
+  void setSongCount(){
     if(count < 216)
-      this.title = "$count ${this.title}";
+      songCount = count.toString();
     else if(count == 216)
-      this.title = "${count}a ${this.title}";
+      songCount = "${count}a";
     else if(count == 217)
-    this.title = "${count}b ${this.title}";
+      songCount = "${count}b";
     else
-      this.title = "${count - 1} ${this.title}";
+      songCount = "${count - 1}";
   }
 }
