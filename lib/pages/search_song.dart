@@ -42,7 +42,7 @@ class _SearchSongState extends State<SearchSong> {
                     width: 300,
                     child: TextField(
                         keyboardType: TextInputType.text,
-                        decoration: InputDecoration(
+                        decoration: const InputDecoration(
                           labelText: "Enter title or author",
                         ),
                         onSubmitted: (_) {},

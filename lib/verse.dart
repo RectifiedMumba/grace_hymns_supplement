@@ -1,6 +1,6 @@
 class Verse{
-  bool isChorus;
-  String lines;
+  final bool isChorus;
+  final String lines;
 
   Verse({required this.isChorus, required this.lines});
 }

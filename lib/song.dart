@@ -2,11 +2,11 @@ import 'package:grace_hymns_supplement/pages/verse_template.dart';
 import 'package:grace_hymns_supplement/verse.dart';
 
 class Song{
-  String title;
-  String author;
+  final String title;
+  final String author;
   static int count = 0;
   String songCount = '';
-  List<Verse> verses;
+  final List<Verse> verses;
 
   Song({required this.title, required this.author, required this.verses}){
     // restart count if recount being done from the search feature

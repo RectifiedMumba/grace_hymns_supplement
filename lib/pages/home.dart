@@ -16,7 +16,7 @@ class Home extends StatefulWidget {
 
 class _HomeState extends State<Home> {
   // list of some songs
-  List<Song> songs = [
+  static List<Song> songs = [
     Song(title: "A Friend of Jesus", author: "J.C. Ludgate",
         verses: [
           Verse(isChorus: false, lines: "A friend of Jesus, Oh, what bliss\n"
