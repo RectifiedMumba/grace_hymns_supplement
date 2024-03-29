@@ -21,7 +21,7 @@ class _SearchSongState extends State<SearchSong> {
   void fetchSong(List<Song> songs){
     fetchedSongs.clear();
     for(int i = 0; i < songs.length; i++)
-      if(songs[i].title.contains(titleController.text.toString()))
+      if(songs[i].title.toLowerCase().contains(RegExp(titleController.text.toString().toLowerCase())))
         setState(() {
           fetchedSongs.add(songs[i]);
         });
@@ -50,7 +50,12 @@ class _SearchSongState extends State<SearchSong> {
                     ),
                   ),
                   IconButton(
-                      onPressed: () {},
+                      onPressed: () {
+                        // pass query to home page
+                        Navigator.pushReplacementNamed(context, "/home", arguments: {
+                          "query": titleController.text
+                        });
+                      },
                       icon: Icon(
                         Icons.search_sharp
                       )),

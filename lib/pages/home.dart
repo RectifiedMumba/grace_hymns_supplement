@@ -1,6 +1,7 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:grace_hymns_supplement/pages/authors_list.dart';
+import 'package:dot_cast/dot_cast.dart';
 import 'package:grace_hymns_supplement/pages/search_song.dart';
 import '/song.dart';
 import '/songs_template.dart';
@@ -2787,12 +2788,32 @@ class _HomeState extends State<Home> {
           "Take me, I’m Yours.")]
     )
   ];
+  // list of songs searched for
+  List<Song> searched = [];
+  // song title used as query
+  String? query = "A Friend of Jesus";
 
   // goes to view of selected song
   toSong(BuildContext context, Song song){
     Navigator.pushNamed(context, "/current", arguments: {
       "song": song
     });
+  }
+
+  // fetches queried songs
+  void fetchSongs(){
+    searched = songs;
+    if(query != null){
+      print(songs.length);
+      int? num = int.tryParse(query.toString());
+      if(num != null && (num >= 0 && num < songs.length))
+        searched.removeWhere((element) => element.songCount != num.toString());
+      else
+        searched.removeWhere((element) => element.title.toLowerCase().contains(RegExp(query.toString().toLowerCase())) == false);
+    }
+    else
+      // return all songs if none was searched for
+      searched = songs;
   }
 
   // helper to fire up song search modal widget
@@ -2804,6 +2825,13 @@ class _HomeState extends State<Home> {
 
   @override
   Widget build(BuildContext context) {
+    // get query previous query if any
+    Map<String, dynamic> data = cast<Map<String, String?>>(ModalRoute.of(context)?.settings.arguments);
+    query = data["query"];
+    print(query);
+
+    // fetch queried songs
+    fetchSongs();
     return Scaffold(
       appBar: AppBar(
         title: Text("Grace Hymns Supplement"),
@@ -2828,12 +2856,17 @@ class _HomeState extends State<Home> {
       body: Padding(
         padding: const EdgeInsets.all(8.0),
         child: SafeArea(
-          child: ListView.builder(
+          child: searched.isEmpty ? ListView.builder(
             itemCount: songs.length,
             itemBuilder: (context, index){
-                return SongsTemplate(song: songs[index], callback: toSong, context: context);
+              return SongsTemplate(song: songs[index], callback: toSong, context: context);
             },
-          ),
+          ) : ListView.builder(
+            itemCount: searched.length,
+            itemBuilder: (context, index){
+              return SongsTemplate(song: searched[index], callback: toSong, context: context);
+          },
+          )
         ),
       ),
       floatingActionButton: FloatingActionButton(

@@ -9,6 +9,9 @@ class Song{
   List<Verse> verses;
 
   Song({required this.title, required this.author, required this.verses}){
+    // restart count if recount being done from the search feature
+    if(count == 241)
+      count = 0;
     count++;
     setSongCount();
   }

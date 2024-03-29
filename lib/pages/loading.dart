@@ -23,7 +23,9 @@ class _LoadingState extends State<Loading> {
 
   setUp() async{
     await Future.delayed(Duration(seconds: 2));
-    Navigator.pushReplacementNamed(context, "/home");
+    Navigator.pushReplacementNamed(context, "/home", arguments: {
+      "query": null
+    });
   }
 
   @override
